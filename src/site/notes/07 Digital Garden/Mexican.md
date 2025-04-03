@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/mexican/"}
+{"dg-publish":true,"permalink":"/07-digital-garden/mexican/","updated":"2025-04-03T13:39:23.612-07:00"}
 ---
 
-## Backlinks
+
 
 | File                                                                                        | Date       |
 | ------------------------------------------------------------------------------------------- | ---------- |
