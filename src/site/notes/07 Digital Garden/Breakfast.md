@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/breakfast/"}
+{"dg-publish":true,"permalink":"/07-digital-garden/breakfast/","updated":"2025-04-03T08:43:02.469-07:00"}
 ---
 
 ## Backlinks

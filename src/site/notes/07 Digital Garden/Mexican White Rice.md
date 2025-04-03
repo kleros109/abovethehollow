@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/mexican-white-rice/","tags":["recipes"]}
+{"dg-publish":true,"permalink":"/07-digital-garden/mexican-white-rice/","tags":["recipes"],"updated":"2025-04-03T08:41:34.475-07:00"}
 ---
 
 ## Ingredients

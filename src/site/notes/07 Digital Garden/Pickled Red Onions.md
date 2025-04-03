@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/pickled-red-onions/","tags":["recipes"]}
+{"dg-publish":true,"permalink":"/07-digital-garden/pickled-red-onions/","tags":["recipes"],"updated":"2025-04-03T08:41:45.672-07:00"}
 ---
 
 ## Ingredients

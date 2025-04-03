@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/instant-pot-beans/","tags":["recipes"]}
+{"dg-publish":true,"permalink":"/07-digital-garden/instant-pot-beans/","tags":["recipes"],"updated":"2025-04-03T08:37:19.115-07:00"}
 ---
 
 ## Directions

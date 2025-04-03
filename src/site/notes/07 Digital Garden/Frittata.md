@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/frittata/","title":"How to Make a Frittata - Love and Lemons","tags":["clippings","recipes"]}
+{"dg-publish":true,"permalink":"/07-digital-garden/frittata/","title":"How to Make a Frittata - Love and Lemons","tags":["clippings","recipes"],"updated":"2025-04-03T08:45:36.959-07:00"}
 ---
 
 Learn how to make a frittata with this simple guide + 5 recipe variations! Perfect for any meal from brunch to dinner, they're easy and delicious.

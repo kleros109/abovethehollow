@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/shakshuka/","tags":["recipes"]}
+{"dg-publish":true,"permalink":"/07-digital-garden/shakshuka/","tags":["recipes"],"updated":"2025-04-03T08:42:31.203-07:00"}
 ---
 
 ## Ingredients

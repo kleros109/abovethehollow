@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/carnitas-pressure-cooker/","tags":["recipes"]}
+{"dg-publish":true,"permalink":"/07-digital-garden/carnitas-pressure-cooker/","tags":["recipes"],"updated":"2025-04-03T08:40:51.679-07:00"}
 ---
 
 * ## **Ingredients**

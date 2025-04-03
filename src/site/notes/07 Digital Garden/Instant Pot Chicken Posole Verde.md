@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/instant-pot-chicken-posole-verde/","tags":["recipes"]}
+{"dg-publish":true,"permalink":"/07-digital-garden/instant-pot-chicken-posole-verde/","tags":["recipes"],"updated":"2025-04-03T08:40:59.938-07:00"}
 ---
 
 [Link](https://blog.williams-sonoma.com/instant-pot-chicken-posole/)

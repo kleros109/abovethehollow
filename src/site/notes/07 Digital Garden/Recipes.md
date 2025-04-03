@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/recipes/"}
+{"dg-publish":true,"permalink":"/07-digital-garden/recipes/","updated":"2025-04-03T09:01:01.341-07:00"}
 ---
 
 
