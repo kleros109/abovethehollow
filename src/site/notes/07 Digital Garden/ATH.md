@@ -3,8 +3,9 @@
 ---
 
 
-| Note                                                                                          | Updated    |
-| --------------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Charles Mingus - In His Own Words\|Charles Mingus - In His Own Words]] | 2025-04-03 |
+| Note                                                                                | Updated    |
+| ----------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Charles Mingus on Creativity\|Charles Mingus on Creativity]] | 2025-04-03 |
+| [[07 Digital Garden/Sahil Bloom on Simple Habits\|Sahil Bloom on Simple Habits]] | 2025-04-03 |
 
 { .block-language-dataview}
