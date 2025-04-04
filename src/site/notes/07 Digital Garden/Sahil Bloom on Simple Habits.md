@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/sahil-bloom-on-simple-habits/","tags":["readwise","ath"],"updated":"2025-04-03T17:27:48.385-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/sahil-bloom-on-simple-habits/","tags":["readwise","ath"],"updated":"2025-04-03T19:00:47.651-07:00"}
 ---
 
 # 4 Tiny Habits That Dramatically Improved My Weeks
 
-!
+
 ![Pasted image 20250403172625.png](/img/user/06%20Utilities/Attachments/Pasted%20image%2020250403172625.png)
 ## Summary
 Sahil Bloom shares four simple habits that can improve your weekly productivity and well-being. These include defining what a "win" looks like, being aware of your energy levels, setting aside time for administrative tasks, and dedicating 30 minutes daily to work on your future vision. By implementing these small changes consistently, you can create significant positive transformations in your life.
