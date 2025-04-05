@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-05T11:06:22.688-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-05T11:14:08.075-07:00"}
 ---
 
-![Revue Banner.jpg](/img/user/06%20Utilities/Attachments/Revue%20Banner.jpg)
+![Revue Banner.jpg|1200x300](/img/user/06%20Utilities/Attachments/Revue%20Banner.jpg)
 
 This is the home page for my [digital garden](https://cagrimmett.com/ideas/2020/11/08/what-are-digital-gardens/). Follow the links below for more information.
 
