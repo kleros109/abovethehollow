@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-05T11:14:08.075-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-05T11:15:42.245-07:00"}
 ---
 
 ![Revue Banner.jpg|1200x300](/img/user/06%20Utilities/Attachments/Revue%20Banner.jpg)
@@ -19,4 +19,4 @@ This is the home page for my [digital garden](https://cagrimmett.com/ideas/2020/
 ---
 ## Tags
 
-#careers #investing #recipes #ath #readwise #philosophy 
+#ath #careers #investing #philosophy #quotes #readwise #recipes 
