@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-05T11:18:16.256-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-05T11:21:22.532-07:00"}
 ---
 
 ![Revue Banner.jpg|1000x250](/img/user/06%20Utilities/Attachments/Revue%20Banner.jpg)
