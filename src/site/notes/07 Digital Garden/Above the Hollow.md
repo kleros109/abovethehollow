@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-05T13:51:34.840-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-05T14:23:17.266-07:00"}
 ---
 
 ![Revue Banner.png](/img/user/06%20Utilities/Attachments/Revue%20Banner.png)
@@ -9,12 +9,12 @@ This is my [digital garden](https://cagrimmett.com/ideas/2020/11/08/what-are-dig
 ---
 ## Topics
 
+The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in my family group chat. These notes and others have been categorized into topics below:
+
 - [[07 Digital Garden/Advice\|Advice]]
-- [[07 Digital Garden/ATH\|ATH]]
 - [[07 Digital Garden/Careers\|Careers]]
 - [[07 Digital Garden/Changelog\|Changelog]]
 - [[07 Digital Garden/Investing\|Investing]]
-- [Newsletter](https://abovethehollow.beehiiv.com/)
 - [[07 Digital Garden/Philosophy\|Philosophy]]
 - [[07 Digital Garden/Recipes\|Recipes]]
 
@@ -32,6 +32,9 @@ This is my [digital garden](https://cagrimmett.com/ideas/2020/11/08/what-are-dig
 - [[07 Digital Garden/Investing in your future\|Investing in your future]]
 
 { .block-language-dataview}
+
+Recent changes to the digital garden can be seen in the [[07 Digital Garden/Changelog\|Changelog]]. An archive of my [newsletter](https://abovethehollow.beehiiv.com/) is also available.
+
 
 ---
 ## Tags
