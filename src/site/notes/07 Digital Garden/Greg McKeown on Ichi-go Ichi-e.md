@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/greg-mc-keown-on-ichi-go-ichi-e/","tags":["readwise","ath"],"updated":"2025-04-03T20:03:17.303-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/greg-mc-keown-on-ichi-go-ichi-e/","tags":["readwise","ath"],"updated":"2025-04-04T21:09:58.778-07:00"}
 ---
 
 ## Summary
 The text discusses the concept of "Ichi-go ichi-e," a Japanese phrase meaning "for this time only," emphasizing the importance of cherishing each moment as a once-in-a-lifetime occurrence. Living with this mindset can lead to deeper interactions and sweeter moments, reminding us to slow down and appreciate the present. The text also mentions a conversation with researcher Leidy Klotz about the benefits of embracing simplicity and subtraction for improvement and innovation.
 
 ## Highlights
-### id871681667
 
 > Ichi-go ichi-e
 > How many moments do we miss?
