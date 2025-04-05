@@ -6,7 +6,8 @@
 
 | Note                                                                                                                | Updated    |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Business Writing 101\|Business Writing 101]]                                                 | 2025-04-05 |
+| [[07 Digital Garden/Write an Incredible Resume\|Write an Incredible Resume]]                                     | 2025-04-05 |
 | [[07 Digital Garden/Here's the BIGGEST Mistake Found on Resumes!\|Here's the BIGGEST Mistake Found on Resumes!]] | 2025-04-03 |
-| [[07 Digital Garden/Write an Incredible Resume\|Write an Incredible Resume]]                                     | 2025-04-03 |
 
 { .block-language-dataview}
