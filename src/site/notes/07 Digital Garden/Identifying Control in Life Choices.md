@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/identifying-control-in-life-choices/","tags":["quotes","philosophy","ath"],"updated":"2025-04-05T11:32:20.020-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/identifying-control-in-life-choices/","tags":["quotes","philosophy","ath"],"updated":"2025-04-05T11:32:30.466-07:00"}
 ---
 
 ## Transcript
