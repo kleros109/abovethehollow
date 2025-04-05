@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/greg-mc-keown-on-ichi-go-ichi-e/","tags":["readwise","ath"],"updated":"2025-04-04T21:09:58.778-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/greg-mc-keown-on-ichi-go-ichi-e/","tags":["readwise","ath","philosophy"],"updated":"2025-04-05T09:53:22.913-07:00"}
 ---
 
 ## Summary
