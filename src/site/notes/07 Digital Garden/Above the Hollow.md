@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-03T20:03:48.688-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-05T10:05:01.042-07:00"}
 ---
 
 This is the home page for my [digital garden](https://cagrimmett.com/ideas/2020/11/08/what-are-digital-gardens/). Follow the links below for more information.
@@ -17,4 +17,4 @@ This is the home page for my [digital garden](https://cagrimmett.com/ideas/2020/
 ---
 ## Tags
 
-#careers #investing #recipes #ath #readwise 
+#careers #investing #recipes #ath #readwise #philosophy 
