@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-06T15:06:16.326-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-06T15:46:17.311-07:00"}
 ---
 
 ![Revue Banner.png](/img/user/06%20Utilities/Attachments/Revue%20Banner.png)
@@ -22,20 +22,22 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in m
 
 ---
 ## Recent Notes
-- [[07 Digital Garden/AI\|AI]]
-- [[07 Digital Garden/Productivity\|Productivity]]
+
+Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
 - [[07 Digital Garden/Effective text prompts for video generation\|Effective text prompts for video generation]]
-- [[07 Digital Garden/ATH Newsletter\|ATH Newsletter]]
-- [[07 Digital Garden/Quotes\|Quotes]]
-- [[07 Digital Garden/Selling is the crucial skill nobody taught you\|Selling is the crucial skill nobody taught you]]
-- [[07 Digital Garden/changelog\|changelog]]
-- [[07 Digital Garden/Most are neither for you nor against you\|Most are neither for you nor against you]]
-- [[07 Digital Garden/ATH\|ATH]]
-- [[07 Digital Garden/Advice\|Advice]]
+- [[07 Digital Garden/Steven Covey's Roles and Goals Approach\|Steven Covey's Roles and Goals Approach]]
+- [[07 Digital Garden/Productivity\|Productivity]]
+- [[07 Digital Garden/Sonnet Productivity System\|Sonnet Productivity System]]
+- [[07 Digital Garden/Integrated Productivity System\|Integrated Productivity System]]
+- [[07 Digital Garden/Stephen Covey's Urgent-Important Matrix\|Stephen Covey's Urgent-Important Matrix]]
+- [[07 Digital Garden/Career Advice from Msty\|Career Advice from Msty]]
+- [[07 Digital Garden/Claude prompts to validate business ideas\|Claude prompts to validate business ideas]]
+- [[07 Digital Garden/Lesson Plan Prompt\|Lesson Plan Prompt]]
+- [[07 Digital Garden/Interactive Lecture Prompt\|Interactive Lecture Prompt]]
 
 { .block-language-dataview}
 
-Recent changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]]. An archive of my  [[07 Digital Garden/ATH Newsletter\|ATH Newsletter]] is also available [here](https://abovethehollow.beehiiv.com/)
+An archive of my  [[07 Digital Garden/ATH Newsletter\|ATH Newsletter]] is also available [here](https://abovethehollow.beehiiv.com/)
 
 ---
 ## Tags
