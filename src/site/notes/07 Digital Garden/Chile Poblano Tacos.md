@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/chile-poblano-tacos/","tags":["recipes"],"updated":"2025-04-06T13:47:14.849-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/chile-poblano-tacos/","tags":["recipes"],"updated":"2025-04-06T13:49:06.774-07:00"}
 ---
 
-
-
-![(https://youtu.be/YtkyC2Ctz6E/0.jpg)](https://youtu.be/YtkyC2Ctz6E)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YtkyC2Ctz6E?si=QMnMzLTVAfVBr-9d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Ingredients:
 
