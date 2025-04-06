@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/chile-poblano-tacos/","tags":["recipes"],"updated":"2025-04-06T13:49:06.774-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/chile-poblano-tacos/","tags":["recipes"],"updated":"2025-04-06T13:51:20.728-07:00"}
 ---
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YtkyC2Ctz6E?si=QMnMzLTVAfVBr-9d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -23,7 +24,7 @@
 6. Portion the filling onto a warm corn tortilla.
 7. Add optional toppings like hot sauce, pickled onions, or fresh salsa.
 
-**Optional Addition of Meat:**
+### Optional Addition of Meat:
 
 1. Marinate sliced stew meat with mayonnaise, lime zest, lime juice, chili powder, garlic powder, cumin, and salt.
 2. Brown the marinated meat on a hot griddle.
