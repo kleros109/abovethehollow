@@ -7,6 +7,8 @@ Here is a list of my frequently used recipes.
 
 | Recipe                                                                                      | Cuisine                                       |
 | ------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [[07 Digital Garden/Chile Poblano Tacos\|Chile Poblano Tacos]]                           | [[07 Digital Garden/Mexican\|Mexican]]     |
+| [[07 Digital Garden/Pasta all’Amatriciana\|Pasta all’Amatriciana]]                       | [[07 Digital Garden/Italian\|Italian]]     |
 | [[07 Digital Garden/Beef Ragu\|Beef Ragu]]                                               | [[07 Digital Garden/Italian\|Italian]]     |
 | [[07 Digital Garden/Frittata\|Frittata]]                                                 | [[07 Digital Garden/Breakfast\|Breakfast]] |
 | [[07 Digital Garden/Carnitas Pressure Cooker\|Carnitas Pressure Cooker]]                 | [[07 Digital Garden/Mexican\|Mexican]]     |

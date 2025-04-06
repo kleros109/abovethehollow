@@ -19,6 +19,8 @@
 | [[07 Digital Garden/ATH Newsletter\|ATH Newsletter]]                                                                 | 2025-04-05 |
 | [[07 Digital Garden/Above the Hollow 43\|Above the Hollow 43]]                                                       | 2025-04-05 |
 | [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                       | 2025-04-05 |
+| [[07 Digital Garden/Pasta all’Amatriciana\|Pasta all’Amatriciana]]                                                   | 2025-04-05 |
+| [[07 Digital Garden/Reliability impacts opportunity\|Reliability impacts opportunity]]                               | 2025-04-05 |
 | [[07 Digital Garden/Jawad Mian - Stay Human\|Jawad Mian - Stay Human]]                                               | 2025-04-03 |
 | [[07 Digital Garden/Sahil Bloom on Simple Habits\|Sahil Bloom on Simple Habits]]                                     | 2025-04-03 |
 

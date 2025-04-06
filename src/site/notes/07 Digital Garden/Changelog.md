@@ -23,10 +23,12 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/Viktor Frankel on Success\|Viktor Frankel on Success]]                                           | 2025-04-02 |
 | [[07 Digital Garden/Herbert Lui - Make a Map of Memories\|Herbert Lui - Make a Map of Memories]]                     | 2025-03-31 |
 | [[07 Digital Garden/Jawad Mian - Stay Human\|Jawad Mian - Stay Human]]                                               | 2025-03-30 |
+| [[07 Digital Garden/Pasta all’Amatriciana\|Pasta all’Amatriciana]]                                                   | 2025-03-30 |
 | [[07 Digital Garden/Charles Mingus on Creativity\|Charles Mingus on Creativity]]                                     | 2025-03-28 |
 | [[07 Digital Garden/Breakfast\|Breakfast]]                                                                           | 2025-03-22 |
 | [[07 Digital Garden/A brief guide to leadership\|A brief guide to leadership]]                                       | 2025-02-02 |
 | [[07 Digital Garden/Frittata\|Frittata]]                                                                             | 2025-02-01 |
+| [[07 Digital Garden/Reliability impacts opportunity\|Reliability impacts opportunity]]                               | 2025-01-20 |
 | [[07 Digital Garden/Identifying Control in Life Choices\|Identifying Control in Life Choices]]                       | 2024-12-29 |
 | [[07 Digital Garden/Shane Parrish on Mastery\|Shane Parrish on Mastery]]                                             | 2024-11-03 |
 | [[07 Digital Garden/Sahil Bloom on Simple Habits\|Sahil Bloom on Simple Habits]]                                     | 2024-11-01 |
@@ -35,6 +37,7 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/Shakshuka\|Shakshuka]]                                                                           | 2024-06-28 |
 | [[07 Digital Garden/Mexican White Rice\|Mexican White Rice]]                                                         | 2024-06-27 |
 | [[07 Digital Garden/Carnitas Pressure Cooker\|Carnitas Pressure Cooker]]                                             | 2024-06-22 |
+| [[07 Digital Garden/Chile Poblano Tacos\|Chile Poblano Tacos]]                                                       | 2024-06-12 |
 | [[07 Digital Garden/Beef Ragu\|Beef Ragu]]                                                                           | 2024-03-29 |
 | [[07 Digital Garden/Business Writing 101\|Business Writing 101]]                                                     | 2024-03-16 |
 | [[07 Digital Garden/Here's the BIGGEST Mistake Found on Resumes!\|Here's the BIGGEST Mistake Found on Resumes!]]     | 2024-03-08 |
