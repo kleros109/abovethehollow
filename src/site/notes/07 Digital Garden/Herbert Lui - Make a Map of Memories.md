@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/herbert-lui-make-a-map-of-memories/","tags":["readwise","ath/published"],"updated":"2025-04-03T20:24:15.456-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/herbert-lui-make-a-map-of-memories/","tags":["readwise","ath"],"updated":"2025-04-05T14:37:08.846-07:00"}
 ---
 
 URL: https://herbertlui.net/make-a-map-of-memories/

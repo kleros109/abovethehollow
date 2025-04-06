@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/most-are-neither-for-you-nor-against-you/","tags":["ath","quotes"],"updated":"2025-04-05T12:31:49.781-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/most-are-neither-for-you-nor-against-you/","tags":["ath","quotes","advice"],"updated":"2025-04-05T14:35:26.368-07:00"}
 ---
 
 

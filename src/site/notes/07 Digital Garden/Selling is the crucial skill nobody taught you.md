@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/selling-is-the-crucial-skill-nobody-taught-you/","tags":["readwise","advice","ath"],"updated":"2025-04-05T12:58:11.097-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/selling-is-the-crucial-skill-nobody-taught-you/","tags":["readwise","advice","ath"],"updated":"2025-04-05T14:35:06.064-07:00"}
 ---
 
 URL: https://fs.blog/joe-girard/

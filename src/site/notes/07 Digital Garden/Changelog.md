@@ -7,6 +7,8 @@ Here is a list of the 50 most recent changes to the garden.
 | File                                                                                                                    | Created    |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[07 Digital Garden/Selling is the crucial skill nobody taught you\|Selling is the crucial skill nobody taught you]] | 2025-04-05 |
+| [[07 Digital Garden/Quotes\|Quotes]]                                                                                 | 2025-04-05 |
+| [[07 Digital Garden/ATH Newsletter\|ATH Newsletter]]                                                                 | 2025-04-05 |
 | [[07 Digital Garden/Most are neither for you nor against you\|Most are neither for you nor against you]]             | 2025-04-04 |
 | [[07 Digital Garden/Advice\|Advice]]                                                                                 | 2025-04-03 |
 | [[07 Digital Garden/ATH\|ATH]]                                                                                       | 2025-04-03 |
@@ -23,10 +25,12 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/Jawad Mian - Stay Human\|Jawad Mian - Stay Human]]                                               | 2025-03-30 |
 | [[07 Digital Garden/Charles Mingus on Creativity\|Charles Mingus on Creativity]]                                     | 2025-03-28 |
 | [[07 Digital Garden/Breakfast\|Breakfast]]                                                                           | 2025-03-22 |
+| [[07 Digital Garden/A brief guide to leadership\|A brief guide to leadership]]                                       | 2025-02-02 |
 | [[07 Digital Garden/Frittata\|Frittata]]                                                                             | 2025-02-01 |
 | [[07 Digital Garden/Identifying Control in Life Choices\|Identifying Control in Life Choices]]                       | 2024-12-29 |
 | [[07 Digital Garden/Shane Parrish on Mastery\|Shane Parrish on Mastery]]                                             | 2024-11-03 |
 | [[07 Digital Garden/Sahil Bloom on Simple Habits\|Sahil Bloom on Simple Habits]]                                     | 2024-11-01 |
+| [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                       | 2024-10-29 |
 | [[07 Digital Garden/Instant Pot Beans\|Instant Pot Beans]]                                                           | 2024-06-30 |
 | [[07 Digital Garden/Shakshuka\|Shakshuka]]                                                                           | 2024-06-28 |
 | [[07 Digital Garden/Mexican White Rice\|Mexican White Rice]]                                                         | 2024-06-27 |
@@ -36,6 +40,7 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/Here's the BIGGEST Mistake Found on Resumes!\|Here's the BIGGEST Mistake Found on Resumes!]]     | 2024-03-08 |
 | [[07 Digital Garden/Write an Incredible Resume\|Write an Incredible Resume]]                                         | 2024-03-08 |
 | [[07 Digital Garden/Quality Investing\|Quality Investing]]                                                           | 2024-02-23 |
+| [[07 Digital Garden/Above the Hollow 43\|Above the Hollow 43]]                                                       | 2024-01-13 |
 | [[07 Digital Garden/Instant Pot Chicken Posole Verde\|Instant Pot Chicken Posole Verde]]                             | 2024-01-07 |
 | [[07 Digital Garden/Macro Investing Resources\|Macro Investing Resources]]                                           | 2023-12-02 |
 | [[07 Digital Garden/Investing Resources\|Investing Resources]]                                                       | 2023-11-05 |
