@@ -1,19 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/quotes/","updated":"2025-04-06T21:28:20.983-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/quotes/","updated":"2025-04-08T08:26:39.338-07:00"}
 ---
 
 
-| Note                                                                                                                                        | Updated    |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Great decisions come from good processes\|Great decisions come from good processes]]                                 | 2025-04-07 |
-| [[07 Digital Garden/The most powerful person in the world is the storyteller\|The most powerful person in the world is the storyteller]] | 2025-04-07 |
-| [[07 Digital Garden/Questioning assumptions\|Questioning assumptions]]                                                                   | 2025-04-07 |
-| [[07 Digital Garden/Age and wisdom\|Age and wisdom]]                                                                                     | 2025-04-07 |
-| [[07 Digital Garden/Knowledge can close you mind\|Knowledge can close you mind]]                                                         | 2025-04-07 |
-| [[07 Digital Garden/Don't waste today\|Don't waste today]]                                                                               | 2025-04-06 |
-| [[07 Digital Garden/Anne Lamont on good relationships\|Anne Lamont on good relationships]]                                               | 2025-04-06 |
-| [[07 Digital Garden/Most are neither for you nor against you\|Most are neither for you nor against you]]                                 | 2025-04-05 |
-| [[07 Digital Garden/Identifying control in life choices\|Identifying control in life choices]]                                           | 2025-04-05 |
+| Note                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                     |
+| [[07 Digital Garden/Great decisions come from good processes\|Great decisions come from good processes]]                                 |
+| [[07 Digital Garden/The most powerful person in the world is the storyteller\|The most powerful person in the world is the storyteller]] |
+| [[07 Digital Garden/Questioning assumptions\|Questioning assumptions]]                                                                   |
+| [[07 Digital Garden/Age and wisdom\|Age and wisdom]]                                                                                     |
+| [[07 Digital Garden/Knowledge can close you mind\|Knowledge can close you mind]]                                                         |
+| [[07 Digital Garden/Don't waste today\|Don't waste today]]                                                                               |
+| [[07 Digital Garden/Anne Lamont on good relationships\|Anne Lamont on good relationships]]                                               |
+| [[07 Digital Garden/Most are neither for you nor against you\|Most are neither for you nor against you]]                                 |
+| [[07 Digital Garden/Identifying control in life choices\|Identifying control in life choices]]                                           |
 
 { .block-language-dataview}
 

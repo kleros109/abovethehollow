@@ -26,16 +26,16 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in m
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
-- [[07 Digital Garden/Avoid losing before you can win\|Avoid losing before you can win]]
-- [[07 Digital Garden/The salvation of man is through love and in love\|The salvation of man is through love and in love]]
+- [[07 Digital Garden/Philosophy\|Philosophy]]
+- [[07 Digital Garden/Investing\|Investing]]
+- [[07 Digital Garden/Culinary\|Culinary]]
+- [[07 Digital Garden/Careers\|Careers]]
+- [[07 Digital Garden/Quotes\|Quotes]]
+- [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]
+- [[07 Digital Garden/AI\|AI]]
+- [[07 Digital Garden/Advice\|Advice]]
+- [[07 Digital Garden/Productivity\|Productivity]]
 - [[07 Digital Garden/Evergreen\|Evergreen]]
-- [[07 Digital Garden/Greg McKeown on Ichi-go Ichi-e\|Greg McKeown on Ichi-go Ichi-e]]
-- [[07 Digital Garden/Each moment is a once in a lifetime occurence\|Each moment is a once in a lifetime occurence]]
-- [[07 Digital Garden/Digital Gardens\|Digital Gardens]]
-- [[07 Digital Garden/Building trust quickly is a superpower\|Building trust quickly is a superpower]]
-- [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]]
-- [[07 Digital Garden/Demographics will reverse major global trends\|Demographics will reverse major global trends]]
-- [[07 Digital Garden/Concise explanations accelerate progress\|Concise explanations accelerate progress]]
 
 { .block-language-dataview}
 

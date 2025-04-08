@@ -5,6 +5,7 @@
 
 | Note                                                                                                                                        | Updated    |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                     | 2025-04-08 |
 | [[07 Digital Garden/Above the Hollow 43\|Above the Hollow 43]]                                                                           | 2025-04-07 |
 | [[07 Digital Garden/Greg McKeown on Ichi-go Ichi-e\|Greg McKeown on Ichi-go Ichi-e]]                                                     | 2025-04-07 |
 | [[07 Digital Garden/Reliability impacts opportunity\|Reliability impacts opportunity]]                                                   | 2025-04-07 |

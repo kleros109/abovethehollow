@@ -6,6 +6,7 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                    | Created    |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                 | 2025-04-08 |
 | [[07 Digital Garden/Age and wisdom\|Age and wisdom]]                                                                 | 2025-04-07 |
 | [[07 Digital Garden/Digital Gardens\|Digital Gardens]]                                                               | 2025-04-07 |
 | [[07 Digital Garden/Each moment is a once in a lifetime occurence\|Each moment is a once in a lifetime occurence]]   | 2025-04-07 |
@@ -55,6 +56,5 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/Consider the outside point of view\|Consider the outside point of view]]                         | 2025-02-02 |
 | [[07 Digital Garden/Frittata\|Frittata]]                                                                             | 2025-02-01 |
 | [[07 Digital Garden/Reliability impacts opportunity\|Reliability impacts opportunity]]                               | 2025-01-20 |
-| [[07 Digital Garden/Anatomy of an 01 Prompt\|Anatomy of an 01 Prompt]]                                               | 2025-01-12 |
 
 { .block-language-dataview}
