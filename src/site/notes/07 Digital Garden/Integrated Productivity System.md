@@ -62,7 +62,7 @@ This system is built around three fundamental principles:
    - Update task lists
    - Reflect on progress toward quarterly goals
    - Plan the coming week
-   - Review [[02 Notes/Weekly Review from Ross Harkness\|Weekly Review from Ross Harkness]]
+   - Review [[07 Digital Garden/Weekly Review from Ross Harkness\|Weekly Review from Ross Harkness]]
 
 ### Digital Setup
 

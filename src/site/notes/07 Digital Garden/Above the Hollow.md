@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-06T15:46:17.311-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-07T07:05:10.091-07:00"}
 ---
 
 ![Revue Banner.png](/img/user/06%20Utilities/Attachments/Revue%20Banner.png)
@@ -14,6 +14,8 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in m
 - [[07 Digital Garden/Advice\|Advice]]
 - [[07 Digital Garden/AI\|AI]]
 - [[07 Digital Garden/Careers\|Careers]]
+- [[07 Digital Garden/Culinary\|Culinary]]
+- [[07 Digital Garden/Evergreen\|Evergreen]]
 - [[07 Digital Garden/Investing\|Investing]]
 - [[07 Digital Garden/Philosophy\|Philosophy]]
 - [[07 Digital Garden/Productivity\|Productivity]]
@@ -24,16 +26,16 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in m
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
-- [[07 Digital Garden/Effective text prompts for video generation\|Effective text prompts for video generation]]
-- [[07 Digital Garden/Steven Covey's Roles and Goals Approach\|Steven Covey's Roles and Goals Approach]]
-- [[07 Digital Garden/Productivity\|Productivity]]
-- [[07 Digital Garden/Sonnet Productivity System\|Sonnet Productivity System]]
-- [[07 Digital Garden/Integrated Productivity System\|Integrated Productivity System]]
-- [[07 Digital Garden/Stephen Covey's Urgent-Important Matrix\|Stephen Covey's Urgent-Important Matrix]]
-- [[07 Digital Garden/Career Advice from Msty\|Career Advice from Msty]]
-- [[07 Digital Garden/Claude prompts to validate business ideas\|Claude prompts to validate business ideas]]
-- [[07 Digital Garden/Lesson Plan Prompt\|Lesson Plan Prompt]]
-- [[07 Digital Garden/Interactive Lecture Prompt\|Interactive Lecture Prompt]]
+- [[07 Digital Garden/Evergreen\|Evergreen]]
+- [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]]
+- [[07 Digital Garden/Demographics will reverse major global trends\|Demographics will reverse major global trends]]
+- [[07 Digital Garden/Building trust quickly is a superpower\|Building trust quickly is a superpower]]
+- [[07 Digital Garden/Concise explanations accelerate progress\|Concise explanations accelerate progress]]
+- [[07 Digital Garden/Anomalies as a source of new ideas\|Anomalies as a source of new ideas]]
+- [[07 Digital Garden/Mise en place is a foundation of organization\|Mise en place is a foundation of organization]]
+- [[07 Digital Garden/Do the work to get the results\|Do the work to get the results]]
+- [[07 Digital Garden/Avoid losing before you can win\|Avoid losing before you can win]]
+- [[07 Digital Garden/Cooking is an antidote to the problems of modernity\|Cooking is an antidote to the problems of modernity]]
 
 { .block-language-dataview}
 
@@ -42,4 +44,4 @@ An archive of my  [[07 Digital Garden/ATH Newsletter\|ATH Newsletter]] is also a
 ---
 ## Tags
 
- #advice #ai #advice #careers  #investing #philosophy #productivity #quotes #readwise #recipes 
+ #advice #ai #careers #culinary #evergreen  #investing #philosophy #productivity #quotes #readwise #recipes 

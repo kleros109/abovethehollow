@@ -5,7 +5,7 @@
 
 | Note                                                                                                                    | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Reliability impacts opportunity\|Reliability impacts opportunity]]                               | 2025-04-05 |
+| [[07 Digital Garden/Having a hobby mindset\|Having a hobby mindset]]                                                 | 2025-04-07 |
 | [[07 Digital Garden/A brief guide to leadership\|A brief guide to leadership]]                                       | 2025-04-05 |
 | [[07 Digital Garden/Investing in your future\|Investing in your future]]                                             | 2025-04-05 |
 | [[07 Digital Garden/Shane Parrish on Mastery\|Shane Parrish on Mastery]]                                             | 2025-04-05 |

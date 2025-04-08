@@ -5,6 +5,7 @@
 
 | Note                                                                          | Updated    |
 | ----------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Stock Analysis\|Stock Analysis]]                       | 2025-04-06 |
 | [[07 Digital Garden/Investing Resources\|Investing Resources]]             | 2025-04-05 |
 | [[07 Digital Garden/Macro Investing Resources\|Macro Investing Resources]] | 2025-04-05 |
 | [[07 Digital Garden/Quality Investing\|Quality Investing]]                 | 2025-04-05 |

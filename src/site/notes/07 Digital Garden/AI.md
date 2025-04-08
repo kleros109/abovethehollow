@@ -5,6 +5,9 @@
  
 | Note                                                                                                              | Updated    |
 | ----------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Claude Sentience System Prompt\|Claude Sentience System Prompt]]                           | 2025-04-06 |
+| [[07 Digital Garden/Cursor Rules for AI\|Cursor Rules for AI]]                                                 | 2025-04-06 |
+| [[07 Digital Garden/Voicenotes AI Prompts\|Voicenotes AI Prompts]]                                             | 2025-04-06 |
 | [[07 Digital Garden/Effective text prompts for video generation\|Effective text prompts for video generation]] | 2025-04-06 |
 | [[07 Digital Garden/Claude prompts to validate business ideas\|Claude prompts to validate business ideas]]     | 2025-04-06 |
 | [[07 Digital Garden/Lesson Plan Prompt\|Lesson Plan Prompt]]                                                   | 2025-04-06 |
@@ -20,6 +23,5 @@
 | [[07 Digital Garden/Anatomy of an 01 Prompt\|Anatomy of an 01 Prompt]]                                         | 2025-04-06 |
 | [[07 Digital Garden/Expand Interestingly Prompt\|Expand Interestingly Prompt]]                                 | 2025-04-06 |
 | [[07 Digital Garden/CIA Investigator Prompt\|CIA Investigator Prompt]]                                         | 2025-04-06 |
-| [[07 Digital Garden/Voicenotes AI Prompts\|Voicenotes AI Prompts]]                                             | 2025-04-06 |
 
 { .block-language-dataview}
