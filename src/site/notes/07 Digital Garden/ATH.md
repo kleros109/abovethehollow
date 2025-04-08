@@ -6,6 +6,7 @@
 | Note                                                                                                                                        | Updated    |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[07 Digital Garden/Above the Hollow 43\|Above the Hollow 43]]                                                                           | 2025-04-07 |
+| [[07 Digital Garden/Greg McKeown on Ichi-go Ichi-e\|Greg McKeown on Ichi-go Ichi-e]]                                                     | 2025-04-07 |
 | [[07 Digital Garden/Reliability impacts opportunity\|Reliability impacts opportunity]]                                                   | 2025-04-07 |
 | [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]] | 2025-04-07 |
 | [[07 Digital Garden/Making mistakes is the privilege of the active\|Making mistakes is the privilege of the active]]                     | 2025-04-07 |
@@ -23,6 +24,7 @@
 | [[07 Digital Garden/Anomalies as a source of new ideas\|Anomalies as a source of new ideas]]                                             | 2025-04-07 |
 | [[07 Digital Garden/Concise explanations accelerate progress\|Concise explanations accelerate progress]]                                 | 2025-04-07 |
 | [[07 Digital Garden/Building trust quickly is a superpower\|Building trust quickly is a superpower]]                                     | 2025-04-07 |
+| [[07 Digital Garden/Each moment is a once in a lifetime occurence\|Each moment is a once in a lifetime occurence]]                       | 2025-04-07 |
 | [[07 Digital Garden/Career Advice from Msty\|Career Advice from Msty]]                                                                   | 2025-04-06 |
 | [[07 Digital Garden/First Therapy Chatbot Trial\|First Therapy Chatbot Trial]]                                                           | 2025-04-06 |
 | [[07 Digital Garden/Don't waste today\|Don't waste today]]                                                                               | 2025-04-06 |
@@ -33,7 +35,6 @@
 | [[07 Digital Garden/Business Writing 101\|Business Writing 101]]                                                                         | 2025-04-05 |
 | [[07 Digital Garden/Charles Mingus on Creativity\|Charles Mingus on Creativity]]                                                         | 2025-04-05 |
 | [[07 Digital Garden/Herbert Lui - Make a Map of Memories\|Herbert Lui - Make a Map of Memories]]                                         | 2025-04-05 |
-| [[07 Digital Garden/Greg McKeown on Ichi-go Ichi-e\|Greg McKeown on Ichi-go Ichi-e]]                                                     | 2025-04-05 |
 | [[07 Digital Garden/Investing in your future\|Investing in your future]]                                                                 | 2025-04-05 |
 | [[07 Digital Garden/Most are neither for you nor against you\|Most are neither for you nor against you]]                                 | 2025-04-05 |
 | [[07 Digital Garden/Pasta all’Amatriciana\|Pasta all’Amatriciana]]                                                                       | 2025-04-05 |

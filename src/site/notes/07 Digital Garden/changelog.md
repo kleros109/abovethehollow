@@ -7,6 +7,8 @@ Here is a list of the 50 most recent changes to the garden.
 | File                                                                                                                    | Created    |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[07 Digital Garden/Age and wisdom\|Age and wisdom]]                                                                 | 2025-04-07 |
+| [[07 Digital Garden/Digital Gardens\|Digital Gardens]]                                                               | 2025-04-07 |
+| [[07 Digital Garden/Each moment is a once in a lifetime occurence\|Each moment is a once in a lifetime occurence]]   | 2025-04-07 |
 | [[07 Digital Garden/AI\|AI]]                                                                                         | 2025-04-06 |
 | [[07 Digital Garden/Effective text prompts for video generation\|Effective text prompts for video generation]]       | 2025-04-06 |
 | [[07 Digital Garden/Productivity\|Productivity]]                                                                     | 2025-04-06 |
@@ -54,7 +56,5 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/Frittata\|Frittata]]                                                                             | 2025-02-01 |
 | [[07 Digital Garden/Reliability impacts opportunity\|Reliability impacts opportunity]]                               | 2025-01-20 |
 | [[07 Digital Garden/Anatomy of an 01 Prompt\|Anatomy of an 01 Prompt]]                                               | 2025-01-12 |
-| [[07 Digital Garden/Weekly Review from Ross Harkness\|Weekly Review from Ross Harkness]]                             | 2025-01-07 |
-| [[07 Digital Garden/Identifying control in life choices\|Identifying control in life choices]]                       | 2024-12-29 |
 
 { .block-language-dataview}

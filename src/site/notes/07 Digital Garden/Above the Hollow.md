@@ -26,6 +26,9 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in m
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
+- [[07 Digital Garden/Greg McKeown on Ichi-go Ichi-e\|Greg McKeown on Ichi-go Ichi-e]]
+- [[07 Digital Garden/Each moment is a once in a lifetime occurence\|Each moment is a once in a lifetime occurence]]
+- [[07 Digital Garden/Digital Gardens\|Digital Gardens]]
 - [[07 Digital Garden/Building trust quickly is a superpower\|Building trust quickly is a superpower]]
 - [[07 Digital Garden/Evergreen\|Evergreen]]
 - [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]]
@@ -33,9 +36,6 @@ Here are the 10 most recent changes to my notes. A more comprehensive list of ch
 - [[07 Digital Garden/Concise explanations accelerate progress\|Concise explanations accelerate progress]]
 - [[07 Digital Garden/Anomalies as a source of new ideas\|Anomalies as a source of new ideas]]
 - [[07 Digital Garden/Mise en place is a foundation of organization\|Mise en place is a foundation of organization]]
-- [[07 Digital Garden/Do the work to get the results\|Do the work to get the results]]
-- [[07 Digital Garden/Avoid losing before you can win\|Avoid losing before you can win]]
-- [[07 Digital Garden/Cooking is an antidote to the problems of modernity\|Cooking is an antidote to the problems of modernity]]
 
 { .block-language-dataview}
 
