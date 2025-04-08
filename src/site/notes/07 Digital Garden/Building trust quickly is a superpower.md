@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/building-trust-quickly-is-a-superpower/","tags":["evergreen","ath"],"updated":"2025-04-07T18:54:05.073-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/building-trust-quickly-is-a-superpower/","tags":["evergreen","ath"],"updated":"2025-04-07T19:25:15.998-07:00"}
 ---
 
 
-------
-
-Building trust quickly is a superpower.
+## Building trust quickly is a superpower.
 
 Here’s how—from an FBI Behavior Expert:
 
@@ -19,7 +17,7 @@ Here are his top tips to do it quickly:
 
 ___
 
-1\. Slow speech
+**1\. Slow speech**
 
 In some situations, quick speech is a sign of credibility or intelligence.
 
@@ -33,7 +31,7 @@ Speak slower than normal with more pauses to let people digest your words.
 
 ___
 
-2\. Nonverbals
+**2\. Nonverbals**
 
 To build trust, you need to use non-threatening non-verbal communication.
 
@@ -50,7 +48,7 @@ Tilt your head to the side.
 
 ___
 
-3\. Set Time Constraints
+**3\. Set Time Constraints**
 
 It can be awkward when someone starts talking to you, and you're not sure when it'll end.
 
@@ -62,7 +60,7 @@ Example:
 
 ___
 
-4\. Ask for help
+**4\. Ask for help**
 
 "As humans, we are conditioned to comply with asks for help." - Dreeke
 
@@ -76,7 +74,7 @@ Ask for help thinking about a problem you have.
 
 ___
 
-5\. Ego is the Enemy
+**5\. Ego is the Enemy**
 
 Remove ego by discussing their wants, needs, and desires.
 
@@ -88,7 +86,7 @@ Ask what someone likes or thinks without injecting your thoughts.
 
 ___
 
-6\. Validation
+**6\. Validation**
 
 Humans have a deep longing to be validated.
 
@@ -100,7 +98,7 @@ Listen to what they say without judgment, and don't immediately disagree with an
 
 ___
 
-7\. Ask open-ended questions
+**7\. Ask open-ended questions**
 
 Don't ask any ol' open-ended questions.
 
@@ -116,7 +114,7 @@ Ask, how did your mom end up in the hospital?
 
 ___
 
-8\. Quid pro quo
+**8\. Quid pro quo**
 
 Aka: give a little to get a little.
 
@@ -130,7 +128,7 @@ Share your thoughts and experiences to help them feel comfortable—be vulnerabl
 
 ___
 
-9\. Gift-giving
+**9\. Gift-giving**
 
 This is a cornerstone of building trust quickly.
 
@@ -142,7 +140,7 @@ After a conversation, text the person and thank them for being open and kind wit
 
 ___
 
-10\. Manage expectations
+**10\. Manage expectations**
 
 Nothing destroys trust like unmet expectations.
 
@@ -158,7 +156,7 @@ Listen as they talk.
 
 ___
 
-Summary:
+**Summary:**
 
 Using these points, you can gauge if you're building or destroying trust.
 
@@ -170,7 +168,3 @@ ___
 
 If you want to dig deeper on these tips, check out the full book by Robin here: [amazon.com/Its-Not-All-Ab…](https://www.amazon.com/Its-Not-All-About-Techniques/dp/057809665X/)
 
-___
-
-P.S. If you've ever wanted to learn how to build a newsletter, I'm working on a course to share lessons from building 2 of my newsletters—Faster Than Normal & The Intelligence Age—to 50,000 subscribers in the last 18-months. You can join the waitlist here:  
-[alexbrogan.com/waitlist?utm\_s…](https://www.alexbrogan.com/waitlist?utm_source=twitter&utm_medium=organic)
