@@ -10,14 +10,14 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/Favorites\|Favorites]]                                                                                                                 | 2025-04-08 |
 | [[07 Digital Garden/How to earn your resilience\|How to earn your resilience]]                                                                             | 2025-04-08 |
 | [[07 Digital Garden/Soreng Santi - Kuen Kuen Lueng Lueng (Black Sabbath's "Iron Man")\|Soreng Santi - Kuen Kuen Lueng Lueng (Black Sabbath's "Iron Man")]] | 2025-04-08 |
-| [[07 Digital Garden/You’re sending emails during the wrong day and time\|You’re sending emails during the wrong day and time]]                             | 2025-04-08 |
 | [[07 Digital Garden/What are evergreen notes\|What are evergreen notes]]                                                                                   | 2025-04-08 |
+| [[07 Digital Garden/You’re sending emails during the wrong day and time\|You’re sending emails during the wrong day and time]]                             | 2025-04-08 |
 | [[07 Digital Garden/Age and wisdom\|Age and wisdom]]                                                                                                       | 2025-04-07 |
-| [[07 Digital Garden/Each moment is a once in a lifetime occurence\|Each moment is a once in a lifetime occurence]]                                         | 2025-04-07 |
 | [[07 Digital Garden/Digital Gardens\|Digital Gardens]]                                                                                                     | 2025-04-07 |
+| [[07 Digital Garden/Each moment is a once in a lifetime occurence\|Each moment is a once in a lifetime occurence]]                                         | 2025-04-07 |
 | [[07 Digital Garden/AI\|AI]]                                                                                                                               | 2025-04-06 |
-| [[07 Digital Garden/Effective text prompts for video generation\|Effective text prompts for video generation]]                                             | 2025-04-06 |
 | [[07 Digital Garden/Don't waste today\|Don't waste today]]                                                                                                 | 2025-04-06 |
+| [[07 Digital Garden/Effective text prompts for video generation\|Effective text prompts for video generation]]                                             | 2025-04-06 |
 | [[07 Digital Garden/Having a hobby mindset\|Having a hobby mindset]]                                                                                       | 2025-04-06 |
 | [[07 Digital Garden/Knowledge can close you mind\|Knowledge can close you mind]]                                                                           | 2025-04-06 |
 | [[07 Digital Garden/Productivity\|Productivity]]                                                                                                           | 2025-04-06 |
@@ -32,8 +32,8 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/Careers\|Careers]]                                                                                                                     | 2025-04-03 |
 | [[07 Digital Garden/Investing in your future\|Investing in your future]]                                                                                   | 2025-04-03 |
 | [[07 Digital Garden/Italian\|Italian]]                                                                                                                     | 2025-04-03 |
-| [[07 Digital Garden/Mexican\|Mexican]]                                                                                                                     | 2025-04-03 |
 | [[07 Digital Garden/Philosophy\|Philosophy]]                                                                                                               | 2025-04-03 |
+| [[07 Digital Garden/Mexican\|Mexican]]                                                                                                                     | 2025-04-03 |
 | [[07 Digital Garden/Greg McKeown on Ichi-go Ichi-e\|Greg McKeown on Ichi-go Ichi-e]]                                                                       | 2025-04-02 |
 | [[07 Digital Garden/Investing\|Investing]]                                                                                                                 | 2025-04-02 |
 | [[07 Digital Garden/Recipes\|Recipes]]                                                                                                                     | 2025-04-02 |

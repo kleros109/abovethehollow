@@ -6,8 +6,8 @@
 
 | Note                                                                                                      |
 | --------------------------------------------------------------------------------------------------------- |
-| [[07 Digital Garden/Sonnet Productivity System\|Sonnet Productivity System]]                           |
 | [[07 Digital Garden/How to plan your year from Jesse Itzler\|How to plan your year from Jesse Itzler]] |
+| [[07 Digital Garden/Sonnet Productivity System\|Sonnet Productivity System]]                           |
 | [[07 Digital Garden/Digital Gardens\|Digital Gardens]]                                                 |
 | [[07 Digital Garden/Weekly Review from Ross Harkness\|Weekly Review from Ross Harkness]]               |
 | [[07 Digital Garden/Steven Covey's Roles and Goals Approach\|Steven Covey's Roles and Goals Approach]] |
