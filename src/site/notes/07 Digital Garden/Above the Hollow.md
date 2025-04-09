@@ -28,8 +28,8 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in m
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
 - [[07 Digital Garden/Soreng Santi - Kuen Kuen Lueng Lueng (Black Sabbath's "Iron Man")\|Soreng Santi - Kuen Kuen Lueng Lueng (Black Sabbath's "Iron Man")]]
-- [[07 Digital Garden/Jazz Band Covers Nirvana On The Spot (ft. Ulysses Owens Jr.)\|Jazz Band Covers Nirvana On The Spot (ft. Ulysses Owens Jr.)]]
 - [[07 Digital Garden/How to plan your year from Jesse Itzler\|How to plan your year from Jesse Itzler]]
+- [[07 Digital Garden/Jazz Band Covers Nirvana On The Spot (ft. Ulysses Owens Jr.)\|Jazz Band Covers Nirvana On The Spot (ft. Ulysses Owens Jr.)]]
 - [[07 Digital Garden/Evergreen\|Evergreen]]
 - [[07 Digital Garden/What are evergreen notes\|What are evergreen notes]]
 - [[07 Digital Garden/Favorites\|Favorites]]
