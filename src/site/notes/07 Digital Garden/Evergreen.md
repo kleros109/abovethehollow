@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/evergreen/","tags":["categories","inbox"],"updated":"2025-04-07T21:45:23.942-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/evergreen/","tags":["categories","inbox"],"updated":"2025-04-08T19:22:09.912-07:00"}
 ---
 
 An evergreen note is an idea. It doesn't have to be something that I agree with, but something is composable. In a way, every idiom is a kind of evergreen idea.
 
 | Note                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/What are evergreen notes\|What are evergreen notes]]                                                                 |
 | [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                     |
 | [[07 Digital Garden/Avoid losing before you can win\|Avoid losing before you can win]]                                                   |
 | [[07 Digital Garden/The salvation of man is through love and in love\|The salvation of man is through love and in love]]                 |
