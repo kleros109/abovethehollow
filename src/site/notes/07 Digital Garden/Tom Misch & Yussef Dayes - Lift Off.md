@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/tom-misch-and-yussef-dayes-lift-off/","title":"(2) Tom Misch & Yussef Dayes - Lift Off (feat. Rocco Palladino) - [Live] - YouTube","tags":["videos","favorites"],"updated":"2025-04-08T18:49:21.563-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/tom-misch-and-yussef-dayes-lift-off/","title":"(2) Tom Misch & Yussef Dayes - Lift Off (feat. Rocco Palladino) - [Live] - YouTube","tags":["videos","favorites"],"updated":"2025-04-09T21:32:42.364-07:00"}
 ---
 
-# Tom Misch & Yussef Dayes - Lift Off (feat. Rocco Palladino)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7GaK516Wkk?si=VXPYkcsosW2X9MVb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 **Title:** Lift Off (feat. Rocco Palladino) - Live by Tom Misch & Yussef Dayes
 
@@ -15,8 +16,6 @@
 - **Release Date:** Video published on March 11, 2020.
 - **Visuals:** Shot on 16mm film, enhancing the live music experience.
 - **Reception:** The video has garnered over 4.3 million views, showcasing its popularity.
-
-![Tom Misch & Yussef Dayes - Lift Off](https://www.youtube.com/embed/O7GaK516Wkk)
 
 
 > [!summary]- Description
