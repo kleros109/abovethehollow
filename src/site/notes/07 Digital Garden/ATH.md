@@ -5,13 +5,15 @@
 
 | Note                                                                                                                                        | Updated    |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Peace and time\|Peace and time]]                                                                                     | 2025-04-09 |
+| [[07 Digital Garden/You don't want maximum effectiveness\|You don't want maximum effectiveness]]                                         | 2025-04-09 |
 | [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                     | 2025-04-08 |
 | [[07 Digital Garden/How to earn your resilience\|How to earn your resilience]]                                                           | 2025-04-08 |
 | [[07 Digital Garden/You’re sending emails during the wrong day and time\|You’re sending emails during the wrong day and time]]           | 2025-04-08 |
 | [[07 Digital Garden/Above the Hollow 43\|Above the Hollow 43]]                                                                           | 2025-04-07 |
 | [[07 Digital Garden/Always go to the funeral\|Always go to the funeral]]                                                                 | 2025-04-07 |
-| [[07 Digital Garden/Anomalies as a source of new ideas\|Anomalies as a source of new ideas]]                                             | 2025-04-07 |
 | [[07 Digital Garden/Age and wisdom\|Age and wisdom]]                                                                                     | 2025-04-07 |
+| [[07 Digital Garden/Anomalies as a source of new ideas\|Anomalies as a source of new ideas]]                                             | 2025-04-07 |
 | [[07 Digital Garden/Building trust quickly is a superpower\|Building trust quickly is a superpower]]                                     | 2025-04-07 |
 | [[07 Digital Garden/Choose optimism\|Choose optimism]]                                                                                   | 2025-04-07 |
 | [[07 Digital Garden/Concise explanations accelerate progress\|Concise explanations accelerate progress]]                                 | 2025-04-07 |
@@ -26,14 +28,14 @@
 | [[07 Digital Garden/Making mistakes is the privilege of the active\|Making mistakes is the privilege of the active]]                     | 2025-04-07 |
 | [[07 Digital Garden/Reliability impacts opportunity\|Reliability impacts opportunity]]                                                   | 2025-04-07 |
 | [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]                                                       | 2025-04-07 |
-| [[07 Digital Garden/Questioning assumptions\|Questioning assumptions]]                                                                   | 2025-04-07 |
 | [[07 Digital Garden/The salvation of man is through love and in love\|The salvation of man is through love and in love]]                 | 2025-04-07 |
+| [[07 Digital Garden/Questioning assumptions\|Questioning assumptions]]                                                                   | 2025-04-07 |
 | [[07 Digital Garden/Career Advice from Msty\|Career Advice from Msty]]                                                                   | 2025-04-06 |
 | [[07 Digital Garden/Don't waste today\|Don't waste today]]                                                                               | 2025-04-06 |
 | [[07 Digital Garden/First Therapy Chatbot Trial\|First Therapy Chatbot Trial]]                                                           | 2025-04-06 |
 | [[07 Digital Garden/Spicy Chimichurri\|Spicy Chimichurri]]                                                                               | 2025-04-06 |
-| [[07 Digital Garden/ATH Newsletter\|ATH Newsletter]]                                                                                     | 2025-04-05 |
 | [[07 Digital Garden/A brief guide to leadership\|A brief guide to leadership]]                                                           | 2025-04-05 |
+| [[07 Digital Garden/ATH Newsletter\|ATH Newsletter]]                                                                                     | 2025-04-05 |
 | [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                           | 2025-04-05 |
 | [[07 Digital Garden/Business Writing 101\|Business Writing 101]]                                                                         | 2025-04-05 |
 | [[07 Digital Garden/Charles Mingus on Creativity\|Charles Mingus on Creativity]]                                                         | 2025-04-05 |

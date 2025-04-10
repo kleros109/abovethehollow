@@ -5,6 +5,7 @@
 
 | Note                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Peace and time\|Peace and time]]                                                                                     |
 | [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                     |
 | [[07 Digital Garden/Great decisions come from good processes\|Great decisions come from good processes]]                                 |
 | [[07 Digital Garden/The most powerful person in the world is the storyteller\|The most powerful person in the world is the storyteller]] |

@@ -6,6 +6,7 @@ An evergreen note is an idea. It doesn't have to be something that I agree with,
 
 | Note                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/You don't want maximum effectiveness\|You don't want maximum effectiveness]]                                         |
 | [[07 Digital Garden/What are evergreen notes\|What are evergreen notes]]                                                                 |
 | [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                     |
 | [[07 Digital Garden/Avoid losing before you can win\|Avoid losing before you can win]]                                                   |
