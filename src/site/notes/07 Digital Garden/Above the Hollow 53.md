@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-53/","tags":["ath"],"updated":"2025-04-05T17:06:37.783-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-53/","tags":["ath"],"updated":"2025-04-06T01:06:37.783+01:00"}
 ---
 
 Observations, articles, and other links. Curated for my children as they embark upon adulthood.

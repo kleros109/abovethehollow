@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/quotes/","updated":"2025-04-08T08:26:39.338-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/quotes/","updated":"2025-04-08T16:26:39.338+01:00"}
 ---
 
 

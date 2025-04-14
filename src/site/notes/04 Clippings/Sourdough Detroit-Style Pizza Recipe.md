@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-clippings/sourdough-detroit-style-pizza-recipe/","title":"Sourdough Detroit-Style Pizza Recipe","tags":["recipes"],"updated":"2025-04-08T19:03:41.298-07:00"}
+{"dg-publish":true,"permalink":"/04-clippings/sourdough-detroit-style-pizza-recipe/","title":"Sourdough Detroit-Style Pizza Recipe","tags":["recipes"],"updated":"2025-04-09T03:03:41.298+01:00"}
 ---
 
 [Jump to Recipe](https://www.theperfectloaf.com/sourdough-detroit-style-pizza-recipe/?__readwiseLocation=#tasty-recipes-23003-jump-target)·[Print Recipe](https://www.theperfectloaf.com/sourdough-detroit-style-pizza-recipe/print/23003/)

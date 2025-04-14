@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/stephen-covey-s-urgent-important-matrix/","tags":["productivity"],"updated":"2025-04-06T14:43:32.668-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/stephen-covey-s-urgent-important-matrix/","tags":["productivity"],"updated":"2025-04-06T22:43:32.668+01:00"}
 ---
 
 # Stephen Covey's Urgent/Important Matrix

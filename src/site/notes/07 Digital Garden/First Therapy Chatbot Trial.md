@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/first-therapy-chatbot-trial/","tags":["readwise","ath"],"updated":"2025-04-06T14:27:30.115-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/first-therapy-chatbot-trial/","tags":["readwise","ath"],"updated":"2025-04-06T22:27:30.115+01:00"}
 ---
 
 # First Therapy Chatbot Trial Yields Mental Health Benefits

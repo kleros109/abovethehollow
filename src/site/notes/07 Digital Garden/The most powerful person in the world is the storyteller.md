@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-most-powerful-person-in-the-world-is-the-storyteller/","tags":["quotes","evergreen"],"updated":"2025-04-07T18:39:47.203-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-most-powerful-person-in-the-world-is-the-storyteller/","tags":["quotes","evergreen"],"updated":"2025-04-08T02:39:47.203+01:00"}
 ---
 
 

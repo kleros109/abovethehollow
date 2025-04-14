@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/avoid-losing-before-you-can-win/","tags":["evergreen"],"updated":"2025-04-07T21:44:42.870-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/avoid-losing-before-you-can-win/","tags":["evergreen"],"updated":"2025-04-08T05:44:42.870+01:00"}
 ---
 
 

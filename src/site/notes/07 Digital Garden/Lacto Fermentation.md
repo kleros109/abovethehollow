@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/lacto-fermentation/","tags":["recipes"],"updated":"2025-04-06T21:19:19.038-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/lacto-fermentation/","tags":["recipes"],"updated":"2025-04-07T05:19:19.038+01:00"}
 ---
 
 ## Formula

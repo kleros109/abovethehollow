@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/viktor-frankel-on-success/","tags":["readwise","advice"],"updated":"2025-04-03T20:11:54.156-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/viktor-frankel-on-success/","tags":["readwise","advice"],"updated":"2025-04-04T04:11:54.156+01:00"}
 ---
 
 # ## Summary

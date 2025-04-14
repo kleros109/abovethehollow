@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-08T18:50:52.849-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-12T19:57:53.988+01:00"}
 ---
 
 ![Revue Banner.png](/img/user/06%20Utilities/Attachments/Revue%20Banner.png)
@@ -18,6 +18,7 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in m
 - [[07 Digital Garden/Evergreen\|Evergreen]]
 - [[07 Digital Garden/Favorites\|Favorites]]
 - [[07 Digital Garden/Investing\|Investing]]
+- [[07 Digital Garden/Marketing\|Marketing]]
 - [[07 Digital Garden/Philosophy\|Philosophy]]
 - [[07 Digital Garden/Productivity\|Productivity]]
 - [[07 Digital Garden/Quotes\|Quotes]]
@@ -27,16 +28,16 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in m
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
-- [[07 Digital Garden/Soreng Santi - Kuen Kuen Lueng Lueng\|Soreng Santi - Kuen Kuen Lueng Lueng]]
-- [[07 Digital Garden/You don't want maximum effectiveness\|You don't want maximum effectiveness]]
-- [[07 Digital Garden/Peace and time\|Peace and time]]
-- [[07 Digital Garden/How to plan your year from Jesse Itzler\|How to plan your year from Jesse Itzler]]
-- [[07 Digital Garden/Jazz Band Covers Nirvana On The Spot (ft. Ulysses Owens Jr.)\|Jazz Band Covers Nirvana On The Spot (ft. Ulysses Owens Jr.)]]
-- [[07 Digital Garden/Evergreen\|Evergreen]]
-- [[07 Digital Garden/What are evergreen notes\|What are evergreen notes]]
+- [[07 Digital Garden/N8N Cheat Sheet\|N8N Cheat Sheet]]
+- [[07 Digital Garden/Global News Prompt\|Global News Prompt]]
+- [[07 Digital Garden/A taste for saltwater\|A taste for saltwater]]
+- [[07 Digital Garden/Rare skills are career capital\|Rare skills are career capital]]
 - [[07 Digital Garden/Favorites\|Favorites]]
-- [[07 Digital Garden/Tom Misch & Yussef Dayes - Lift Off\|Tom Misch & Yussef Dayes - Lift Off]]
-- [[07 Digital Garden/Sonnet Productivity System\|Sonnet Productivity System]]
+- [[07 Digital Garden/Impact of increasing customer loyalty\|Impact of increasing customer loyalty]]
+- [[07 Digital Garden/Marketing\|Marketing]]
+- [[07 Digital Garden/Honest answers for development\|Honest answers for development]]
+- [[07 Digital Garden/Soreng Santi - Kuen Kuen Lueng Lueng (Black Sabbath's "Iron Man")\|Soreng Santi - Kuen Kuen Lueng Lueng (Black Sabbath's "Iron Man")]]
+- [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]]
 
 { .block-language-dataview}
 
@@ -45,4 +46,4 @@ An archive of my  [[07 Digital Garden/ATH Newsletter\|ATH Newsletter]] is also a
 ---
 ## Tags
 
- #advice #ai #careers #culinary #evergreen  #favorites #investing #philosophy #productivity #quotes #readwise #recipes 
+ #advice #ai #careers #culinary #evergreen  #favorites #favorites #investing #marketing  #philosophy #productivity #quotes #readwise #recipes 

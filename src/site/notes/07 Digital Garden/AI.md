@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/ai/","updated":"2025-04-08T07:24:24.770-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/ai/","updated":"2025-04-08T15:24:24.770+01:00"}
 ---
 
  
 | Note                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/N8N Cheat Sheet\|N8N Cheat Sheet]]                                                         |
+| [[07 Digital Garden/Global News Prompt\|Global News Prompt]]                                                   |
 | [[07 Digital Garden/Claude Sentience System Prompt\|Claude Sentience System Prompt]]                           |
 | [[07 Digital Garden/Cursor Rules for AI\|Cursor Rules for AI]]                                                 |
 | [[07 Digital Garden/Voicenotes AI Prompts\|Voicenotes AI Prompts]]                                             |

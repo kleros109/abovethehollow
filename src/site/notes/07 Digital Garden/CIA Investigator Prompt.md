@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/cia-investigator-prompt/","tags":["AI"],"updated":"2025-04-06T14:23:26.743-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/cia-investigator-prompt/","tags":["AI"],"updated":"2025-04-06T22:23:26.743+01:00"}
 ---
 
 

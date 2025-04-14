@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/claude-sentience-system-prompt/","tags":["AI"],"updated":"2025-04-06T20:56:19.199-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/claude-sentience-system-prompt/","tags":["AI"],"updated":"2025-04-07T04:56:19.199+01:00"}
 ---
 
 # System Prompt

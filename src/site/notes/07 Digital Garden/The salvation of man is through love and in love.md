@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-salvation-of-man-is-through-love-and-in-love/","tags":["evergreen","ath"],"updated":"2025-04-07T21:44:36.158-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-salvation-of-man-is-through-love-and-in-love/","tags":["evergreen","ath"],"updated":"2025-04-08T05:44:36.158+01:00"}
 ---
 
 

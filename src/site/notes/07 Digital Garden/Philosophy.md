@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/philosophy/","updated":"2025-04-08T08:27:39.838-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/philosophy/","updated":"2025-04-08T16:27:39.838+01:00"}
 ---
 
 

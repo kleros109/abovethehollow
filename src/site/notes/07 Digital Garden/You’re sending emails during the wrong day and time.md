@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/you-re-sending-emails-during-the-wrong-day-and-time/","tags":["readwise","careers","ath"],"updated":"2025-04-08T17:17:32.671-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/you-re-sending-emails-during-the-wrong-day-and-time/","tags":["readwise","careers","ath"],"updated":"2025-04-09T01:17:32.671+01:00"}
 ---
 
 # You’re Sending Emails During the Wrong Day and Time

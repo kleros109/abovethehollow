@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/write-an-incredible-resume/","tags":["ath","careers"],"updated":"2025-04-05T14:34:52.279-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/write-an-incredible-resume/","tags":["ath","careers"],"updated":"2025-04-05T22:34:52.279+01:00"}
 ---
 
 ## Video

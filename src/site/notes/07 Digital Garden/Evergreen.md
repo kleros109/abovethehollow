@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/evergreen/","tags":["categories","inbox"],"updated":"2025-04-08T19:22:09.912-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/evergreen/","tags":["categories","inbox"],"updated":"2025-04-09T03:22:09.912+01:00"}
 ---
 
 An evergreen note is an idea. It doesn't have to be something that I agree with, but something is composable. In a way, every idiom is a kind of evergreen idea.
 
 | Note                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Rare skills are career capital\|Rare skills are career capital]]                                                     |
+| [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]] |
 | [[07 Digital Garden/You don't want maximum effectiveness\|You don't want maximum effectiveness]]                                         |
 | [[07 Digital Garden/What are evergreen notes\|What are evergreen notes]]                                                                 |
 | [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                     |
@@ -13,7 +15,6 @@ An evergreen note is an idea. It doesn't have to be something that I agree with,
 | [[07 Digital Garden/The salvation of man is through love and in love\|The salvation of man is through love and in love]]                 |
 | [[07 Digital Garden/Each moment is a once in a lifetime occurence\|Each moment is a once in a lifetime occurence]]                       |
 | [[07 Digital Garden/Building trust quickly is a superpower\|Building trust quickly is a superpower]]                                     |
-| [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]] |
 | [[07 Digital Garden/Demographics will reverse major global trends\|Demographics will reverse major global trends]]                       |
 | [[07 Digital Garden/Concise explanations accelerate progress\|Concise explanations accelerate progress]]                                 |
 | [[07 Digital Garden/Anomalies as a source of new ideas\|Anomalies as a source of new ideas]]                                             |

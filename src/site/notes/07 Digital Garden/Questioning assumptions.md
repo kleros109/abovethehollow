@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/questioning-assumptions/","tags":["ath","quotes"],"updated":"2025-04-07T17:34:48.313-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/questioning-assumptions/","tags":["ath","quotes"],"updated":"2025-04-08T01:34:48.313+01:00"}
 ---
 
 

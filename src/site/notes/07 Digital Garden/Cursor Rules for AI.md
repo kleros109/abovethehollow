@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/cursor-rules-for-ai/","tags":["AI"],"updated":"2025-04-06T20:49:49.633-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/cursor-rules-for-ai/","tags":["AI"],"updated":"2025-04-07T04:49:49.633+01:00"}
 ---
 
 https://x.com/mckaywrigley/status/1833948756280312112

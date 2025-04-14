@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/sahil-bloom-on-simple-habits/","tags":["readwise","ath"],"updated":"2025-04-03T19:00:47.651-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/sahil-bloom-on-simple-habits/","tags":["readwise","ath"],"updated":"2025-04-04T03:00:47.651+01:00"}
 ---
 
 # 4 Tiny Habits That Dramatically Improved My Weeks

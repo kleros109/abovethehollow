@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/advice/","updated":"2025-04-08T07:23:56.628-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/advice/","updated":"2025-04-08T15:23:56.628+01:00"}
 ---
 
 
 | Note                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/A taste for saltwater\|A taste for saltwater]]                                                   |
 | [[07 Digital Garden/Having a hobby mindset\|Having a hobby mindset]]                                                 |
 | [[07 Digital Garden/A brief guide to leadership\|A brief guide to leadership]]                                       |
 | [[07 Digital Garden/Investing in your future\|Investing in your future]]                                             |

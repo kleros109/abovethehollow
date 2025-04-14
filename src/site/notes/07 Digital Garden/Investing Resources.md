@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/investing-resources/","tags":["investing"],"updated":"2025-04-05T14:41:34.593-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/investing-resources/","tags":["investing"],"updated":"2025-04-05T22:41:34.593+01:00"}
 ---
 
 ---

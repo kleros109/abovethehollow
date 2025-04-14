@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/careers/","updated":"2025-04-08T08:26:52.127-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/careers/","updated":"2025-04-08T16:26:52.127+01:00"}
 ---
 
   
 
 | Note                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Rare skills are career capital\|Rare skills are career capital]]                                           |
+| [[07 Digital Garden/Honest answers for development\|Honest answers for development]]                                           |
 | [[07 Digital Garden/You’re sending emails during the wrong day and time\|You’re sending emails during the wrong day and time]] |
 | [[07 Digital Garden/Career Advice from Msty\|Career Advice from Msty]]                                                         |
 | [[07 Digital Garden/Career Advice from My Highlights\|Career Advice from My Highlights]]                                       |
