@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/culinary/","tags":["culinary","inbox"],"updated":"2025-04-08T16:27:10.503+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/culinary/","tags":["culinary","inbox"],"updated":"2025-04-16T12:46:12.211+01:00"}
 ---
 
 

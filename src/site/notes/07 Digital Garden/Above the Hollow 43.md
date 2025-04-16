@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-43/","tags":["ath"],"updated":"2025-04-08T02:47:02.073+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-43/","tags":["ath"],"updated":"2025-04-16T12:18:14.243+01:00"}
 ---
 
 Observations, articles, and other links. Curated for my children as they embark upon adulthood.
@@ -8,7 +8,7 @@ Observations, articles, and other links. Curated for my children as they embark 
 
 [[04 Clippings/James Baldwin on what love looks like\|James Baldwin on what love looks like]]
 
-[[04 Clippings/Peter Kaufman on the real value of things\|04 Clippings/Peter Kaufman on the real value of things]]
+[[07 Digital Garden/Peter Kaufman on the real value of things\|07 Digital Garden/Peter Kaufman on the real value of things]]
 
 
 ---
@@ -17,7 +17,7 @@ Observations, articles, and other links. Curated for my children as they embark 
 
 [[07 Digital Garden/Choose optimism\|Choose optimism]]
 
-[[04 Clippings/Decide Your Next Decade\|Decide Your Next Decade]]
+[[07 Digital Garden/Decide Your Next Decade\|Decide Your Next Decade]]
 
 ---
 

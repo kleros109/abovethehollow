@@ -7,6 +7,6 @@
 | File                                                                  | Date       |
 | --------------------------------------------------------------------- | ---------- |
 | [[07 Digital Garden/Beef Ragu\|Beef Ragu]]                         | 2025-04-03 |
-| [[07 Digital Garden/Pasta all’Amatriciana\|Pasta all’Amatriciana]] | 2025-04-05 |
+| [[07 Digital Garden/Pasta all’Amatriciana\|Pasta all’Amatriciana]] | 2025-04-06 |
 
 { .block-language-dataview}
