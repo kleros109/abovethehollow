@@ -5,7 +5,6 @@
 
 | Note                                                                                                  |
 | ----------------------------------------------------------------------------------------------------- |
-| [[07 Digital Garden/Focus on what's in our control\|Focus on what's in our control]]               |
 | [[07 Digital Garden/The chief task in life from Epictetus\|The chief task in life from Epictetus]] |
 | [[07 Digital Garden/How to earn your resilience\|How to earn your resilience]]                     |
 | [[07 Digital Garden/Greg McKeown on Ichi-go Ichi-e\|Greg McKeown on Ichi-go Ichi-e]]               |

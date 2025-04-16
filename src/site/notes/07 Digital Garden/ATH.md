@@ -12,8 +12,8 @@
 | [[07 Digital Garden/Do the work to get the results\|Do the work to get the results]]                                                         | 2025-04-16 |
 | [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]]     | 2025-04-16 |
 | [[07 Digital Garden/Do what you’re doing\|Do what you’re doing]]                                                                             | 2025-04-16 |
+| [[07 Digital Garden/Investing in your future\|Investing in your future]]                                                                     | 2025-04-16 |
 | [[07 Digital Garden/Writing is a way of thinking\|Writing is a way of thinking]]                                                             | 2025-04-16 |
-| [[07 Digital Garden/Focus on what's in our control\|Focus on what's in our control]]                                                         | 2025-04-16 |
 | [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                   | 2025-04-16 |
 | [[07 Digital Garden/Scott Adams on success\|Scott Adams on success]]                                                                         | 2025-04-16 |
 | [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                               | 2025-04-16 |
@@ -72,7 +72,6 @@
 | [[07 Digital Garden/Business Writing 101\|Business Writing 101]]                                                                             | 2025-04-05 |
 | [[07 Digital Garden/Charles Mingus on Creativity\|Charles Mingus on Creativity]]                                                             | 2025-04-05 |
 | [[07 Digital Garden/Herbert Lui - Make a Map of Memories\|Herbert Lui - Make a Map of Memories]]                                             | 2025-04-05 |
-| [[07 Digital Garden/Investing in your future\|Investing in your future]]                                                                     | 2025-04-05 |
 | [[07 Digital Garden/Identifying control in life choices\|Identifying control in life choices]]                                               | 2025-04-05 |
 | [[07 Digital Garden/Most are neither for you nor against you\|Most are neither for you nor against you]]                                     | 2025-04-05 |
 | [[07 Digital Garden/Selling is the crucial skill nobody taught you\|Selling is the crucial skill nobody taught you]]                         | 2025-04-05 |

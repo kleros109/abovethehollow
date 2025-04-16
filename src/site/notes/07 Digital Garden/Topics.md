@@ -35,7 +35,7 @@
 | [[02 Notes/Macro\|Macro]]                            | 2025-03-04    |
 | [[07 Digital Garden/Marketing\|Marketing]]           | 2025-04-10    |
 | [[02 Notes/Mental Models\|Mental Models]]            | 2025-04-07    |
-| [[02 Notes/Note Taking\|Note Taking]]                | 2025-04-07    |
+| [[07 Digital Garden/Note Taking\|Note Taking]]       | 2025-04-16    |
 | [[02 Notes/Options\|Options]]                        | 2025-03-04    |
 | [[07 Digital Garden/Philosophy\|Philosophy]]         | 2025-04-16    |
 | [[07 Digital Garden/Pizza\|Pizza]]                   | 2025-04-16    |

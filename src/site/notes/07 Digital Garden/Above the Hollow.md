@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-16T12:50:50.474+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-16T17:54:02.044+01:00"}
 ---
 
 ![Revue Banner.png](/img/user/06%20Utilities/Attachments/Revue%20Banner.png)
@@ -29,16 +29,16 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in m
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
-- [[07 Digital Garden/Intentional Curiosity\|Intentional Curiosity]]
-- [[07 Digital Garden/Topics\|Topics]]
-- [[07 Digital Garden/Sourdough Detroit-Style Pizza Recipe\|Sourdough Detroit-Style Pizza Recipe]]
-- [[07 Digital Garden/Detroit Pizza\|Detroit Pizza]]
-- [[07 Digital Garden/5 Relationships You Need to Build a Successful Career\|5 Relationships You Need to Build a Successful Career]]
-- [[07 Digital Garden/AI is bigger than the internet - Marc Andreessen\|AI is bigger than the internet - Marc Andreessen]]
-- [[07 Digital Garden/How to Get Rich (without getting lucky)\|How to Get Rich (without getting lucky)]]
-- [[07 Digital Garden/David Perrell on Derek Sivers\|David Perrell on Derek Sivers]]
-- [[07 Digital Garden/Kinda Nice\|Kinda Nice]]
-- [[07 Digital Garden/Sam Altman on self-belief and willfulness\|Sam Altman on self-belief and willfulness]]
+- [[07 Digital Garden/Jean-Michel Basquiat's Notes from NYC's Underground Art Scene\|Jean-Michel Basquiat's Notes from NYC's Underground Art Scene]]
+- [[07 Digital Garden/The Notecard System\|The Notecard System]]
+- [[07 Digital Garden/Abhishek - Grok 3 Can Now Create Mind Maps for Books\|Abhishek - Grok 3 Can Now Create Mind Maps for Books]]
+- [[07 Digital Garden/How to craft a note\|How to craft a note]]
+- [[07 Digital Garden/Note Taking\|Note Taking]]
+- [[07 Digital Garden/No Publish\|No Publish]]
+- [[07 Digital Garden/Investing in your future\|Investing in your future]]
+- [[07 Digital Garden/Consider the outside point of view\|Consider the outside point of view]]
+- [[07 Digital Garden/Cooking Restaurant Quality Fish\|Cooking Restaurant Quality Fish]]
+- [[07 Digital Garden/Deep Research Prompt\|Deep Research Prompt]]
 
 { .block-language-dataview}
 

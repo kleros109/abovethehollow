@@ -5,14 +5,14 @@
 
 | Note                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[07 Digital Garden/The true joy in life\|The true joy in life]]                                                                         |
 | [[07 Digital Garden/Shane Parrish on confidence vs. competenece\|Shane Parrish on confidence vs. competenece]]                           |
-| [[07 Digital Garden/Anna Gat on not disappearing\|Anna Gat on not disappearing]]                                                         |
-| [[07 Digital Garden/The chief task in life from Epictetus\|The chief task in life from Epictetus]]                                       |
-| [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                           |
-| [[07 Digital Garden/Scott Adams on success\|Scott Adams on success]]                                                                     |
 | [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                               |
+| [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                           |
+| [[07 Digital Garden/The true joy in life\|The true joy in life]]                                                                         |
+| [[07 Digital Garden/The chief task in life from Epictetus\|The chief task in life from Epictetus]]                                       |
 | [[07 Digital Garden/Gandhi on the way to live\|Gandhi on the way to live]]                                                               |
+| [[07 Digital Garden/Anna Gat on not disappearing\|Anna Gat on not disappearing]]                                                         |
+| [[07 Digital Garden/Scott Adams on success\|Scott Adams on success]]                                                                     |
 | [[07 Digital Garden/Peace and time\|Peace and time]]                                                                                     |
 | [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                     |
 | [[07 Digital Garden/Great decisions come from good processes\|Great decisions come from good processes]]                                 |
