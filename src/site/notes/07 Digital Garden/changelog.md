@@ -6,6 +6,38 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                                                  | Created    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/This Weekly Habit Changed My Business FOREVER\|This Weekly Habit Changed My Business FOREVER]]                                 | 2025-03-24 |
+| [[07 Digital Garden/The Weekly Productivity Template To Achieve More\|The Weekly Productivity Template To Achieve More]]                           | 2024-12-12 |
+| [[07 Digital Garden/The Simple Daily Planning Method That Top Performers Use\|The Simple Daily Planning Method That Top Performers Use]]           | 2025-02-23 |
+| [[07 Digital Garden/Improve Your Focus and Concentrate Better With Daily Logging\|Improve Your Focus and Concentrate Better With Daily Logging]]   | 2023-10-27 |
+| [[07 Digital Garden/Here's a simple to-do list trick anyone can use\|Here's a simple to-do list trick anyone can use]]                             | 2023-10-11 |
+| [[07 Digital Garden/How to plan an epic 2025 in 56 minutes  Jesse Itzler\|How to plan an epic 2025 in 56 minutes  Jesse Itzler]]                   | 2024-12-18 |
+| [[07 Digital Garden/Dataview Beginners Guide\|Dataview Beginners Guide]]                                                                           | 2023-09-27 |
+| [[07 Digital Garden/4 Steps to Hyperfocus Productivity System\|4 Steps to Hyperfocus Productivity System]]                                         | 2024-04-24 |
+| [[07 Digital Garden/12 Simple Ways to Create Momentum in Your Day\|12 Simple Ways to Create Momentum in Your Day]]                                 | 2024-03-16 |
+| [[07 Digital Garden/Weekly Review\|Weekly Review]]                                                                                                 | 2024-09-01 |
+| [[07 Digital Garden/Productivity System\|Productivity System]]                                                                                     | 2024-06-30 |
+| [[07 Digital Garden/The Action Method\|The Action Method]]                                                                                         | 2024-10-23 |
+| [[07 Digital Garden/James Bedford Obsidian Structure\|James Bedford Obsidian Structure]]                                                           | 2024-04-01 |
+| [[07 Digital Garden/Core Systems\|Core Systems]]                                                                                                   | 2023-10-31 |
+| [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]                                                                 | 2024-03-23 |
+| [[07 Digital Garden/Recipes\|Recipes]]                                                                                                             | 2025-04-03 |
+| [[07 Digital Garden/Focaccia Da Laura\|Focaccia Da Laura]]                                                                                         | 2023-09-18 |
+| [[07 Digital Garden/Brown butter nectarine tart\|Brown butter nectarine tart]]                                                                     | 2023-09-27 |
+| [[07 Digital Garden/Aeropress Recipe\|Aeropress Recipe]]                                                                                           | 2024-02-11 |
+| [[07 Digital Garden/Chicken Thighs Beast Mode\|Chicken Thighs Beast Mode]]                                                                         | 2024-02-24 |
+| [[07 Digital Garden/Oaxacan Old Fashioned\|Oaxacan Old Fashioned]]                                                                                 | 2024-03-16 |
+| [[07 Digital Garden/Thanksgiving Gravy Recipe\|Thanksgiving Gravy Recipe]]                                                                         | 2024-07-02 |
+| [[07 Digital Garden/Hummus\|Hummus]]                                                                                                               | 2024-06-30 |
+| [[07 Digital Garden/Carrot Purée and Dukkah\|Carrot Purée and Dukkah]]                                                                             | 2024-09-02 |
+| [[07 Digital Garden/Baked Tacos\|Baked Tacos]]                                                                                                     | 2025-03-24 |
+| [[07 Digital Garden/Parmesan Sweet Potatoes\|Parmesan Sweet Potatoes]]                                                                             | 2025-03-22 |
+| [[07 Digital Garden/Nighttime Tea\|Nighttime Tea]]                                                                                                 | 2024-10-07 |
+| [[07 Digital Garden/Drinks\|Drinks]]                                                                                                               | 2025-03-22 |
+| [[07 Digital Garden/Immersion Iced Coffee\|Immersion Iced Coffee]]                                                                                 | 2023-09-18 |
+| [[07 Digital Garden/Sourdough Detroit-Style Pizza Recipe\|Sourdough Detroit-Style Pizza Recipe]]                                                   | 2025-04-09 |
+| [[07 Digital Garden/Miso & Ginger Chuck Roast\|Miso & Ginger Chuck Roast]]                                                                         | 2025-03-28 |
+| [[07 Digital Garden/Culinary\|Culinary]]                                                                                                           | 2023-11-26 |
 | [[07 Digital Garden/Jean-Michel Basquiat's Notes from NYC's Underground Art Scene\|Jean-Michel Basquiat's Notes from NYC's Underground Art Scene]] | 2023-09-29 |
 | [[07 Digital Garden/The Notecard System\|The Notecard System]]                                                                                     | 2023-10-02 |
 | [[07 Digital Garden/Abhishek - Grok 3 Can Now Create Mind Maps for Books\|Abhishek - Grok 3 Can Now Create Mind Maps for Books]]                   | 2025-02-24 |
@@ -24,37 +56,5 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/Shane Parrish on confidence vs. competenece\|Shane Parrish on confidence vs. competenece]]                                     | 2024-01-27 |
 | [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                         | 2024-01-13 |
 | [[07 Digital Garden/The goal is to become completely yourself\|The goal is to become completely yourself]]                                         | 2023-11-26 |
-| [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                     | 2023-09-27 |
-| [[07 Digital Garden/Detroit Pizza\|Detroit Pizza]]                                                                                                 | 2023-09-23 |
-| [[07 Digital Garden/Yvon Chouinard's Journey to Protecting Patagonia's Values\|Yvon Chouinard's Journey to Protecting Patagonia's Values]]         | 2024-06-28 |
-| [[07 Digital Garden/The true joy in life\|The true joy in life]]                                                                                   | 2024-02-23 |
-| [[07 Digital Garden/Apizza Schools Recipe\|Apizza Schools Recipe]]                                                                                 | 2024-06-30 |
-| [[07 Digital Garden/How to Get Rich (without getting lucky)\|How to Get Rich (without getting lucky)]]                                             | 2023-09-27 |
-| [[07 Digital Garden/The chief task in life from Epictetus\|The chief task in life from Epictetus]]                                                 | 2024-02-11 |
-| [[07 Digital Garden/Two questions for choosing a company to work with\|Two questions for choosing a company to work with]]                         | 2024-01-06 |
-| [[07 Digital Garden/Gandhi on the way to live\|Gandhi on the way to live]]                                                                         | 2024-03-09 |
-| [[07 Digital Garden/Showing up vs. disapearing\|Showing up vs. disapearing]]                                                                       | 2024-01-27 |
-| [[07 Digital Garden/Anna Gat on not disappearing\|Anna Gat on not disappearing]]                                                                   | 2024-01-27 |
-| [[07 Digital Garden/Daily Stoic with Kevin Rose\|Daily Stoic with Kevin Rose]]                                                                     | 2023-09-27 |
-| [[07 Digital Garden/Scott Adams on success\|Scott Adams on success]]                                                                               | 2024-03-16 |
-| [[07 Digital Garden/Important anecdotes from legendary investor Charlie Munger\|Important anecdotes from legendary investor Charlie Munger]]       | 2023-12-10 |
-| [[07 Digital Garden/Kinda Nice\|Kinda Nice]]                                                                                                       | 2024-03-03 |
-| [[07 Digital Garden/Marketing equals caring\|Marketing equals caring]]                                                                             | 2023-10-15 |
-| [[07 Digital Garden/Icon - AI Admaker\|Icon - AI Admaker]]                                                                                         | 2025-02-24 |
-| [[07 Digital Garden/Intro to Large Language Models\|Intro to Large Language Models]]                                                               | 2023-11-26 |
-| [[07 Digital Garden/Markdown Summary & Extract Wisdom Prompt\|Markdown Summary & Extract Wisdom Prompt]]                                           | 2025-04-01 |
-| [[07 Digital Garden/Inbox AI Transcribe Prompt\|Inbox AI Transcribe Prompt]]                                                                       | 2024-11-04 |
-| [[07 Digital Garden/AI Prompts from Sabrina Ramonov\|AI Prompts from Sabrina Ramonov]]                                                             | 2024-09-29 |
-| [[07 Digital Garden/Copilot System Prompt\|Copilot System Prompt]]                                                                                 | 2024-09-22 |
-| [[07 Digital Garden/Loan Proposal Review Prompt\|Loan Proposal Review Prompt]]                                                                     | 2024-10-30 |
-| [[07 Digital Garden/Journal Prompt\|Journal Prompt]]                                                                                               | 2024-11-02 |
-| [[07 Digital Garden/Financial Analysis in Claude Ai\|Financial Analysis in Claude Ai]]                                                             | 2024-07-03 |
-| [[07 Digital Garden/AI is bigger than the internet - Marc Andreessen\|AI is bigger than the internet - Marc Andreessen]]                           | 2024-10-27 |
-| [[07 Digital Garden/changelog\|changelog]]                                                                                                         | 2025-04-05 |
-| [[07 Digital Garden/What I know about AI\|What I know about AI]]                                                                                   | 2025-02-09 |
-| [[07 Digital Garden/Interview Tips\|Interview Tips]]                                                                                               | 2023-12-10 |
-| [[07 Digital Garden/5 Relationships You Need to Build a Successful Career\|5 Relationships You Need to Build a Successful Career]]                 | 2023-12-24 |
-| [[07 Digital Garden/Decide Your Next Decade\|Decide Your Next Decade]]                                                                             | 2024-01-13 |
-| [[07 Digital Garden/Paul Graham on superlinear returns\|Paul Graham on superlinear returns]]                                                       | 2023-10-21 |
 
 { .block-language-dataview}

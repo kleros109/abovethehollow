@@ -13,6 +13,7 @@
 | [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]]     | 2025-04-16 |
 | [[07 Digital Garden/Do what you’re doing\|Do what you’re doing]]                                                                             | 2025-04-16 |
 | [[07 Digital Garden/Investing in your future\|Investing in your future]]                                                                     | 2025-04-16 |
+| [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]                                                           | 2025-04-16 |
 | [[07 Digital Garden/Writing is a way of thinking\|Writing is a way of thinking]]                                                             | 2025-04-16 |
 | [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                   | 2025-04-16 |
 | [[07 Digital Garden/Scott Adams on success\|Scott Adams on success]]                                                                         | 2025-04-16 |
@@ -33,6 +34,7 @@
 | [[07 Digital Garden/Kinda Nice\|Kinda Nice]]                                                                                                 | 2025-04-16 |
 | [[07 Digital Garden/5 Relationships You Need to Build a Successful Career\|5 Relationships You Need to Build a Successful Career]]           | 2025-04-16 |
 | [[07 Digital Garden/Intentional Curiosity\|Intentional Curiosity]]                                                                           | 2025-04-16 |
+| [[07 Digital Garden/12 Simple Ways to Create Momentum in Your Day\|12 Simple Ways to Create Momentum in Your Day]]                           | 2025-04-16 |
 | [[07 Digital Garden/Boundary between work and self\|Boundary between work and self]]                                                         | 2025-04-15 |
 | [[07 Digital Garden/Cognitive shifts are productivity poison\|Cognitive shifts are productivity poison]]                                     | 2025-04-15 |
 | [[07 Digital Garden/Momentum is powerful\|Momentum is powerful]]                                                                             | 2025-04-15 |
@@ -57,7 +59,6 @@
 | [[07 Digital Garden/Making mistakes is the privilege of the active\|Making mistakes is the privilege of the active]]                         | 2025-04-08 |
 | [[07 Digital Garden/Questioning assumptions\|Questioning assumptions]]                                                                       | 2025-04-08 |
 | [[07 Digital Garden/Reliability impacts opportunity\|Reliability impacts opportunity]]                                                       | 2025-04-08 |
-| [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]                                                           | 2025-04-08 |
 | [[07 Digital Garden/The salvation of man is through love and in love\|The salvation of man is through love and in love]]                     | 2025-04-08 |
 | [[07 Digital Garden/Age and wisdom\|Age and wisdom]]                                                                                         | 2025-04-07 |
 | [[07 Digital Garden/Don't waste today\|Don't waste today]]                                                                                   | 2025-04-07 |

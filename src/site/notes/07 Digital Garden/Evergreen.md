@@ -6,6 +6,7 @@ An evergreen note is an idea. It doesn't have to be something that I agree with,
 
 | Note                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]                                                       |
 | [[07 Digital Garden/Marketing equals caring\|Marketing equals caring]]                                                                   |
 | [[07 Digital Garden/Evergreen\|Evergreen]]                                                                                               |
 | [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]] |
@@ -26,7 +27,6 @@ An evergreen note is an idea. It doesn't have to be something that I agree with,
 | [[07 Digital Garden/Anomalies as a source of new ideas\|Anomalies as a source of new ideas]]                                             |
 | [[07 Digital Garden/Mise en place is a foundation of organization\|Mise en place is a foundation of organization]]                       |
 | [[07 Digital Garden/Cooking is an antidote to the problems of modernity\|Cooking is an antidote to the problems of modernity]]           |
-| [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]                                                       |
 | [[07 Digital Garden/Housing is an infrastructure asset\|Housing is an infrastructure asset]]                                             |
 | [[07 Digital Garden/Great decisions come from good processes\|Great decisions come from good processes]]                                 |
 | [[07 Digital Garden/Always go to the funeral\|Always go to the funeral]]                                                                 |

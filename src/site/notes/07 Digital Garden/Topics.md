@@ -39,10 +39,8 @@
 | [[02 Notes/Options\|Options]]                        | 2025-03-04    |
 | [[07 Digital Garden/Philosophy\|Philosophy]]         | 2025-04-16    |
 | [[07 Digital Garden/Pizza\|Pizza]]                   | 2025-04-16    |
-| [[02 Notes/Productivity\|Productivity]]              | 2025-03-04    |
 | [[07 Digital Garden/Productivity\|Productivity]]     | 2025-04-16    |
 | [[02 Notes/Quantum Computing\|Quantum Computing]]    | 2025-04-01    |
-| [[06 Utilities/Categories/Recipes\|Recipes]]         | 2025-04-05    |
 | [[07 Digital Garden/Recipes\|Recipes]]               | 2025-04-16    |
 | [[02 Notes/SMB\|SMB]]                                | 2025-03-04    |
 | [[02 Notes/Stocism\|Stocism]]                        | 2025-03-04    |

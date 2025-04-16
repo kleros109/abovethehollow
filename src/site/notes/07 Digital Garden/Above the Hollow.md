@@ -29,16 +29,16 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in m
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
-- [[07 Digital Garden/Jean-Michel Basquiat's Notes from NYC's Underground Art Scene\|Jean-Michel Basquiat's Notes from NYC's Underground Art Scene]]
-- [[07 Digital Garden/The Notecard System\|The Notecard System]]
-- [[07 Digital Garden/Abhishek - Grok 3 Can Now Create Mind Maps for Books\|Abhishek - Grok 3 Can Now Create Mind Maps for Books]]
-- [[07 Digital Garden/How to craft a note\|How to craft a note]]
-- [[07 Digital Garden/Note Taking\|Note Taking]]
-- [[07 Digital Garden/No Publish\|No Publish]]
-- [[07 Digital Garden/Investing in your future\|Investing in your future]]
-- [[07 Digital Garden/Consider the outside point of view\|Consider the outside point of view]]
-- [[07 Digital Garden/Cooking Restaurant Quality Fish\|Cooking Restaurant Quality Fish]]
-- [[07 Digital Garden/Deep Research Prompt\|Deep Research Prompt]]
+- [[07 Digital Garden/This Weekly Habit Changed My Business FOREVER\|This Weekly Habit Changed My Business FOREVER]]
+- [[07 Digital Garden/The Weekly Productivity Template To Achieve More\|The Weekly Productivity Template To Achieve More]]
+- [[07 Digital Garden/The Simple Daily Planning Method That Top Performers Use\|The Simple Daily Planning Method That Top Performers Use]]
+- [[07 Digital Garden/Improve Your Focus and Concentrate Better With Daily Logging\|Improve Your Focus and Concentrate Better With Daily Logging]]
+- [[07 Digital Garden/Here's a simple to-do list trick anyone can use\|Here's a simple to-do list trick anyone can use]]
+- [[07 Digital Garden/How to plan an epic 2025 in 56 minutes  Jesse Itzler\|How to plan an epic 2025 in 56 minutes  Jesse Itzler]]
+- [[07 Digital Garden/Dataview Beginners Guide\|Dataview Beginners Guide]]
+- [[07 Digital Garden/4 Steps to Hyperfocus Productivity System\|4 Steps to Hyperfocus Productivity System]]
+- [[07 Digital Garden/12 Simple Ways to Create Momentum in Your Day\|12 Simple Ways to Create Momentum in Your Day]]
+- [[07 Digital Garden/Weekly Review\|Weekly Review]]
 
 { .block-language-dataview}
 
