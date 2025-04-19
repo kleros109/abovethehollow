@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/topics/","tags":["categories"],"updated":"2025-04-16T15:21:54.786+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/topics/","tags":["categories"],"updated":"2025-04-16T21:46:59.233+01:00"}
 ---
+
 
 
 | File                                                    | Date Modified |
@@ -22,7 +23,7 @@
 | [[02 Notes/Curiosity\|Curiosity]]                    | 2025-03-04    |
 | [[02 Notes/Demographics\|Demographics]]              | 2025-03-04    |
 | [[02 Notes/Entrepreneurship\|Entrepreneurship]]      | 2025-04-07    |
-| [[07 Digital Garden/Favorites\|Favorites]]           | 2025-04-12    |
+| [[07 Digital Garden/Favorites\|Favorites]]           | 2025-04-18    |
 | [[02 Notes/Financial Analysis\|Financial Analysis]]  | 2025-03-04    |
 | [[02 Notes/Fixed Income\|Fixed Income]]              | 2025-03-04    |
 | [[02 Notes/Housing\|Housing]]                        | 2025-03-04    |
@@ -35,7 +36,7 @@
 | [[02 Notes/Macro\|Macro]]                            | 2025-03-04    |
 | [[07 Digital Garden/Marketing\|Marketing]]           | 2025-04-10    |
 | [[02 Notes/Mental Models\|Mental Models]]            | 2025-04-07    |
-| [[07 Digital Garden/Note Taking\|Note Taking]]       | 2025-04-16    |
+| [[07 Digital Garden/Note Taking\|Note Taking]]       | 2025-04-19    |
 | [[02 Notes/Options\|Options]]                        | 2025-03-04    |
 | [[07 Digital Garden/Philosophy\|Philosophy]]         | 2025-04-16    |
 | [[07 Digital Garden/Pizza\|Pizza]]                   | 2025-04-16    |
@@ -53,6 +54,6 @@
 | [[02 Notes/Travel\|Travel]]                          | 2025-03-04    |
 | [[02 Notes/Venture Capital\|Venture Capital]]        | 2025-04-03    |
 | [[02 Notes/Wishlist\|Wishlist]]                      | 2025-03-04    |
-| [[02 Notes/Writing\|Writing]]                        | 2025-03-04    |
+| [[07 Digital Garden/Writing\|Writing]]               | 2025-04-18    |
 
 { .block-language-dataview}

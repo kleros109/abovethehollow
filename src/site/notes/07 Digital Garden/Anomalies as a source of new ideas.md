@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/anomalies-as-a-source-of-new-ideas/","tags":["evergreen","ath"],"updated":"2025-04-08T02:53:14.719+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/anomalies-as-a-source-of-new-ideas/","tags":["evergreen","ath"],"updated":"2025-04-18T09:37:30.946+01:00"}
 ---
 
 

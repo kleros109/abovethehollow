@@ -6,6 +6,10 @@
 
 | Note                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]                                                               |
+| [[07 Digital Garden/Sonnet Productivity System\|Sonnet Productivity System]]                                                                     |
+| [[07 Digital Garden/How to plan your year from Jesse Itzler\|How to plan your year from Jesse Itzler]]                                           |
+| [[07 Digital Garden/My Productivity System\|My Productivity System]]                                                                             |
 | [[07 Digital Garden/This Weekly Habit Changed My Business FOREVER\|This Weekly Habit Changed My Business FOREVER]]                               |
 | [[07 Digital Garden/The Simple Daily Planning Method That Top Performers Use\|The Simple Daily Planning Method That Top Performers Use]]         |
 | [[07 Digital Garden/Improve Your Focus and Concentrate Better With Daily Logging\|Improve Your Focus and Concentrate Better With Daily Logging]] |
@@ -18,11 +22,8 @@
 | [[07 Digital Garden/The Action Method\|The Action Method]]                                                                                       |
 | [[07 Digital Garden/James Bedford Obsidian Structure\|James Bedford Obsidian Structure]]                                                         |
 | [[07 Digital Garden/Core Systems\|Core Systems]]                                                                                                 |
-| [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]                                                               |
 | [[07 Digital Garden/Do what you’re doing\|Do what you’re doing]]                                                                                 |
 | [[07 Digital Garden/Cognitive shifts are productivity poison\|Cognitive shifts are productivity poison]]                                         |
-| [[07 Digital Garden/How to plan your year from Jesse Itzler\|How to plan your year from Jesse Itzler]]                                           |
-| [[07 Digital Garden/Sonnet Productivity System\|Sonnet Productivity System]]                                                                     |
 | [[07 Digital Garden/Digital Gardens\|Digital Gardens]]                                                                                           |
 | [[07 Digital Garden/Weekly Review from Ross Harkness\|Weekly Review from Ross Harkness]]                                                         |
 | [[07 Digital Garden/Steven Covey's Roles and Goals Approach\|Steven Covey's Roles and Goals Approach]]                                           |

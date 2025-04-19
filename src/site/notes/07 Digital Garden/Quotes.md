@@ -3,27 +3,29 @@
 ---
 
 
-| Note                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[07 Digital Garden/Shane Parrish on confidence vs. competenece\|Shane Parrish on confidence vs. competenece]]                           |
-| [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                               |
-| [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                           |
-| [[07 Digital Garden/The true joy in life\|The true joy in life]]                                                                         |
-| [[07 Digital Garden/The chief task in life from Epictetus\|The chief task in life from Epictetus]]                                       |
-| [[07 Digital Garden/Gandhi on the way to live\|Gandhi on the way to live]]                                                               |
-| [[07 Digital Garden/Anna Gat on not disappearing\|Anna Gat on not disappearing]]                                                         |
-| [[07 Digital Garden/Scott Adams on success\|Scott Adams on success]]                                                                     |
-| [[07 Digital Garden/Peace and time\|Peace and time]]                                                                                     |
-| [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                     |
-| [[07 Digital Garden/Great decisions come from good processes\|Great decisions come from good processes]]                                 |
-| [[07 Digital Garden/The most powerful person in the world is the storyteller\|The most powerful person in the world is the storyteller]] |
-| [[07 Digital Garden/Questioning assumptions\|Questioning assumptions]]                                                                   |
-| [[07 Digital Garden/Age and wisdom\|Age and wisdom]]                                                                                     |
-| [[07 Digital Garden/Knowledge can close you mind\|Knowledge can close you mind]]                                                         |
-| [[07 Digital Garden/Don't waste today\|Don't waste today]]                                                                               |
-| [[07 Digital Garden/Anne Lamont on good relationships\|Anne Lamont on good relationships]]                                               |
-| [[07 Digital Garden/Most are neither for you nor against you\|Most are neither for you nor against you]]                                 |
-| [[07 Digital Garden/Identifying control in life choices\|Identifying control in life choices]]                                           |
+| Note                                                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Success is nothing more than moving from one failure to the next\|Success is nothing more than moving from one failure to the next]] |
+| [[07 Digital Garden/Great decisions come from good processes\|Great decisions come from good processes]]                                                 |
+| [[07 Digital Garden/The most powerful person in the world is the storyteller\|The most powerful person in the world is the storyteller]]                 |
+| [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                                     |
+| [[07 Digital Garden/Anne Lamott on hope\|Anne Lamott on hope]]                                                                                           |
+| [[07 Digital Garden/Shane Parrish on confidence vs. competenece\|Shane Parrish on confidence vs. competenece]]                                           |
+| [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                               |
+| [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           |
+| [[07 Digital Garden/The true joy in life\|The true joy in life]]                                                                                         |
+| [[07 Digital Garden/The chief task in life from Epictetus\|The chief task in life from Epictetus]]                                                       |
+| [[07 Digital Garden/Gandhi on the way to live\|Gandhi on the way to live]]                                                                               |
+| [[07 Digital Garden/Anna Gat on not disappearing\|Anna Gat on not disappearing]]                                                                         |
+| [[07 Digital Garden/Scott Adams on success\|Scott Adams on success]]                                                                                     |
+| [[07 Digital Garden/Peace and time\|Peace and time]]                                                                                                     |
+| [[07 Digital Garden/Questioning assumptions\|Questioning assumptions]]                                                                                   |
+| [[07 Digital Garden/Age and wisdom\|Age and wisdom]]                                                                                                     |
+| [[07 Digital Garden/Knowledge can close you mind\|Knowledge can close you mind]]                                                                         |
+| [[07 Digital Garden/Don't waste today\|Don't waste today]]                                                                                               |
+| [[07 Digital Garden/Anne Lamont on good relationships\|Anne Lamont on good relationships]]                                                               |
+| [[07 Digital Garden/Most are neither for you nor against you\|Most are neither for you nor against you]]                                                 |
+| [[07 Digital Garden/Identifying control in life choices\|Identifying control in life choices]]                                                           |
 
 { .block-language-dataview}
 
@@ -58,14 +60,12 @@
 | [[02 Notes/Voicenotes/2025-01-12 Avoiding Stupidity for Long-Term Advantage\|2025-01-12 Avoiding Stupidity for Long-Term Advantage]]                                                                                                                                                          | 2025-01-12 |
 | [[02 Notes/Voicenotes/2025-01-08 Organizing Opportunities and Activism\|2025-01-08 Organizing Opportunities and Activism]]                                                                                                                                                                    | 2025-01-08 |
 | [[02 Notes/Voicenotes/2025-01-04 Understanding and Simplicity in Explanations\|2025-01-04 Understanding and Simplicity in Explanations]]                                                                                                                                                      | 2025-01-04 |
-| [[04 Clippings/Success is nothing more than moving from one failure to the next\|Success is nothing more than moving from one failure to the next]]                                                                                                                                           | 2024-12-30 |
 | [[04 Clippings/James Baldwin on what love looks like\|James Baldwin on what love looks like]]                                                                                                                                                                                                 | 2024-12-29 |
 | [[04 Clippings/James Clear on Ease of Doing Your Job\|James Clear on Ease of Doing Your Job]]                                                                                                                                                                                                 | 2024-12-29 |
 | [[02 Notes/Voicenotes/2024-12-29 The Curse of Knowledge and Wisdom\|2024-12-29 The Curse of Knowledge and Wisdom]]                                                                                                                                                                            | 2024-12-29 |
 | [[04 Clippings/Paul Tudor Jones on market strategy\|Paul Tudor Jones on market strategy]]                                                                                                                                                                                                     | 2024-09-27 |
 | [[06 Utilities/Templates/Quote Template\|Quote Template]]                                                                                                                                                                                                                                     | 2024-06-27 |
 | [[03 References/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                                                                                                                                                                        | 2024-03-22 |
-| [[04 Clippings/Anne Lamott on hope\|Anne Lamott on hope]]                                                                                                                                                                                                                                     | 2024-03-09 |
 | [[04 Clippings/James Dyson on solving problems\|James Dyson on solving problems]]                                                                                                                                                                                                             | 2024-02-24 |
 
 { .block-language-dataview}

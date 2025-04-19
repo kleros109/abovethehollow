@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/making-mistakes-is-the-privilege-of-the-active/","tags":["evergreen","ath"],"updated":"2025-04-08T02:39:32.935+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/making-mistakes-is-the-privilege-of-the-active/","tags":["evergreen","ath"],"updated":"2025-04-18T09:37:27.454+01:00"}
 ---
 
 

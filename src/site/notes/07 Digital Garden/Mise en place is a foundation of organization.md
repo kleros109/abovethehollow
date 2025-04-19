@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/mise-en-place-is-a-foundation-of-organization/","tags":["notes","evergreen"],"updated":"2025-04-08T02:52:32.300+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/mise-en-place-is-a-foundation-of-organization/","tags":["notes","evergreen"],"updated":"2025-04-18T09:37:34.833+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/soreng-santi-kuen-kuen-lueng-lueng-black-sabbath-s-iron-man/","title":"Soreng Santi - Kuen Kuen Lueng Lueng (Black Sabbath's \"Iron Man\")","tags":["videos","favorites"],"updated":"2025-04-10T20:10:53.815+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/soreng-santi-kuen-kuen-lueng-lueng-black-sabbath-s-iron-man/","title":"Soreng Santi - Kuen Kuen Lueng Lueng (Black Sabbath's \"Iron Man\")","tags":["videos","favorites"],"updated":"2025-04-18T08:57:20.215+01:00"}
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/At8Zwo2myZc?si=FIHeo1l2nOeaCK1r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

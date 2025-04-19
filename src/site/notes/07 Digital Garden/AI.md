@@ -5,6 +5,8 @@
  
 | Note                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Meta Prompt\|Meta Prompt]]                                                                           |
+| [[07 Digital Garden/Blind Spots Prompt\|Blind Spots Prompt]]                                                             |
 | [[07 Digital Garden/Deep Research Prompt\|Deep Research Prompt]]                                                         |
 | [[07 Digital Garden/Intro to Large Language Models\|Intro to Large Language Models]]                                     |
 | [[07 Digital Garden/Markdown Summary & Extract Wisdom Prompt\|Markdown Summary & Extract Wisdom Prompt]]                 |
