@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/ai-is-bigger-than-the-internet-marc-andreessen/","title":"“AI is bigger than the internet”How AI will change EVERYTHING Elon Musk Censorship | Marc Andreessen","tags":["AI"],"updated":"2025-04-16T17:35:48.167+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/ai-is-bigger-than-the-internet-marc-andreessen/","title":"“AI is bigger than the internet”How AI will change EVERYTHING Elon Musk Censorship | Marc Andreessen","tags":["AI"],"updated":"2025-04-16T09:35:48.167-07:00"}
 ---
 
 # SUMMARY

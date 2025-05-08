@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/interview-tips/","tags":["careers","ath"],"updated":"2025-04-16T17:33:31.498+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/interview-tips/","tags":["careers","ath"],"updated":"2025-04-16T09:33:31.498-07:00"}
 ---
 
 

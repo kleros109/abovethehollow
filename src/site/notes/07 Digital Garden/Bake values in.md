@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/bake-values-in/","tags":["ath","advice"],"updated":"2025-04-19T19:45:23.685+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/bake-values-in/","tags":["ath","advice"],"updated":"2025-04-19T11:45:23.685-07:00"}
 ---
 
 

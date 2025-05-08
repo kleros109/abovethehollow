@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/having-a-hobby-mindset/","tags":["readwise","advice","ath","evergreen"],"updated":"2025-04-18T09:29:28.243+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/having-a-hobby-mindset/","tags":["readwise","advice","ath","evergreen"],"updated":"2025-04-18T01:29:28.243-07:00"}
 ---
 
 # Hobby Mindset

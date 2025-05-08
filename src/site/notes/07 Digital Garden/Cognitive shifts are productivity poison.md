@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/cognitive-shifts-are-productivity-poison/","tags":["ath","productivity"],"updated":"2025-04-15T09:47:38.247+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/cognitive-shifts-are-productivity-poison/","tags":["ath","productivity"],"updated":"2025-04-15T01:47:38.247-07:00"}
 ---
 
 

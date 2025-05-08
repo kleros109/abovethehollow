@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/tom-misch-and-yussef-dayes-lift-off/","title":"(2) Tom Misch & Yussef Dayes - Lift Off (feat. Rocco Palladino) - [Live] - YouTube","tags":["favorites","videos"],"updated":"2025-04-18T08:53:51.975+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/tom-misch-and-yussef-dayes-lift-off/","title":"(2) Tom Misch & Yussef Dayes - Lift Off (feat. Rocco Palladino) - [Live] - YouTube","tags":["favorites","videos"],"updated":"2025-04-18T00:53:51.975-07:00"}
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O7GaK516Wkk?si=VXPYkcsosW2X9MVb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

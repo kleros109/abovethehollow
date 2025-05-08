@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/how-to-get-rich-without-getting-lucky/","tags":["clippings"],"updated":"2025-04-16T17:48:21.772+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/how-to-get-rich-without-getting-lucky/","tags":["clippings"],"updated":"2025-04-16T09:48:21.772-07:00"}
 ---
 
 

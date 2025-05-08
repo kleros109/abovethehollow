@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/process-leads-to-purpose/","tags":["ath"],"updated":"2025-04-16T17:50:06.427+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/process-leads-to-purpose/","tags":["ath"],"updated":"2025-04-16T09:50:06.427-07:00"}
 ---
 
 A couple of days ago, [_Creative Doing_](https://herbertlui.net/reps/) was featured in Readwise’s newsletter, [Wisereads](https://wise.readwise.io/issues/wisereads-vol-16/). It excerpts a passage from the introduction:

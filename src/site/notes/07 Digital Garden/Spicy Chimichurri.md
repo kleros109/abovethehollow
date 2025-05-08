@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/spicy-chimichurri/","tags":["readwise","recipes","ath/published"],"updated":"2025-04-07T05:15:59.272+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/spicy-chimichurri/","tags":["readwise","recipes","ath/published"],"updated":"2025-04-06T21:15:59.272-07:00"}
 ---
 
 # Tweets From Cooking With Chris

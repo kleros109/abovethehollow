@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/showing-up-vs-disapearing/","tags":["advice","ath"],"updated":"2025-04-16T17:39:27.029+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/showing-up-vs-disapearing/","tags":["advice","ath"],"updated":"2025-04-16T09:39:27.029-07:00"}
 ---
 
 [Anna Gat writes](https://annagat.substack.com/p/on-not-disappearing):

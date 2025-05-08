@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/lesson-plan-prompt/","tags":["AI"],"updated":"2025-04-06T22:34:37.172+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/lesson-plan-prompt/","tags":["AI"],"updated":"2025-04-06T14:34:37.172-07:00"}
 ---
 
 

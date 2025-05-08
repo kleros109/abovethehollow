@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/thanksgiving-gravy-recipe/","tags":["recipes","clippings"],"updated":"2025-04-16T21:29:04.712+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/thanksgiving-gravy-recipe/","tags":["recipes","clippings"],"updated":"2025-04-16T13:29:04.712-07:00"}
 ---
 
 [Link](https://www.latimes.com/recipe/easy-thanksgiving-gravy-recipe)

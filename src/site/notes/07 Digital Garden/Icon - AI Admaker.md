@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/icon-ai-admaker/","tags":["marketing"],"updated":"2025-04-16T17:37:47.701+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/icon-ai-admaker/","tags":["marketing"],"updated":"2025-04-16T09:37:47.701-07:00"}
 ---
 
 Website - https://icon.me/?utm=ash

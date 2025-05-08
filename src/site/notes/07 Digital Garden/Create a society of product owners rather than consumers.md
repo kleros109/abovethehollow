@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/create-a-society-of-product-owners-rather-than-consumers/","tags":["evergreen","ath"],"updated":"2025-04-19T14:28:32.787+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/create-a-society-of-product-owners-rather-than-consumers/","tags":["evergreen","ath"],"updated":"2025-04-19T06:28:32.787-07:00"}
 ---
 
 

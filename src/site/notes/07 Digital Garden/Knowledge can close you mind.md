@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/knowledge-can-close-you-mind/","tags":["ath","quotes"],"updated":"2025-04-07T23:05:24.127+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/knowledge-can-close-you-mind/","tags":["ath","quotes"],"updated":"2025-04-07T15:05:24.127-07:00"}
 ---
 
 

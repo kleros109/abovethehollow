@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/kinda-nice/","tags":["advice","ath"],"updated":"2025-04-16T17:38:22.273+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/kinda-nice/","tags":["advice","ath"],"updated":"2025-04-16T09:38:22.273-07:00"}
 ---
 
 

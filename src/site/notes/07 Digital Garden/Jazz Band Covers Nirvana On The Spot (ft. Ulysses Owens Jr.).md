@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/jazz-band-covers-nirvana-on-the-spot-ft-ulysses-owens-jr/","title":"Jazz Band Covers Nirvana On The Spot (ft. Ulysses Owens Jr.)","tags":["videos","favorites"],"updated":"2025-04-18T08:57:10.949+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/jazz-band-covers-nirvana-on-the-spot-ft-ulysses-owens-jr/","title":"Jazz Band Covers Nirvana On The Spot (ft. Ulysses Owens Jr.)","tags":["videos","favorites"],"updated":"2025-04-18T00:57:10.949-07:00"}
 ---
 
 # Jazz Band Covers Nirvana On The Spot (ft. Ulysses Owens Jr.)

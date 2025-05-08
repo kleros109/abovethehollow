@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/effective-text-prompts-for-video-generation/","title":"Writing effective text prompts for video generation","tags":["AI"],"updated":"2025-04-06T22:56:44.321+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/effective-text-prompts-for-video-generation/","title":"Writing effective text prompts for video generation","tags":["AI"],"updated":"2025-04-06T14:56:44.321-07:00"}
 ---
 
 ## Summary

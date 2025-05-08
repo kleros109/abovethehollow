@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/quotes/","updated":"2025-04-16T12:55:39.681+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/quotes/","updated":"2025-04-16T04:55:39.681-07:00"}
 ---
 
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Anne Lamott on hope\|Anne Lamott on hope]]                                                                                           |
 | [[07 Digital Garden/Success is nothing more than moving from one failure to the next\|Success is nothing more than moving from one failure to the next]] |
 | [[07 Digital Garden/Great decisions come from good processes\|Great decisions come from good processes]]                                                 |
 | [[07 Digital Garden/The most powerful person in the world is the storyteller\|The most powerful person in the world is the storyteller]]                 |
 | [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                                     |
-| [[07 Digital Garden/Anne Lamott on hope\|Anne Lamott on hope]]                                                                                           |
 | [[07 Digital Garden/Shane Parrish on confidence vs. competenece\|Shane Parrish on confidence vs. competenece]]                                           |
 | [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                               |
 | [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           |
@@ -32,6 +32,7 @@
 
 | Note                                                                                                                                                                                                                                                                                             | Updated    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| [[04 Clippings/Paul Tudor Jones on market strategy\|Paul Tudor Jones on market strategy]]                                                                                                                                                                                                     | 2025-04-20 |
 | [[02 Notes/Above the Hollow 47\|Above the Hollow 47]]                                                                                                                                                                                                                                         | 2025-04-16 |
 | [[02 Notes/Voicenotes/2025-01-08 Questioning Assumptions\|2025-01-08 Questioning Assumptions]]                                                                                                                                                                                                | 2025-04-07 |
 | [[02 Notes/Voicenotes/2024-12-29 Mind and the Illusion of Tomorrow\|2024-12-29 Mind and the Illusion of Tomorrow]]                                                                                                                                                                            | 2025-04-06 |
@@ -47,7 +48,7 @@
 | [[02 Notes/Voicenotes/2025-03-13 Reflection on Poe's wisdom about observation\|2025-03-13 Reflection on Poe's wisdom about observation]]                                                                                                                                                      | 2025-03-13 |
 | [[02 Notes/Voicenotes/2025-03-06 Finding balance in daily life\|2025-03-06 Finding balance in daily life]]                                                                                                                                                                                    | 2025-03-06 |
 | [[02 Notes/Voicenotes/2025-02-28 Making a difference against apathy\|2025-02-28 Making a difference against apathy]]                                                                                                                                                                          | 2025-03-01 |
-| [[04 Clippings/Tom Morgan on Curiosity\|Tom Morgan on Curiosity]]                                                                                                                                                                                                                             | 2025-02-20 |
+| [[04 Clippings/Tom Morgan on Curiosity\|Tom Morgan on Curiosity]]                                                                                                                                                                                                                             | 2025-02-19 |
 | [[02 Notes/Voicenotes/2025-02-19 Curiosity as the best guide\|2025-02-19 Curiosity as the best guide]]                                                                                                                                                                                        | 2025-02-19 |
 | [[02 Notes/Voicenotes/2025-02-14 The power of adaptability and determination\|2025-02-14 The power of adaptability and determination]]                                                                                                                                                        | 2025-02-15 |
 | [[02 Notes/Voicenotes/2025-02-10 Seeing others through empathy and understanding\|2025-02-10 Seeing others through empathy and understanding]]                                                                                                                                                | 2025-02-10 |
@@ -63,7 +64,6 @@
 | [[04 Clippings/James Baldwin on what love looks like\|James Baldwin on what love looks like]]                                                                                                                                                                                                 | 2024-12-29 |
 | [[04 Clippings/James Clear on Ease of Doing Your Job\|James Clear on Ease of Doing Your Job]]                                                                                                                                                                                                 | 2024-12-29 |
 | [[02 Notes/Voicenotes/2024-12-29 The Curse of Knowledge and Wisdom\|2024-12-29 The Curse of Knowledge and Wisdom]]                                                                                                                                                                            | 2024-12-29 |
-| [[04 Clippings/Paul Tudor Jones on market strategy\|Paul Tudor Jones on market strategy]]                                                                                                                                                                                                     | 2024-09-27 |
 | [[06 Utilities/Templates/Quote Template\|Quote Template]]                                                                                                                                                                                                                                     | 2024-06-27 |
 | [[03 References/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                                                                                                                                                                        | 2024-03-22 |
 | [[04 Clippings/James Dyson on solving problems\|James Dyson on solving problems]]                                                                                                                                                                                                             | 2024-02-24 |

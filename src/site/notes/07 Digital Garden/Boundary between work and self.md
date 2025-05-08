@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/boundary-between-work-and-self/","tags":["ath","careers"],"updated":"2025-04-15T09:47:38.246+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/boundary-between-work-and-self/","tags":["ath","careers"],"updated":"2025-04-15T01:47:38.246-07:00"}
 ---
 
 

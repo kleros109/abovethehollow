@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/digital-gardens/","tags":["productivity","inbox"],"updated":"2025-04-08T03:37:41.636+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/digital-gardens/","tags":["productivity","inbox"],"updated":"2025-04-07T19:37:41.636-07:00"}
 ---
 
 https://tomcritchlow.com/wiki/

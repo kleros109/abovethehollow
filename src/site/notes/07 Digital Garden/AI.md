@@ -1,27 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/ai/","updated":"2025-04-08T15:24:24.770+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/ai/","updated":"2025-04-08T07:24:24.770-07:00"}
 ---
 
  
 | Note                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Super Whisper Reformat Message Prompt\|Super Whisper Reformat Message Prompt]]                       |
+| [[07 Digital Garden/Global News Prompt\|Global News Prompt]]                                                             |
+| [[07 Digital Garden/Markdown Summary & Extract Wisdom Prompt\|Markdown Summary & Extract Wisdom Prompt]]                 |
 | [[07 Digital Garden/Meta Prompt\|Meta Prompt]]                                                                           |
 | [[07 Digital Garden/Blind Spots Prompt\|Blind Spots Prompt]]                                                             |
+| [[07 Digital Garden/AI is bigger than the internet - Marc Andreessen\|AI is bigger than the internet - Marc Andreessen]] |
 | [[07 Digital Garden/Deep Research Prompt\|Deep Research Prompt]]                                                         |
 | [[07 Digital Garden/Intro to Large Language Models\|Intro to Large Language Models]]                                     |
-| [[07 Digital Garden/Markdown Summary & Extract Wisdom Prompt\|Markdown Summary & Extract Wisdom Prompt]]                 |
 | [[07 Digital Garden/Inbox AI Transcribe Prompt\|Inbox AI Transcribe Prompt]]                                             |
 | [[07 Digital Garden/AI Prompts from Sabrina Ramonov\|AI Prompts from Sabrina Ramonov]]                                   |
 | [[07 Digital Garden/Copilot System Prompt\|Copilot System Prompt]]                                                       |
 | [[07 Digital Garden/Loan Proposal Review Prompt\|Loan Proposal Review Prompt]]                                           |
 | [[07 Digital Garden/Journal Prompt\|Journal Prompt]]                                                                     |
 | [[07 Digital Garden/Financial Analysis in Claude Ai\|Financial Analysis in Claude Ai]]                                   |
-| [[07 Digital Garden/AI is bigger than the internet - Marc Andreessen\|AI is bigger than the internet - Marc Andreessen]] |
 | [[07 Digital Garden/What I know about AI\|What I know about AI]]                                                         |
 | [[07 Digital Garden/Explainer Prompt\|Explainer Prompt]]                                                                 |
 | [[07 Digital Garden/Claude prompts to validate business ideas\|Claude prompts to validate business ideas]]               |
 | [[07 Digital Garden/N8N Cheat Sheet\|N8N Cheat Sheet]]                                                                   |
-| [[07 Digital Garden/Global News Prompt\|Global News Prompt]]                                                             |
 | [[07 Digital Garden/Claude Sentience System Prompt\|Claude Sentience System Prompt]]                                     |
 | [[07 Digital Garden/Cursor Rules for AI\|Cursor Rules for AI]]                                                           |
 | [[07 Digital Garden/Voicenotes AI Prompts\|Voicenotes AI Prompts]]                                                       |

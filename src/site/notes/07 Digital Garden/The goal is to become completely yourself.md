@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-goal-is-to-become-completely-yourself/","tags":["ath"],"updated":"2025-04-16T17:49:23.353+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-goal-is-to-become-completely-yourself/","tags":["ath"],"updated":"2025-04-16T09:49:23.353-07:00"}
 ---
 
 

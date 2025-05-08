@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-action-method/","tags":["productivity"],"updated":"2025-04-16T21:38:38.601+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-action-method/","tags":["productivity"],"updated":"2025-04-16T13:38:38.601-07:00"}
 ---
 
 # The Action Method: A Framework for Making Ideas Happen

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/cooking-is-an-antidote-to-the-problems-of-modernity/","tags":["evergreen","ath"],"updated":"2025-04-18T09:36:45.125+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/cooking-is-an-antidote-to-the-problems-of-modernity/","tags":["evergreen","ath"],"updated":"2025-04-18T01:36:45.125-07:00"}
 ---
 
 

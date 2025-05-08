@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-16T17:54:02.044+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-04-20T06:58:08.557-07:00"}
 ---
 
 ![Revue Banner.png](/img/user/06%20Utilities/Attachments/Revue%20Banner.png)
@@ -9,7 +9,7 @@ This is my [digital garden](https://cagrimmett.com/ideas/2020/11/08/what-are-dig
 ---
 ## Topics
 
-The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in my family group chat. These notes and others have been categorized into [[07 Digital Garden/Topics\|Topics]].  A selection of topics to get you started are below:
+The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in my family group chat. These notes and others have been categorized into [[07 Digital Garden/Topics\|Topics]].  A selection of topics to get you started are shown below:
 
 - [[07 Digital Garden/Advice\|Advice]]
 - [[07 Digital Garden/AI\|AI]]
@@ -29,16 +29,16 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in m
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
-- [[07 Digital Garden/Success is nothing more than moving from one failure to the next\|Success is nothing more than moving from one failure to the next]]
-- [[07 Digital Garden/The Values of Yvon Chouinard\|The Values of Yvon Chouinard]]
-- [[07 Digital Garden/Bake values in\|Bake values in]]
-- [[07 Digital Garden/Note Taking\|Note Taking]]
-- [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]]
-- [[07 Digital Garden/Meta Prompt\|Meta Prompt]]
-- [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]
-- [[07 Digital Garden/Mise en place is a foundation of organization\|Mise en place is a foundation of organization]]
-- [[07 Digital Garden/Anomalies as a source of new ideas\|Anomalies as a source of new ideas]]
-- [[07 Digital Garden/Making mistakes is the privilege of the active\|Making mistakes is the privilege of the active]]
+- [[07 Digital Garden/Super Whisper Reformat Message Prompt\|Super Whisper Reformat Message Prompt]]
+- [[07 Digital Garden/Global News Prompt\|Global News Prompt]]
+- [[07 Digital Garden/The Robust Asset Allocation Index\|The Robust Asset Allocation Index]]
+- [[07 Digital Garden/Hybrid Asset Allocation\|Hybrid Asset Allocation]]
+- [[07 Digital Garden/Thomas Laffon at All-in Summitt 2024\|Thomas Laffon at All-in Summitt 2024]]
+- [[07 Digital Garden/What makes a great manager\|What makes a great manager]]
+- [[07 Digital Garden/Mental Models from George Mack\|Mental Models from George Mack]]
+- [[07 Digital Garden/Bond math is now key to today's financial markets\|Bond math is now key to today's financial markets]]
+- [[07 Digital Garden/Writing as a Way of Thinking - Article\|Writing as a Way of Thinking - Article]]
+- [[07 Digital Garden/The most powerful razors\|The most powerful razors]]
 
 { .block-language-dataview}
 

@@ -1,11 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/evergreen/","tags":["categories","inbox"],"updated":"2025-04-18T09:24:23.261+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/evergreen/","tags":["categories","inbox"],"updated":"2025-04-20T11:19:57.044-07:00"}
 ---
 
 An evergreen note is an idea. It doesn't have to be something that I agree with, but something is composable. In a way, every idiom is a kind of evergreen idea.
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> This TLDR is you focus on writing **atomic**, **declarative** notes in **your own words**. The titles of these "*Evergreen*" or "*Zettel*" notes are statements; things you believe based on what you've read and experienced in the world. Things like "**Naming is the hardest part of programming**", or "**Fitness culture has replaced religion in modern society**". You follow this up with a paragraph or two explaining the statement and any literary references that led you to that belief.
+> ![](https://res.cloudinary.com/dxj9qr5gj/image/upload/c_scale,f_auto,q_auto:best,w_1000/v1626013083/maggieappleton.com/notes/evergreen-notes/Evergreen_Notes_03_cyjnrl_shrink_urtoqe.png)
+
+</div></div>
+
+
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Have a next play mentality\|Have a next play mentality]]                                                                             |
+| [[07 Digital Garden/Writing is a way of thinking\|Writing is a way of thinking]]                                                                         |
+| [[07 Digital Garden/What are evergreen notes\|What are evergreen notes]]                                                                                 |
+| [[07 Digital Garden/Consider the outside point of view\|Consider the outside point of view]]                                                             |
 | [[07 Digital Garden/Success is nothing more than moving from one failure to the next\|Success is nothing more than moving from one failure to the next]] |
 | [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]]                 |
 | [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]                                                                       |
@@ -22,12 +37,10 @@ An evergreen note is an idea. It doesn't have to be something that I agree with,
 | [[07 Digital Garden/The salvation of man is through love and in love\|The salvation of man is through love and in love]]                                 |
 | [[07 Digital Garden/Each moment is a once in a lifetime occurence\|Each moment is a once in a lifetime occurence]]                                       |
 | [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                                     |
-| [[07 Digital Garden/What are evergreen notes\|What are evergreen notes]]                                                                                 |
 | [[07 Digital Garden/Having a hobby mindset\|Having a hobby mindset]]                                                                                     |
 | [[07 Digital Garden/You don't want maximum effectiveness\|You don't want maximum effectiveness]]                                                         |
 | [[07 Digital Garden/Rare skills are career capital\|Rare skills are career capital]]                                                                     |
 | [[07 Digital Garden/Momentum is powerful\|Momentum is powerful]]                                                                                         |
-| [[07 Digital Garden/Writing is a way of thinking\|Writing is a way of thinking]]                                                                         |
 | [[07 Digital Garden/Building trust quickly is a superpower\|Building trust quickly is a superpower]]                                                     |
 | [[07 Digital Garden/Avoid losing before you can win\|Avoid losing before you can win]]                                                                   |
 | [[07 Digital Garden/Concise explanations accelerate progress\|Concise explanations accelerate progress]]                                                 |

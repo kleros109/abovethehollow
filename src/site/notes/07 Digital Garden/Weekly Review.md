@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/weekly-review/","tags":["productivity"],"updated":"2025-04-16T21:40:12.956+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/weekly-review/","tags":["productivity"],"updated":"2025-04-16T13:40:12.956-07:00"}
 ---
 
 ## Checklist

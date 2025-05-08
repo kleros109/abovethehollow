@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/career-advice-from-my-highlights/","tags":["careers"],"updated":"2025-04-07T04:48:06.788+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/career-advice-from-my-highlights/","tags":["careers"],"updated":"2025-04-06T20:48:06.788-07:00"}
 ---
 
 Based on the sources, here is a comprehensive overview of career advice:
