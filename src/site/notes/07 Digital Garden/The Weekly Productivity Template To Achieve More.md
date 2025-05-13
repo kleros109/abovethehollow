@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-weekly-productivity-template-to-achieve-more/","title":"How I Manage My Time - The Weekly Productivity Template To Achieve More | Cal Newport","tags":["productivity"],"updated":"2025-04-16T21:45:58.816+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-weekly-productivity-template-to-achieve-more/","title":"How I Manage My Time - The Weekly Productivity Template To Achieve More | Cal Newport","tags":["productivity"],"updated":"2025-04-16T13:45:58.816-07:00"}
 ---
 
 # How I Manage My Time - The Weekly Productivity Template To Achieve More | Cal Newport

@@ -5,6 +5,8 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Looking fear in the face\|Looking fear in the face]]                                                                                 |
+| [[07 Digital Garden/Hope begins in the dark\|Hope begins in the dark]]                                                                                   |
 | [[07 Digital Garden/Anne Lamott on hope\|Anne Lamott on hope]]                                                                                           |
 | [[07 Digital Garden/Success is nothing more than moving from one failure to the next\|Success is nothing more than moving from one failure to the next]] |
 | [[07 Digital Garden/Great decisions come from good processes\|Great decisions come from good processes]]                                                 |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/improve-your-focus-and-concentrate-better-with-this-bullet-journaling-technique/","title":"Improve Your Focus and Concentrate Better With This Bullet Journaling Technique","tags":["favorites"],"updated":"2025-04-18T08:57:43.417+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/improve-your-focus-and-concentrate-better-with-this-bullet-journaling-technique/","title":"Improve Your Focus and Concentrate Better With This Bullet Journaling Technique","tags":["favorites"],"updated":"2025-04-18T00:57:43.417-07:00"}
 ---
 
 To improve focus, practice de-fragmenting your attention by prioritizing tasks, eliminating distractions, and setting specific goals. Engage in mindfulness techniques and take regular breaks to enhance concentration.

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/super-whisper-reformat-message-prompt/","tags":["ath"],"updated":"2025-05-07T20:12:40.952-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/super-whisper-reformat-message-prompt/","tags":["AI","ath"],"updated":"2025-05-12T17:40:53.636-07:00"}
 ---
 
- 
- Reformat the user message.
+## Reformat the user message
  - Use a format appropriate for texting, or instant messaging.
  - Fix grammar, spelling, and punctuation.
  - Remove speech artifacts (um, uh, false starts, repetitions).

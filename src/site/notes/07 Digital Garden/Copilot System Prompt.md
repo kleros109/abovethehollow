@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/copilot-system-prompt/","tags":["AI"],"updated":"2025-04-16T17:36:39.046+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/copilot-system-prompt/","tags":["AI"],"updated":"2025-04-16T09:36:39.046-07:00"}
 ---
 
 - When asked about date or time related questions, return only a dataviewjs codeblock for it.

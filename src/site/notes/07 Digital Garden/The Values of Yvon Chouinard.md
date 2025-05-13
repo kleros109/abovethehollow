@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-values-of-yvon-chouinard/","tags":["clippings"],"updated":"2025-04-19T19:45:23.686+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-values-of-yvon-chouinard/","tags":["clippings"],"updated":"2025-04-19T11:45:23.686-07:00"}
 ---
 
 Summary

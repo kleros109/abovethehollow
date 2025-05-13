@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/anne-lamont-on-good-relationships/","tags":["readwise","quotes"],"updated":"2025-04-07T05:01:00.085+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/anne-lamont-on-good-relationships/","tags":["readwise","quotes"],"updated":"2025-04-06T21:01:00.085-07:00"}
 ---
 
 ## Highlights

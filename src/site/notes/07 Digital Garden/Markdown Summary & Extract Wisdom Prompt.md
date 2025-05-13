@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/markdown-summary-and-extract-wisdom-prompt/","tags":["AI"],"updated":"2025-04-16T17:37:05.101+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/markdown-summary-and-extract-wisdom-prompt/","tags":["AI"],"updated":"2025-04-20T13:18:50.910-07:00"}
 ---
 
 
@@ -58,3 +58,4 @@ So, make a summary in the style above, and then, in a new section at the end, fo
 - Present IDEAS, QUOTES, TIPS, and REFERENCES in bulleted lists.
 
 Alright, this is the transcript:    
+

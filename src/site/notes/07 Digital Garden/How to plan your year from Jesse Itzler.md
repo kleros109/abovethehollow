@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/how-to-plan-your-year-from-jesse-itzler/","tags":["favorites","productivity"],"updated":"2025-04-18T08:56:12.418+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/how-to-plan-your-year-from-jesse-itzler/","tags":["favorites","productivity"],"updated":"2025-04-18T00:56:12.418-07:00"}
 ---
 
 

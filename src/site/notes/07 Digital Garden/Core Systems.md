@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/core-systems/","tags":["productivity"],"updated":"2025-04-16T21:36:58.047+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/core-systems/","tags":["productivity"],"updated":"2025-04-16T13:36:58.047-07:00"}
 ---
 
 ## Description

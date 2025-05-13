@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/aeropress-recipe/","title":"THE AEROPRESS - The Perfect All-Round Brew Recipe","tags":["recipes"],"updated":"2025-04-16T21:33:02.593+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/aeropress-recipe/","title":"THE AEROPRESS - The Perfect All-Round Brew Recipe","tags":["recipes"],"updated":"2025-04-16T13:33:02.593-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/marketing/","updated":"2025-04-10T18:55:33.209+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/marketing/","updated":"2025-04-10T10:55:33.209-07:00"}
 ---
 
 | Note                                                                                                                                        | Updated    |

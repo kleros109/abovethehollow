@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/productivity/","updated":"2025-04-16T12:55:24.953+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/productivity/","updated":"2025-04-16T04:55:24.953-07:00"}
 ---
 
 
 
 | Note                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/The Simple Daily Planning Method That Top Performers Use\|The Simple Daily Planning Method That Top Performers Use]]         |
 | [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]                                                               |
 | [[07 Digital Garden/Sonnet Productivity System\|Sonnet Productivity System]]                                                                     |
 | [[07 Digital Garden/How to plan your year from Jesse Itzler\|How to plan your year from Jesse Itzler]]                                           |
 | [[07 Digital Garden/My Productivity System\|My Productivity System]]                                                                             |
 | [[07 Digital Garden/This Weekly Habit Changed My Business FOREVER\|This Weekly Habit Changed My Business FOREVER]]                               |
-| [[07 Digital Garden/The Simple Daily Planning Method That Top Performers Use\|The Simple Daily Planning Method That Top Performers Use]]         |
 | [[07 Digital Garden/Improve Your Focus and Concentrate Better With Daily Logging\|Improve Your Focus and Concentrate Better With Daily Logging]] |
 | [[07 Digital Garden/Here's a simple to-do list trick anyone can use\|Here's a simple to-do list trick anyone can use]]                           |
 | [[07 Digital Garden/How to plan an epic 2025 in 56 minutes  Jesse Itzler\|How to plan an epic 2025 in 56 minutes  Jesse Itzler]]                 |
@@ -20,7 +20,6 @@
 | [[07 Digital Garden/Weekly Review\|Weekly Review]]                                                                                               |
 | [[07 Digital Garden/Productivity System\|Productivity System]]                                                                                   |
 | [[07 Digital Garden/The Action Method\|The Action Method]]                                                                                       |
-| [[07 Digital Garden/James Bedford Obsidian Structure\|James Bedford Obsidian Structure]]                                                         |
 | [[07 Digital Garden/Core Systems\|Core Systems]]                                                                                                 |
 | [[07 Digital Garden/Do what you’re doing\|Do what you’re doing]]                                                                                 |
 | [[07 Digital Garden/Cognitive shifts are productivity poison\|Cognitive shifts are productivity poison]]                                         |

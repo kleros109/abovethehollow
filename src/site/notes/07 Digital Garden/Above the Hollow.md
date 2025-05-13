@@ -29,6 +29,8 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in m
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
+- [[07 Digital Garden/Looking fear in the face\|Looking fear in the face]]
+- [[07 Digital Garden/Hope begins in the dark\|Hope begins in the dark]]
 - [[07 Digital Garden/Super Whisper Reformat Message Prompt\|Super Whisper Reformat Message Prompt]]
 - [[07 Digital Garden/Global News Prompt\|Global News Prompt]]
 - [[07 Digital Garden/The Robust Asset Allocation Index\|The Robust Asset Allocation Index]]
@@ -37,8 +39,6 @@ Here are the 10 most recent changes to my notes. A more comprehensive list of ch
 - [[07 Digital Garden/What makes a great manager\|What makes a great manager]]
 - [[07 Digital Garden/Mental Models from George Mack\|Mental Models from George Mack]]
 - [[07 Digital Garden/Bond math is now key to today's financial markets\|Bond math is now key to today's financial markets]]
-- [[07 Digital Garden/Writing as a Way of Thinking - Article\|Writing as a Way of Thinking - Article]]
-- [[07 Digital Garden/The most powerful razors\|The most powerful razors]]
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/steven-covey-s-roles-and-goals-approach/","tags":["notes"],"updated":"2025-04-06T22:51:10.688+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/steven-covey-s-roles-and-goals-approach/","tags":["notes"],"updated":"2025-04-06T14:51:10.688-07:00"}
 ---
 
 # Covey's Roles and Goals Approach

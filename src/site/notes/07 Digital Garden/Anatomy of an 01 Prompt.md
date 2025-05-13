@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/anatomy-of-an-01-prompt/","tags":["AI"],"updated":"2025-04-06T22:25:50.893+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/anatomy-of-an-01-prompt/","tags":["AI"],"updated":"2025-04-06T14:25:50.893-07:00"}
 ---
 
 

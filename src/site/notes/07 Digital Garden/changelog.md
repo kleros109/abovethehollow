@@ -6,6 +6,8 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                                                        | Created    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Looking fear in the face\|Looking fear in the face]]                                                                                 | 2025-05-13 |
+| [[07 Digital Garden/Hope begins in the dark\|Hope begins in the dark]]                                                                                   | 2025-05-13 |
 | [[07 Digital Garden/Super Whisper Reformat Message Prompt\|Super Whisper Reformat Message Prompt]]                                                       | 2025-05-07 |
 | [[07 Digital Garden/Global News Prompt\|Global News Prompt]]                                                                                             | 2025-04-14 |
 | [[07 Digital Garden/The Robust Asset Allocation Index\|The Robust Asset Allocation Index]]                                                               | 2023-11-04 |
@@ -54,7 +56,5 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/The most powerful person in the world is the storyteller\|The most powerful person in the world is the storyteller]]                 | 2024-09-28 |
 | [[07 Digital Garden/Reliability impacts opportunity\|Reliability impacts opportunity]]                                                                   | 2025-01-20 |
 | [[07 Digital Garden/Cooking is an antidote to the problems of modernity\|Cooking is an antidote to the problems of modernity]]                           | 2023-12-10 |
-| [[07 Digital Garden/Demographics will reverse major global trends\|Demographics will reverse major global trends]]                                       | 2023-09-28 |
-| [[07 Digital Garden/The salvation of man is through love and in love\|The salvation of man is through love and in love]]                                 | 2024-03-30 |
 
 { .block-language-dataview}

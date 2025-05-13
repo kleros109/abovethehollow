@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/miso-and-ginger-chuck-roast/","tags":["recipes"],"updated":"2025-04-16T21:19:26.957+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/miso-and-ginger-chuck-roast/","tags":["recipes"],"updated":"2025-04-16T13:19:26.957-07:00"}
 ---
 
 The most delicious braised beef marinade you will ever try, hands down. This simple combination of flavors is so versatile and truly shines on a tender, low and slow braised chuck roast. Finish it uncovered under super high heat for those delicious crispy edges we all love! Save and follow [@caitlinjesson](https://www.instagram.com/caitlinjesson/) for easy gluten free and dairy free recipes.  

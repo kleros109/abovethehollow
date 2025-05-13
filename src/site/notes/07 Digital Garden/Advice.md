@@ -1,10 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/advice/","updated":"2025-04-08T15:23:56.628+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/advice/","updated":"2025-04-08T07:23:56.628-07:00"}
 ---
 
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Have a next play mentality\|Have a next play mentality]]                                                                             |
+| [[07 Digital Garden/Persistence increases our power in doing\|Persistence increases our power in doing]]                                                 |
+| [[07 Digital Garden/Unconventional problem solving\|Unconventional problem solving]]                                                                     |
+| [[07 Digital Garden/Yvon Chouinard's Journey to Protecting Patagonia's Values\|Yvon Chouinard's Journey to Protecting Patagonia's Values]]               |
+| [[07 Digital Garden/Consider the outside point of view\|Consider the outside point of view]]                                                             |
 | [[07 Digital Garden/Success is nothing more than moving from one failure to the next\|Success is nothing more than moving from one failure to the next]] |
 | [[07 Digital Garden/Having a hobby mindset\|Having a hobby mindset]]                                                                                     |
 | [[07 Digital Garden/You don't want maximum effectiveness\|You don't want maximum effectiveness]]                                                         |
@@ -20,7 +25,6 @@
 | [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                               |
 | [[07 Digital Garden/The goal is to become completely yourself\|The goal is to become completely yourself]]                                               |
 | [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           |
-| [[07 Digital Garden/Yvon Chouinard's Journey to Protecting Patagonia's Values\|Yvon Chouinard's Journey to Protecting Patagonia's Values]]               |
 | [[07 Digital Garden/The true joy in life\|The true joy in life]]                                                                                         |
 | [[07 Digital Garden/How to Get Rich (without getting lucky)\|How to Get Rich (without getting lucky)]]                                                   |
 | [[07 Digital Garden/Two questions for choosing a company to work with\|Two questions for choosing a company to work with]]                               |

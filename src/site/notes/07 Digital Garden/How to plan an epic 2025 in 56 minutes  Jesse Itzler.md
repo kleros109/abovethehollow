@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/how-to-plan-an-epic-2025-in-56-minutes-jesse-itzler/","title":"How to plan an epic 2025 in 56 minutes | Jesse Itzler","tags":["productivity"],"updated":"2025-04-16T21:43:09.218+01:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/how-to-plan-an-epic-2025-in-56-minutes-jesse-itzler/","title":"How to plan an epic 2025 in 56 minutes | Jesse Itzler","tags":["productivity"],"updated":"2025-04-16T13:43:09.218-07:00"}
 ---
 
 # How to plan an epic 2025 in 56 minutes | Jesse Itzler
