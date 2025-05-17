@@ -9,7 +9,7 @@
 
 
 > “Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come.”
-> — Anne Lamott
+> — [Anne Lamott](https://en.wikipedia.org/wiki/Anne_Lamott)
 
 </div></div>
 
