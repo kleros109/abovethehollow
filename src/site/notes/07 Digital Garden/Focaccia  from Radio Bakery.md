@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/focaccia-from-radio-bakery/","title":"How One of NYC’s Best Bakeries Makes Focaccia | Made to Order | Bon Appétit - YouTube","tags":["recipes","videos","inbox"],"updated":"2025-05-17T12:22:58.226-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/focaccia-from-radio-bakery/","title":"(15) How One of NYC’s Best Bakeries Makes Focaccia | Made to Order | Bon Appétit - YouTube","tags":["recipes","videos","inbox"],"updated":"2025-05-17T12:28:33.236-07:00"}
 ---
 
 
@@ -114,14 +114,16 @@ The chilled focaccia is taken out of the refrigerator (around 5 a.m. at Radio Ba
 
 Radio Bakery has rotating focaccia toppings. For the Sausage and Chive version:
 
-*   **Base:** Crème fraîche is spread over the dough.
-    > [!check]
-    > Crème fraîche is used because its high fat content gives it a high heat tolerance, preventing it from breaking or curdling during baking, unlike sour cream.
-*   **Sausage:** A mixture of bacon trimmings and prosciutto trimmings, finely processed to a sausage-like consistency, is generously sprinkled on top.
-*   **Olive Oil:** A drizzle of "Golden Nana" extra-virgin olive oil (described as buttery, light, and bright) is added.
-*   **Dimpling:** This is a critical step.
-    > [!important]
-    > Confidently press fingers all the way to the bottom of the pan, creating dimples. This evenly distributes air bubbles, prevents large tunnels from forming, and creates wells for the toppings and oil to settle into. One confident dock is better than multiple hesitant ones, which can degas the dough too much.
+>[!check]  
+>Crème fraîche is used because its high fat content gives it a high heat tolerance, preventing it from breaking or curdling during baking, unlike sour cream.
+
+* **Base:** Crème fraîche is spread over the dough.
+- **Sausage:** A mixture of bacon trimmings and prosciutto trimmings, finely processed to a sausage-like consistency, is generously sprinkled on top.
+- **Olive Oil:** A drizzle of "Golden Nana" extra-virgin olive oil (described as buttery, light, and bright) is added.
+- **Dimpling:** This is a critical step.
+
+>[!important]
+>Confidently press fingers all the way to the bottom of the pan, creating dimples. This evenly distributes air bubbles, prevents large tunnels from forming, and creates wells for the toppings and oil to settle into. One confident dock is better than multiple hesitant ones, which can degas the dough too much.
 
 ### Part 3: Baking
 
