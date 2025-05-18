@@ -5,6 +5,7 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Best quotes from Founders podcast\|Best quotes from Founders podcast]]                                                               |
 | [[07 Digital Garden/Looking fear in the face\|Looking fear in the face]]                                                                                 |
 | [[07 Digital Garden/Hope begins in the dark\|Hope begins in the dark]]                                                                                   |
 | [[07 Digital Garden/Anne Lamott on hope\|Anne Lamott on hope]]                                                                                           |

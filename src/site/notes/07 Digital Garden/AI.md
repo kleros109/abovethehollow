@@ -5,6 +5,7 @@
  
 | Note                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Best quotes from Founders podcast\|Best quotes from Founders podcast]]                               |
 | [[07 Digital Garden/Super Whisper Reformat Message Prompt\|Super Whisper Reformat Message Prompt]]                       |
 | [[07 Digital Garden/Global News Prompt\|Global News Prompt]]                                                             |
 | [[07 Digital Garden/Markdown Summary & Extract Wisdom Prompt\|Markdown Summary & Extract Wisdom Prompt]]                 |

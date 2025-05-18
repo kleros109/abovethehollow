@@ -5,13 +5,14 @@
 
 | Note                                                                                                                                                        | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Looking fear in the face\|Looking fear in the face]]                                                                                 | 2025-05-13 |
+| [[07 Digital Garden/Best quotes from Founders podcast\|Best quotes from Founders podcast]]                                                               | 2025-05-17 |
 | [[07 Digital Garden/Hope begins in the dark\|Hope begins in the dark]]                                                                                   | 2025-05-13 |
+| [[07 Digital Garden/Looking fear in the face\|Looking fear in the face]]                                                                                 | 2025-05-13 |
 | [[07 Digital Garden/Super Whisper Reformat Message Prompt\|Super Whisper Reformat Message Prompt]]                                                       | 2025-05-12 |
 | [[07 Digital Garden/Global News Prompt\|Global News Prompt]]                                                                                             | 2025-04-30 |
+| [[07 Digital Garden/Have a next play mentality\|Have a next play mentality]]                                                                             | 2025-04-20 |
 | [[07 Digital Garden/Give people space and they flourish\|Give people space and they flourish]]                                                           | 2025-04-20 |
 | [[07 Digital Garden/Great mentors over higher pay\|Great mentors over higher pay]]                                                                       | 2025-04-20 |
-| [[07 Digital Garden/Have a next play mentality\|Have a next play mentality]]                                                                             | 2025-04-20 |
 | [[07 Digital Garden/Persistence increases our power in doing\|Persistence increases our power in doing]]                                                 | 2025-04-20 |
 | [[07 Digital Garden/Unconventional problem solving\|Unconventional problem solving]]                                                                     | 2025-04-20 |
 | [[07 Digital Garden/The most powerful razors\|The most powerful razors]]                                                                                 | 2025-04-20 |
@@ -33,8 +34,8 @@
 | [[07 Digital Garden/Making mistakes is the privilege of the active\|Making mistakes is the privilege of the active]]                                     | 2025-04-18 |
 | [[07 Digital Garden/Meta Prompt\|Meta Prompt]]                                                                                                           | 2025-04-18 |
 | [[07 Digital Garden/Momentum is powerful\|Momentum is powerful]]                                                                                         | 2025-04-18 |
-| [[07 Digital Garden/Reliability impacts opportunity\|Reliability impacts opportunity]]                                                                   | 2025-04-18 |
 | [[07 Digital Garden/Rare skills are career capital\|Rare skills are career capital]]                                                                     | 2025-04-18 |
+| [[07 Digital Garden/Reliability impacts opportunity\|Reliability impacts opportunity]]                                                                   | 2025-04-18 |
 | [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]                                                                       | 2025-04-18 |
 | [[07 Digital Garden/The salvation of man is through love and in love\|The salvation of man is through love and in love]]                                 | 2025-04-18 |
 | [[07 Digital Garden/You don't want maximum effectiveness\|You don't want maximum effectiveness]]                                                         | 2025-04-18 |
@@ -49,9 +50,9 @@
 | [[07 Digital Garden/Important anecdotes from legendary investor Charlie Munger\|Important anecdotes from legendary investor Charlie Munger]]             | 2025-04-16 |
 | [[07 Digital Garden/Intentional Curiosity\|Intentional Curiosity]]                                                                                       | 2025-04-16 |
 | [[07 Digital Garden/Interview Tips\|Interview Tips]]                                                                                                     | 2025-04-16 |
+| [[07 Digital Garden/Investing in your future\|Investing in your future]]                                                                                 | 2025-04-16 |
 | [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           | 2025-04-16 |
 | [[07 Digital Garden/Kinda Nice\|Kinda Nice]]                                                                                                             | 2025-04-16 |
-| [[07 Digital Garden/Investing in your future\|Investing in your future]]                                                                                 | 2025-04-16 |
 | [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                               | 2025-04-16 |
 | [[07 Digital Garden/Process leads to purpose\|Process leads to purpose]]                                                                                 | 2025-04-16 |
 | [[07 Digital Garden/Sam Altman on self-belief and willfulness\|Sam Altman on self-belief and willfulness]]                                               | 2025-04-16 |
@@ -66,8 +67,8 @@
 | [[07 Digital Garden/Cognitive shifts are productivity poison\|Cognitive shifts are productivity poison]]                                                 | 2025-04-15 |
 | [[07 Digital Garden/A taste for saltwater\|A taste for saltwater]]                                                                                       | 2025-04-14 |
 | [[07 Digital Garden/N8N Cheat Sheet\|N8N Cheat Sheet]]                                                                                                   | 2025-04-14 |
-| [[07 Digital Garden/Impact of increasing customer loyalty\|Impact of increasing customer loyalty]]                                                       | 2025-04-10 |
 | [[07 Digital Garden/Honest answers for development\|Honest answers for development]]                                                                     | 2025-04-10 |
+| [[07 Digital Garden/Impact of increasing customer loyalty\|Impact of increasing customer loyalty]]                                                       | 2025-04-10 |
 | [[07 Digital Garden/Peace and time\|Peace and time]]                                                                                                     | 2025-04-09 |
 | [[07 Digital Garden/How to earn your resilience\|How to earn your resilience]]                                                                           | 2025-04-08 |
 | [[07 Digital Garden/You’re sending emails during the wrong day and time\|You’re sending emails during the wrong day and time]]                           | 2025-04-08 |
