@@ -29,6 +29,7 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in m
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
+- [[07 Digital Garden/The Master Prompt Method Unlock AI’s Full Potential\|The Master Prompt Method Unlock AI’s Full Potential]]
 - [[07 Digital Garden/Focaccia from Radio Bakery\|Focaccia from Radio Bakery]]
 - [[07 Digital Garden/Best quotes from Founders podcast\|Best quotes from Founders podcast]]
 - [[07 Digital Garden/Looking fear in the face\|Looking fear in the face]]
@@ -38,7 +39,6 @@ Here are the 10 most recent changes to my notes. A more comprehensive list of ch
 - [[07 Digital Garden/The Robust Asset Allocation Index\|The Robust Asset Allocation Index]]
 - [[07 Digital Garden/Hybrid Asset Allocation\|Hybrid Asset Allocation]]
 - [[07 Digital Garden/Thomas Laffon at All-in Summitt 2024\|Thomas Laffon at All-in Summitt 2024]]
-- [[07 Digital Garden/What makes a great manager\|What makes a great manager]]
 
 { .block-language-dataview}
 

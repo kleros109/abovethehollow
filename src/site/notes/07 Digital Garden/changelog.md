@@ -6,6 +6,7 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                                                        | Created    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/The Master Prompt Method Unlock AI’s Full Potential\|The Master Prompt Method Unlock AI’s Full Potential]]                           | 2025-05-18 |
 | [[07 Digital Garden/Focaccia from Radio Bakery\|Focaccia from Radio Bakery]]                                                                             | 2025-05-17 |
 | [[07 Digital Garden/Best quotes from Founders podcast\|Best quotes from Founders podcast]]                                                               | 2025-05-17 |
 | [[07 Digital Garden/Looking fear in the face\|Looking fear in the face]]                                                                                 | 2025-05-13 |
@@ -55,6 +56,5 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/Great decisions come from good processes\|Great decisions come from good processes]]                                                 | 2024-04-13 |
 | [[07 Digital Garden/Housing is an infrastructure asset\|Housing is an infrastructure asset]]                                                             | 2024-03-24 |
 | [[07 Digital Garden/Always go to the funeral\|Always go to the funeral]]                                                                                 | 2024-06-27 |
-| [[07 Digital Garden/The most powerful person in the world is the storyteller\|The most powerful person in the world is the storyteller]]                 | 2024-09-28 |
 
 { .block-language-dataview}
