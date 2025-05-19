@@ -10,12 +10,12 @@
 | [[07 Digital Garden/Looking fear in the face\|Looking fear in the face]]                                                                                 | 2025-05-13 |
 | [[07 Digital Garden/Super Whisper Reformat Message Prompt\|Super Whisper Reformat Message Prompt]]                                                       | 2025-05-12 |
 | [[07 Digital Garden/Global News Prompt\|Global News Prompt]]                                                                                             | 2025-04-30 |
-| [[07 Digital Garden/Have a next play mentality\|Have a next play mentality]]                                                                             | 2025-04-20 |
 | [[07 Digital Garden/Give people space and they flourish\|Give people space and they flourish]]                                                           | 2025-04-20 |
 | [[07 Digital Garden/Great mentors over higher pay\|Great mentors over higher pay]]                                                                       | 2025-04-20 |
+| [[07 Digital Garden/Have a next play mentality\|Have a next play mentality]]                                                                             | 2025-04-20 |
 | [[07 Digital Garden/Persistence increases our power in doing\|Persistence increases our power in doing]]                                                 | 2025-04-20 |
-| [[07 Digital Garden/Unconventional problem solving\|Unconventional problem solving]]                                                                     | 2025-04-20 |
 | [[07 Digital Garden/The most powerful razors\|The most powerful razors]]                                                                                 | 2025-04-20 |
+| [[07 Digital Garden/Unconventional problem solving\|Unconventional problem solving]]                                                                     | 2025-04-20 |
 | [[07 Digital Garden/Writing is a way of thinking\|Writing is a way of thinking]]                                                                         | 2025-04-20 |
 | [[07 Digital Garden/Bake values in\|Bake values in]]                                                                                                     | 2025-04-19 |
 | [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]]                 | 2025-04-19 |
@@ -40,8 +40,8 @@
 | [[07 Digital Garden/The salvation of man is through love and in love\|The salvation of man is through love and in love]]                                 | 2025-04-18 |
 | [[07 Digital Garden/You don't want maximum effectiveness\|You don't want maximum effectiveness]]                                                         | 2025-04-18 |
 | [[07 Digital Garden/Blind Spots Prompt\|Blind Spots Prompt]]                                                                                             | 2025-04-17 |
-| [[07 Digital Garden/12 Simple Ways to Create Momentum in Your Day\|12 Simple Ways to Create Momentum in Your Day]]                                       | 2025-04-16 |
 | [[07 Digital Garden/5 Relationships You Need to Build a Successful Career\|5 Relationships You Need to Build a Successful Career]]                       | 2025-04-16 |
+| [[07 Digital Garden/12 Simple Ways to Create Momentum in Your Day\|12 Simple Ways to Create Momentum in Your Day]]                                       | 2025-04-16 |
 | [[07 Digital Garden/Above the Hollow 43\|Above the Hollow 43]]                                                                                           | 2025-04-16 |
 | [[07 Digital Garden/Anna Gat on not disappearing\|Anna Gat on not disappearing]]                                                                         | 2025-04-16 |
 | [[07 Digital Garden/Daily Stoic with Kevin Rose\|Daily Stoic with Kevin Rose]]                                                                           | 2025-04-16 |
@@ -77,8 +77,8 @@
 | [[07 Digital Garden/Knowledge can close you mind\|Knowledge can close you mind]]                                                                         | 2025-04-07 |
 | [[07 Digital Garden/Questioning assumptions\|Questioning assumptions]]                                                                                   | 2025-04-07 |
 | [[07 Digital Garden/Career Advice from Msty\|Career Advice from Msty]]                                                                                   | 2025-04-06 |
-| [[07 Digital Garden/Don't waste today\|Don't waste today]]                                                                                               | 2025-04-06 |
 | [[07 Digital Garden/First Therapy Chatbot Trial\|First Therapy Chatbot Trial]]                                                                           | 2025-04-06 |
+| [[07 Digital Garden/Don't waste today\|Don't waste today]]                                                                                               | 2025-04-06 |
 | [[07 Digital Garden/Spicy Chimichurri\|Spicy Chimichurri]]                                                                                               | 2025-04-06 |
 | [[07 Digital Garden/A brief guide to leadership\|A brief guide to leadership]]                                                                           | 2025-04-05 |
 | [[07 Digital Garden/ATH Newsletter\|ATH Newsletter]]                                                                                                     | 2025-04-05 |
@@ -89,8 +89,8 @@
 | [[07 Digital Garden/Identifying control in life choices\|Identifying control in life choices]]                                                           | 2025-04-05 |
 | [[07 Digital Garden/Most are neither for you nor against you\|Most are neither for you nor against you]]                                                 | 2025-04-05 |
 | [[07 Digital Garden/Pasta all’Amatriciana\|Pasta all’Amatriciana]]                                                                                       | 2025-04-05 |
-| [[07 Digital Garden/Selling is the crucial skill nobody taught you\|Selling is the crucial skill nobody taught you]]                                     | 2025-04-05 |
 | [[07 Digital Garden/Shane Parrish on Mastery\|Shane Parrish on Mastery]]                                                                                 | 2025-04-05 |
+| [[07 Digital Garden/Selling is the crucial skill nobody taught you\|Selling is the crucial skill nobody taught you]]                                     | 2025-04-05 |
 | [[07 Digital Garden/Write an Incredible Resume\|Write an Incredible Resume]]                                                                             | 2025-04-05 |
 | [[07 Digital Garden/Jawad Mian - Stay Human\|Jawad Mian - Stay Human]]                                                                                   | 2025-04-03 |
 | [[07 Digital Garden/Sahil Bloom on Simple Habits\|Sahil Bloom on Simple Habits]]                                                                         | 2025-04-03 |

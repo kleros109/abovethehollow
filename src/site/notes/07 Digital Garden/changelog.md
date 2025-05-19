@@ -6,7 +6,7 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                                                        | Created    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Focaccia  from Radio Bakery\|Focaccia  from Radio Bakery]]                                                                           | 2025-05-17 |
+| [[07 Digital Garden/Focaccia from Radio Bakery\|Focaccia from Radio Bakery]]                                                                             | 2025-05-17 |
 | [[07 Digital Garden/Best quotes from Founders podcast\|Best quotes from Founders podcast]]                                                               | 2025-05-17 |
 | [[07 Digital Garden/Looking fear in the face\|Looking fear in the face]]                                                                                 | 2025-05-13 |
 | [[07 Digital Garden/Hope begins in the dark\|Hope begins in the dark]]                                                                                   | 2025-05-13 |
