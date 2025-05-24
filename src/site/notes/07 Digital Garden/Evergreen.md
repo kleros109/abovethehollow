@@ -17,13 +17,23 @@ An evergreen note is an idea. It doesn't have to be something that I agree with,
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                                     |
+| [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]                                                                       |
+| [[07 Digital Garden/Rare skills are career capital\|Rare skills are career capital]]                                                                     |
+| [[07 Digital Garden/Momentum is powerful\|Momentum is powerful]]                                                                                         |
+| [[07 Digital Garden/Marketing equals caring\|Marketing equals caring]]                                                                                   |
+| [[07 Digital Garden/Having a hobby mindset\|Having a hobby mindset]]                                                                                     |
+| [[07 Digital Garden/Do the work to get the results\|Do the work to get the results]]                                                                     |
+| [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]]                 |
+| [[07 Digital Garden/Concise explanations accelerate progress\|Concise explanations accelerate progress]]                                                 |
+| [[07 Digital Garden/Choose optimism\|Choose optimism]]                                                                                                   |
+| [[07 Digital Garden/Building trust quickly is a superpower\|Building trust quickly is a superpower]]                                                     |
+| [[07 Digital Garden/Avoid losing before you can win\|Avoid losing before you can win]]                                                                   |
 | [[07 Digital Garden/Have a next play mentality\|Have a next play mentality]]                                                                             |
 | [[07 Digital Garden/Writing is a way of thinking\|Writing is a way of thinking]]                                                                         |
 | [[07 Digital Garden/What are evergreen notes\|What are evergreen notes]]                                                                                 |
 | [[07 Digital Garden/Consider the outside point of view\|Consider the outside point of view]]                                                             |
 | [[07 Digital Garden/Success is nothing more than moving from one failure to the next\|Success is nothing more than moving from one failure to the next]] |
-| [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]]                 |
-| [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]                                                                       |
 | [[07 Digital Garden/Mise en place is a foundation of organization\|Mise en place is a foundation of organization]]                                       |
 | [[07 Digital Garden/Anomalies as a source of new ideas\|Anomalies as a source of new ideas]]                                                             |
 | [[07 Digital Garden/Making mistakes is the privilege of the active\|Making mistakes is the privilege of the active]]                                     |
@@ -36,16 +46,6 @@ An evergreen note is an idea. It doesn't have to be something that I agree with,
 | [[07 Digital Garden/Demographics will reverse major global trends\|Demographics will reverse major global trends]]                                       |
 | [[07 Digital Garden/The salvation of man is through love and in love\|The salvation of man is through love and in love]]                                 |
 | [[07 Digital Garden/Each moment is a once in a lifetime occurence\|Each moment is a once in a lifetime occurence]]                                       |
-| [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                                     |
-| [[07 Digital Garden/Having a hobby mindset\|Having a hobby mindset]]                                                                                     |
 | [[07 Digital Garden/You don't want maximum effectiveness\|You don't want maximum effectiveness]]                                                         |
-| [[07 Digital Garden/Rare skills are career capital\|Rare skills are career capital]]                                                                     |
-| [[07 Digital Garden/Momentum is powerful\|Momentum is powerful]]                                                                                         |
-| [[07 Digital Garden/Building trust quickly is a superpower\|Building trust quickly is a superpower]]                                                     |
-| [[07 Digital Garden/Avoid losing before you can win\|Avoid losing before you can win]]                                                                   |
-| [[07 Digital Garden/Concise explanations accelerate progress\|Concise explanations accelerate progress]]                                                 |
-| [[07 Digital Garden/Choose optimism\|Choose optimism]]                                                                                                   |
-| [[07 Digital Garden/Do the work to get the results\|Do the work to get the results]]                                                                     |
-| [[07 Digital Garden/Marketing equals caring\|Marketing equals caring]]                                                                                   |
 
 { .block-language-dataview}

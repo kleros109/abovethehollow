@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/looking-fear-in-the-face/","tags":["ath","quotes"],"updated":"2025-05-13T08:30:42.848-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/looking-fear-in-the-face/","tags":["ath","quotes"],"updated":"2025-05-24T09:43:31.557-07:00"}
 ---
 
 

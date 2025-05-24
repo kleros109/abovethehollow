@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/do-what-you-re-doing/","tags":["ath","productivity"],"updated":"2025-04-16T01:31:24.441-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/do-what-you-re-doing/","tags":["ath","productivity"],"updated":"2025-05-24T09:40:30.832-07:00"}
 ---
 
 

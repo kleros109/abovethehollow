@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/a-brief-guide-to-leadership/","tags":["readwise","ath","advice"],"updated":"2025-04-05T16:55:02.960-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/a-brief-guide-to-leadership/","tags":["readwise","ath","advice"],"updated":"2025-05-24T09:40:30.594-07:00"}
 ---
 
 

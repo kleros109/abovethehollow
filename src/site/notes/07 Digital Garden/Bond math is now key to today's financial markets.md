@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/bond-math-is-now-key-to-today-s-financial-markets/","tags":["clippings"],"updated":"2025-04-20T22:32:33.672-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/bond-math-is-now-key-to-today-s-financial-markets/","tags":["clippings"],"updated":"2025-05-24T09:43:31.482-07:00"}
 ---
 
 

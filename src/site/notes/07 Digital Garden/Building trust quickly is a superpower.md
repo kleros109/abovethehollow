@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/building-trust-quickly-is-a-superpower/","tags":["evergreen","ath"],"updated":"2025-04-18T01:28:00.299-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/building-trust-quickly-is-a-superpower/","tags":["evergreen","ath"],"updated":"2025-05-24T09:40:30.713-07:00"}
 ---
 
 

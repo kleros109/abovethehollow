@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-simple-daily-planning-method-that-top-performers-use/","title":"The Simple Daily Planning Method That Top Performers Use","tags":["videos"],"updated":"2025-04-20T13:28:44.906-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-simple-daily-planning-method-that-top-performers-use/","title":"The Simple Daily Planning Method That Top Performers Use","tags":["videos"],"updated":"2025-05-24T09:40:31.087-07:00"}
 ---
 
 # Daily Planning Sequence

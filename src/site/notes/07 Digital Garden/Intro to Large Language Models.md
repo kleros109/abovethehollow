@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/intro-to-large-language-models/","title":"[1hr Talk] Intro to Large Language Models","tags":["AI"],"updated":"2025-04-16T09:37:28.381-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/intro-to-large-language-models/","title":"[1hr Talk] Intro to Large Language Models","tags":["AI"],"updated":"2025-05-24T09:43:31.534-07:00"}
 ---
 
 ## Summary

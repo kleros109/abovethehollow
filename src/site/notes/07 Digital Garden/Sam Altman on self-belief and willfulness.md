@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/sam-altman-on-self-belief-and-willfulness/","tags":["ath","advice"],"updated":"2025-04-16T09:50:00.485-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/sam-altman-on-self-belief-and-willfulness/","tags":["ath","advice"],"updated":"2025-05-24T09:40:31.032-07:00"}
 ---
 
 Sam Altman writes, “[How To Be Successful](https://blog.samaltman.com/how-to-be-successful),” at his blog. There are two particular points that stand out to me: 

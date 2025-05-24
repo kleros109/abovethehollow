@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/gandhi-on-the-way-to-live/","tags":["quotes"],"updated":"2025-04-16T09:39:34.989-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/gandhi-on-the-way-to-live/","tags":["quotes"],"updated":"2025-05-24T09:43:31.511-07:00"}
 ---
 
 # “Live as if you were to die tomorrow. Learn as if you were to live forever.”  

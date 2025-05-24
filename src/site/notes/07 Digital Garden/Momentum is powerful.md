@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/momentum-is-powerful/","tags":["ath","advice","evergreen"],"updated":"2025-04-18T01:28:47.484-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/momentum-is-powerful/","tags":["ath","advice","evergreen"],"updated":"2025-05-24T09:40:30.978-07:00"}
 ---
 
 

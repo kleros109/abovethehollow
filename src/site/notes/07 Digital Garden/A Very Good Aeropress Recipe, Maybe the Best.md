@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/a-very-good-aeropress-recipe-maybe-the-best/","title":"A Very Good Aeropress Recipe, Maybe the Best","tags":["videos","recipes"],"updated":"2025-04-06T21:15:36.472-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/a-very-good-aeropress-recipe-maybe-the-best/","title":"A Very Good Aeropress Recipe, Maybe the Best","tags":["videos","culinary"],"updated":"2025-05-24T09:41:14.313-07:00"}
 ---
 
 # A Very Good Aeropress Recipe, Maybe the Best

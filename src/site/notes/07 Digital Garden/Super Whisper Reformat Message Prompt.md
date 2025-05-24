@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/super-whisper-reformat-message-prompt/","tags":["AI","ath"],"updated":"2025-05-12T17:40:53.636-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/super-whisper-reformat-message-prompt/","tags":["AI","ath"],"updated":"2025-05-24T09:43:31.611-07:00"}
 ---
 
 ## Reformat the user message

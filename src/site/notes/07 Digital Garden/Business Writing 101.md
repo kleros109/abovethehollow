@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/business-writing-101/","tags":["ath","careers"],"updated":"2025-04-05T14:15:17.400-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/business-writing-101/","tags":["ath","careers"],"updated":"2025-05-24T09:40:30.716-07:00"}
 ---
 
 

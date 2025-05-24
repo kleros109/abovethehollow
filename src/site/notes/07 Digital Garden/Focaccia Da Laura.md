@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/focaccia-da-laura/","tags":["recipes"],"updated":"2025-04-16T13:34:18.348-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/focaccia-da-laura/","tags":["culinary"],"updated":"2025-05-24T09:41:46.028-07:00"}
 ---
 
 ## Notes

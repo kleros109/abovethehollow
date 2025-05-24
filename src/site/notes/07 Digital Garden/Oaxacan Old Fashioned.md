@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/oaxacan-old-fashioned/","tags":["recipes"],"updated":"2025-04-16T13:31:47.783-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/oaxacan-old-fashioned/","tags":["recipes"],"updated":"2025-05-24T09:40:30.990-07:00"}
 ---
 
 - 1 1/2 oz Reposado Tequila

@@ -1,33 +1,33 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/quotes/","updated":"2025-04-16T04:55:39.681-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/quotes/","updated":"2025-05-24T09:43:31.583-07:00"}
 ---
 
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[07 Digital Garden/Best quotes from Founders podcast\|Best quotes from Founders podcast]]                                                               |
+| [[07 Digital Garden/Peace and time\|Peace and time]]                                                                                                     |
+| [[07 Digital Garden/Questioning assumptions\|Questioning assumptions]]                                                                                   |
+| [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                               |
 | [[07 Digital Garden/Looking fear in the face\|Looking fear in the face]]                                                                                 |
+| [[07 Digital Garden/Knowledge can close you mind\|Knowledge can close you mind]]                                                                         |
 | [[07 Digital Garden/Hope begins in the dark\|Hope begins in the dark]]                                                                                   |
+| [[07 Digital Garden/Gandhi on the way to live\|Gandhi on the way to live]]                                                                               |
+| [[07 Digital Garden/Don't waste today\|Don't waste today]]                                                                                               |
+| [[07 Digital Garden/Best quotes from Founders podcast\|Best quotes from Founders podcast]]                                                               |
+| [[07 Digital Garden/Anne Lamont on good relationships\|Anne Lamont on good relationships]]                                                               |
+| [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                                     |
+| [[07 Digital Garden/Age and wisdom\|Age and wisdom]]                                                                                                     |
+| [[07 Digital Garden/The true joy in life\|The true joy in life]]                                                                                         |
+| [[07 Digital Garden/Shane Parrish on confidence vs. competenece\|Shane Parrish on confidence vs. competenece]]                                           |
+| [[07 Digital Garden/Scott Adams on success\|Scott Adams on success]]                                                                                     |
+| [[07 Digital Garden/Most are neither for you nor against you\|Most are neither for you nor against you]]                                                 |
+| [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           |
+| [[07 Digital Garden/Anna Gat on not disappearing\|Anna Gat on not disappearing]]                                                                         |
 | [[07 Digital Garden/Anne Lamott on hope\|Anne Lamott on hope]]                                                                                           |
 | [[07 Digital Garden/Success is nothing more than moving from one failure to the next\|Success is nothing more than moving from one failure to the next]] |
 | [[07 Digital Garden/Great decisions come from good processes\|Great decisions come from good processes]]                                                 |
 | [[07 Digital Garden/The most powerful person in the world is the storyteller\|The most powerful person in the world is the storyteller]]                 |
-| [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                                     |
-| [[07 Digital Garden/Shane Parrish on confidence vs. competenece\|Shane Parrish on confidence vs. competenece]]                                           |
-| [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                               |
-| [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           |
-| [[07 Digital Garden/The true joy in life\|The true joy in life]]                                                                                         |
 | [[07 Digital Garden/The chief task in life from Epictetus\|The chief task in life from Epictetus]]                                                       |
-| [[07 Digital Garden/Gandhi on the way to live\|Gandhi on the way to live]]                                                                               |
-| [[07 Digital Garden/Anna Gat on not disappearing\|Anna Gat on not disappearing]]                                                                         |
-| [[07 Digital Garden/Scott Adams on success\|Scott Adams on success]]                                                                                     |
-| [[07 Digital Garden/Peace and time\|Peace and time]]                                                                                                     |
-| [[07 Digital Garden/Questioning assumptions\|Questioning assumptions]]                                                                                   |
-| [[07 Digital Garden/Age and wisdom\|Age and wisdom]]                                                                                                     |
-| [[07 Digital Garden/Knowledge can close you mind\|Knowledge can close you mind]]                                                                         |
-| [[07 Digital Garden/Don't waste today\|Don't waste today]]                                                                                               |
-| [[07 Digital Garden/Anne Lamont on good relationships\|Anne Lamont on good relationships]]                                                               |
-| [[07 Digital Garden/Most are neither for you nor against you\|Most are neither for you nor against you]]                                                 |
 | [[07 Digital Garden/Identifying control in life choices\|Identifying control in life choices]]                                                           |
 
 { .block-language-dataview}
@@ -35,7 +35,7 @@
 
 | Note                                                                                                                                                                                                                                                                                             | Updated    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| [[04 Clippings/Paul Tudor Jones on market strategy\|Paul Tudor Jones on market strategy]]                                                                                                                                                                                                     | 2025-04-20 |
+| [[04 Clippings/Paul Tudor Jones on market strategy\|Paul Tudor Jones on market strategy]]                                                                                                                                                                                                     | 2025-05-24 |
 | [[02 Notes/Above the Hollow 47\|Above the Hollow 47]]                                                                                                                                                                                                                                         | 2025-04-16 |
 | [[02 Notes/Voicenotes/2025-01-08 Questioning Assumptions\|2025-01-08 Questioning Assumptions]]                                                                                                                                                                                                | 2025-04-07 |
 | [[02 Notes/Voicenotes/2024-12-29 Mind and the Illusion of Tomorrow\|2024-12-29 Mind and the Illusion of Tomorrow]]                                                                                                                                                                            | 2025-04-06 |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/hope-begins-in-the-dark/","tags":["ath","quotes"],"updated":"2025-05-13T08:30:26.550-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/hope-begins-in-the-dark/","tags":["ath","quotes"],"updated":"2025-05-24T09:43:31.519-07:00"}
 ---
 
 

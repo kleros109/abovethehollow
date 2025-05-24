@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/carrot-puree-and-dukkah/","tags":["recipes"],"updated":"2025-04-16T13:27:08.251-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/carrot-puree-and-dukkah/","tags":["recipes"],"updated":"2025-05-24T09:40:30.739-07:00"}
 ---
 
 ## Carrot Purée and Egyptian Spice Mix with Nuts and Olive Oil

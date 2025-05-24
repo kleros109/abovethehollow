@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/investing-in-your-future/","tags":["ath","advice"],"updated":"2025-04-16T09:51:05.228-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/investing-in-your-future/","tags":["ath","advice"],"updated":"2025-05-24T09:40:30.932-07:00"}
 ---
 
 ## From Sahil Bloom:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/david-perrell-on-derek-sivers/","tags":["marketing"],"updated":"2025-04-16T09:50:24.761-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/david-perrell-on-derek-sivers/","tags":["marketing"],"updated":"2025-05-24T09:40:30.806-07:00"}
 ---
 
 ## Summary

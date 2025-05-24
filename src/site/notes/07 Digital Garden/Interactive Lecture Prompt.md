@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/interactive-lecture-prompt/","tags":["ai"],"updated":"2025-04-06T14:33:44.798-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/interactive-lecture-prompt/","tags":["ai"],"updated":"2025-05-24T09:43:31.531-07:00"}
 ---
 
 

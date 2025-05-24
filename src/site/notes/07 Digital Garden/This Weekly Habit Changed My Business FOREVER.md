@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/this-weekly-habit-changed-my-business-forever/","title":"This Weekly Habit Changed My Business FOREVER","tags":["videos"],"updated":"2025-04-16T13:46:22.024-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/this-weekly-habit-changed-my-business-forever/","title":"This Weekly Habit Changed My Business FOREVER","tags":["videos"],"updated":"2025-05-24T09:40:31.110-07:00"}
 ---
 
 # This Weekly Habit Changed My Business FOREVER

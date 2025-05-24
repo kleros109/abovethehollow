@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/concise-explanations-accelerate-progress/","title":"Concise explanations accelerate progress","tags":["evergreen","ath"],"updated":"2025-04-18T01:27:49.688-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/concise-explanations-accelerate-progress/","title":"Concise explanations accelerate progress","tags":["evergreen","ath"],"updated":"2025-05-24T09:40:30.786-07:00"}
 ---
 
 

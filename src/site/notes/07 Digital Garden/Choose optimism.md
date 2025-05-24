@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/choose-optimism/","tags":["evergreen","ath","advice"],"updated":"2025-04-18T01:27:37.924-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/choose-optimism/","tags":["evergreen","ath","advice"],"updated":"2025-05-24T09:40:30.767-07:00"}
 ---
 
 ---

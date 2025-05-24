@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/quality-investing/","tags":["investing"],"updated":"2025-04-05T14:41:18.116-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/quality-investing/","tags":["investing"],"updated":"2025-05-24T09:43:31.578-07:00"}
 ---
 
 ---

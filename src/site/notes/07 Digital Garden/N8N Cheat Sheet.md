@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/n8-n-cheat-sheet/","tags":["ath","AI"],"updated":"2025-04-14T13:42:16.220-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/n8-n-cheat-sheet/","tags":["ath","AI"],"updated":"2025-05-24T09:43:31.567-07:00"}
 ---
 
 ## Dashboard

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/important-anecdotes-from-legendary-investor-charlie-munger/","tags":["advice","ath"],"updated":"2025-04-16T09:38:57.588-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/important-anecdotes-from-legendary-investor-charlie-munger/","tags":["advice","ath"],"updated":"2025-05-24T09:40:30.908-07:00"}
 ---
 
 

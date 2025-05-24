@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/claude-prompts-to-validate-business-ideas/","tags":["AI"],"updated":"2025-04-16T04:32:37.138-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/claude-prompts-to-validate-business-ideas/","tags":["AI"],"updated":"2025-05-24T09:43:31.489-07:00"}
 ---
 
 

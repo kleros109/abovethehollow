@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/hybrid-asset-allocation/","tags":["clippings"],"updated":"2025-04-20T22:32:39.670-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/hybrid-asset-allocation/","tags":["clippings"],"updated":"2025-05-24T09:43:31.527-07:00"}
 ---
 
 
