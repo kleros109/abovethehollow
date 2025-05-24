@@ -29,6 +29,7 @@ The notes tagged [[07 Digital Garden/ATH\|07 Digital Garden/ATH]]  have been ini
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
+- [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]
 - [[07 Digital Garden/Action is the medium for ethics\|Action is the medium for ethics]]
 - [[07 Digital Garden/The most useful form of patience Is persistence\|The most useful form of patience Is persistence]]
 - [[07 Digital Garden/That might be the wrong question\|That might be the wrong question]]
@@ -38,7 +39,6 @@ Here are the 10 most recent changes to my notes. A more comprehensive list of ch
 - [[07 Digital Garden/Focaccia from Radio Bakery\|Focaccia from Radio Bakery]]
 - [[07 Digital Garden/Voicenotes AI Prompts\|Voicenotes AI Prompts]]
 - [[07 Digital Garden/Weekly Audit Prompt\|Weekly Audit Prompt]]
-- [[07 Digital Garden/What I know about AI\|What I know about AI]]
 
 { .block-language-dataview}
 

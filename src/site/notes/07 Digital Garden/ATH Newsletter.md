@@ -5,7 +5,6 @@
 
 | Note                                                              | Created    |
 | ----------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]] | 2024-10-29 |
 | [[07 Digital Garden/Above the Hollow 43\|Above the Hollow 43]] | 2024-01-13 |
 
 { .block-language-dataview}

@@ -93,7 +93,6 @@
 | [[07 Digital Garden/Greg McKeown on Ichi-go Ichi-e\|Greg McKeown on Ichi-go Ichi-e]]                                                                     | 2025-04-07 |
 | [[07 Digital Garden/Spicy Chimichurri\|Spicy Chimichurri]]                                                                                               | 2025-04-06 |
 | [[07 Digital Garden/ATH Newsletter\|ATH Newsletter]]                                                                                                     | 2025-04-05 |
-| [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                                           | 2025-04-05 |
 | [[07 Digital Garden/Identifying control in life choices\|Identifying control in life choices]]                                                           | 2025-04-05 |
 | [[07 Digital Garden/Herbert Lui - Make a Map of Memories\|Herbert Lui - Make a Map of Memories]]                                                         | 2025-04-05 |
 
