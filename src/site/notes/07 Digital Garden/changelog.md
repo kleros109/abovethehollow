@@ -6,8 +6,8 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                                                          | Created    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/File Summaries 2025-05-25\|File Summaries 2025-05-25]]                                                                                 | 2025-05-25 |
 | [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                                             | 2025-05-25 |
-| [[07 Digital Garden/Untitled 1\|Untitled 1]]                                                                                                               | 2025-05-25 |
 | [[07 Digital Garden/Task Management Best Practices\|Task Management Best Practices]]                                                                       | 2025-05-25 |
 | [[07 Digital Garden/Time Blocking Guide\|Time Blocking Guide]]                                                                                             | 2025-05-24 |
 | [[07 Digital Garden/The power of curiosity\|The power of curiosity]]                                                                                       | 2025-05-24 |
