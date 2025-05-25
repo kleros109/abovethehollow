@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/task-management-best-practices/","tags":["ath","productivity","inbox"],"updated":"2025-05-25T10:29:39.449-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/task-management-best-practices/","tags":["ath","productivity","inbox"],"updated":"2025-05-25T10:42:53.136-07:00"}
 ---
 
 
@@ -66,13 +66,11 @@
 
 ## Related Notes
 
-- [[02 Notes/Blind Spots 2025-04-16\|Blind Spots 2025-04-16]]
 - [[07 Digital Garden/Core Systems\|Core Systems]]
 - [[02 Notes/Daily Planning\|Daily Planning]]
 - [[07 Digital Garden/Integrated Productivity System\|Integrated Productivity System]]
 - [[07 Digital Garden/My Productivity System\|My Productivity System]]
 - [[07 Digital Garden/Productivity System\|Productivity System]]
-- [[02 Notes/Recurring Patterns in My Thinking\|Recurring Patterns in My Thinking]]
 - [[07 Digital Garden/Sonnet Productivity System\|Sonnet Productivity System]]
 - [[07 Digital Garden/Steven Covey's Roles and Goals Approach\|Steven Covey's Roles and Goals Approach]]
 - [[07 Digital Garden/The Simple Daily Planning Method That Top Performers Use\|The Simple Daily Planning Method That Top Performers Use]]
