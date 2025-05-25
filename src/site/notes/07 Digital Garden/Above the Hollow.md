@@ -35,10 +35,10 @@ Here are the 10 most recent changes to my notes. A more comprehensive list of ch
 - [[07 Digital Garden/Time Blocking Guide\|Time Blocking Guide]]
 - [[07 Digital Garden/Start where you are\|Start where you are]]
 - [[07 Digital Garden/Paul Graham Quotes\|Paul Graham Quotes]]
-- [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]
 - [[07 Digital Garden/The most useful form of patience Is persistence\|The most useful form of patience Is persistence]]
 - [[07 Digital Garden/That might be the wrong question\|That might be the wrong question]]
 - [[07 Digital Garden/Recipes\|Recipes]]
+- [[07 Digital Garden/Sourdough Detroit-Style Pizza Recipe\|Sourdough Detroit-Style Pizza Recipe]]
 
 { .block-language-dataview}
 
