@@ -5,6 +5,8 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/The power of curiosity\|The power of curiosity]]                                                                                     |
+| [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           |
 | [[07 Digital Garden/The most useful form of patience Is persistence\|The most useful form of patience Is persistence]]                                   |
 | [[07 Digital Garden/That might be the wrong question\|That might be the wrong question]]                                                                 |
 | [[07 Digital Garden/Shane Parrish on Mastery\|Shane Parrish on Mastery]]                                                                                 |

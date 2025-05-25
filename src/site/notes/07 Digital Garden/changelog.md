@@ -6,6 +6,11 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                              | Created    |
 | --------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Task Management Best Practices\|Task Management Best Practices]]                                           | 2025-05-25 |
+| [[07 Digital Garden/The power of curiosity\|The power of curiosity]]                                                           | 2025-05-24 |
+| [[07 Digital Garden/Time Blocking Guide\|Time Blocking Guide]]                                                                 | 2025-05-24 |
+| [[07 Digital Garden/Start where you are\|Start where you are]]                                                                 | 2025-05-24 |
+| [[07 Digital Garden/Paul Graham Quotes\|Paul Graham Quotes]]                                                                   | 2025-05-24 |
 | [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                 | 2025-05-24 |
 | [[07 Digital Garden/Action is the medium for ethics\|Action is the medium for ethics]]                                         | 2025-05-24 |
 | [[07 Digital Garden/The most useful form of patience Is persistence\|The most useful form of patience Is persistence]]         | 2025-05-24 |
@@ -51,10 +56,5 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/Global News Prompt\|Global News Prompt]]                                                                   | 2025-04-14 |
 | [[07 Digital Garden/Gandhi on the way to live\|Gandhi on the way to live]]                                                     | 2024-03-09 |
 | [[07 Digital Garden/Don't waste today\|Don't waste today]]                                                                     | 2025-04-06 |
-| [[07 Digital Garden/Expand Interestingly Prompt\|Expand Interestingly Prompt]]                                                 | 2025-03-31 |
-| [[07 Digital Garden/Financial Analysis in Claude Ai\|Financial Analysis in Claude Ai]]                                         | 2024-07-02 |
-| [[07 Digital Garden/Explainer Prompt\|Explainer Prompt]]                                                                       | 2023-11-06 |
-| [[07 Digital Garden/Effective text prompts for video generation\|Effective text prompts for video generation]]                 | 2025-04-06 |
-| [[07 Digital Garden/Deep Research Prompt\|Deep Research Prompt]]                                                               | 2025-02-19 |
 
 { .block-language-dataview}

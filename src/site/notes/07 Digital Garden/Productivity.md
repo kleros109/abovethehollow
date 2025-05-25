@@ -6,6 +6,8 @@
 
 | Note                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Task Management Best Practices\|Task Management Best Practices]]                                                             |
+| [[07 Digital Garden/Time Blocking Guide\|Time Blocking Guide]]                                                                                   |
 | [[07 Digital Garden/Weekly Review\|Weekly Review]]                                                                                               |
 | [[07 Digital Garden/Weekly Review from Ross Harkness\|Weekly Review from Ross Harkness]]                                                         |
 | [[07 Digital Garden/This Weekly Habit Changed My Business FOREVER\|This Weekly Habit Changed My Business FOREVER]]                               |

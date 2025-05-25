@@ -5,6 +5,8 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           |
+| [[07 Digital Garden/Paul Graham Quotes\|Paul Graham Quotes]]                                                                                             |
 | [[07 Digital Garden/Action is the medium for ethics\|Action is the medium for ethics]]                                                                   |
 | [[07 Digital Garden/Peace and time\|Peace and time]]                                                                                                     |
 | [[07 Digital Garden/Questioning assumptions\|Questioning assumptions]]                                                                                   |
