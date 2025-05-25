@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-05-25T15:35:10.503-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-05-25T15:47:12.345-07:00"}
 ---
 
 ![Revue Banner.png](/img/user/06%20Utilities/Attachments/Revue%20Banner.png)
@@ -21,7 +21,6 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 - [[07 Digital Garden/Culinary\|Culinary]]
 - [[07 Digital Garden/Evergreen\|Evergreen]]
 - [[07 Digital Garden/Favorites\|Favorites]]
-- [[02 Notes/File Summaries 2025-05-25\|File Summaries 2025-05-25]]
 - [[07 Digital Garden/Investing\|Investing]]
 - [[07 Digital Garden/Leadership\|Leadership]]
 - [[07 Digital Garden/Marketing\|Marketing]]
