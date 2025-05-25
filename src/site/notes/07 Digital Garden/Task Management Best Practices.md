@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/task-management-best-practices/","tags":["ath","productivity","inbox"],"updated":"2025-05-25T10:42:53.136-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/task-management-best-practices/","tags":["ath","productivity","inbox"],"updated":"2025-05-25T10:52:03.319-07:00"}
 ---
 
 
@@ -65,7 +65,6 @@
 5. Review and adjust at day's end
 
 ## Related Notes
-
 - [[07 Digital Garden/Core Systems\|Core Systems]]
 - [[02 Notes/Daily Planning\|Daily Planning]]
 - [[07 Digital Garden/Integrated Productivity System\|Integrated Productivity System]]
