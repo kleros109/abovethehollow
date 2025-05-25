@@ -6,7 +6,8 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                                                          | Created    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/File Summaries 2025-05-25\|File Summaries 2025-05-25]]                                                                                 | 2025-05-25 |
+| [[07 Digital Garden/Curiosity - A Collection of Insights\|Curiosity - A Collection of Insights]]                                                           | 2025-05-25 |
+| [[07 Digital Garden/A Simple Format for Herb Sauces\|A Simple Format for Herb Sauces]]                                                                     | 2025-05-25 |
 | [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                                             | 2025-05-25 |
 | [[07 Digital Garden/Task Management Best Practices\|Task Management Best Practices]]                                                                       | 2025-05-25 |
 | [[07 Digital Garden/Time Blocking Guide\|Time Blocking Guide]]                                                                                             | 2025-05-24 |
@@ -55,6 +56,5 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/You’re sending emails during the wrong day and time\|You’re sending emails during the wrong day and time]]                             | 2025-04-08 |
 | [[07 Digital Garden/How to earn your resilience\|How to earn your resilience]]                                                                             | 2025-04-08 |
 | [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                                       | 2025-04-08 |
-| [[07 Digital Garden/Each moment is a once in a lifetime occurence\|Each moment is a once in a lifetime occurence]]                                         | 2025-04-07 |
 
 { .block-language-dataview}

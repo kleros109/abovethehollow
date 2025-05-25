@@ -5,6 +5,7 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/A Simple Format for Herb Sauces\|A Simple Format for Herb Sauces]]                                                                   |
 | [[07 Digital Garden/Lacto Fermentation\|Lacto Fermentation]]                                                                                             |
 | [[07 Digital Garden/Focaccia from Radio Bakery\|Focaccia from Radio Bakery]]                                                                             |
 | [[07 Digital Garden/Focaccia Da Laura\|Focaccia Da Laura]]                                                                                               |
