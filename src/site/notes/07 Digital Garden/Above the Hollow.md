@@ -32,6 +32,8 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in m
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
+- [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]
+- [[07 Digital Garden/Untitled 1\|Untitled 1]]
 - [[07 Digital Garden/Stock Analysis\|Stock Analysis]]
 - [[07 Digital Garden/Recipes\|Recipes]]
 - [[07 Digital Garden/Quotes\|Quotes]]
@@ -40,8 +42,6 @@ Here are the 10 most recent changes to my notes. A more comprehensive list of ch
 - [[07 Digital Garden/Philosophy\|Philosophy]]
 - [[07 Digital Garden/Marketing\|Marketing]]
 - [[07 Digital Garden/Leadership\|Leadership]]
-- [[07 Digital Garden/Investing\|Investing]]
-- [[07 Digital Garden/Favorites\|Favorites]]
 
 { .block-language-dataview}
 

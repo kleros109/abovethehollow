@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/quotes/","updated":"2025-05-24T09:43:31.583-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/quotes/","updated":"2025-05-25T13:06:21.207-07:00"}
 ---
 
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Action is the medium for ethics\|Action is the medium for ethics]]                                                                   |
 | [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           |
 | [[07 Digital Garden/Paul Graham Quotes\|Paul Graham Quotes]]                                                                                             |
-| [[07 Digital Garden/Action is the medium for ethics\|Action is the medium for ethics]]                                                                   |
 | [[07 Digital Garden/Peace and time\|Peace and time]]                                                                                                     |
 | [[07 Digital Garden/Questioning assumptions\|Questioning assumptions]]                                                                                   |
 | [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                               |

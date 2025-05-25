@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/leadership/","updated":"2025-04-20T21:39:48.832-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/leadership/","updated":"2025-05-25T13:05:14.653-07:00"}
 ---
+
 
 | Note                                                                                                                    | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------- |
