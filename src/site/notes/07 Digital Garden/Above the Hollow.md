@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-05-25T12:09:11.760-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-05-25T12:10:37.675-07:00"}
 ---
 
 ![Revue Banner.png](/img/user/06%20Utilities/Attachments/Revue%20Banner.png)
@@ -9,7 +9,7 @@ This is my [digital garden](https://cagrimmett.com/ideas/2020/11/08/what-are-dig
 ---
 ## Topics
 
-The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in my family group chat. These notes and others have been categorized into [[07 Digital Garden/Topics\|Topics]].  A selection of topics to get you started are shown below:
+The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in my family group chat or [newsletter](https://abovethehollow.beehiiv.com/). These notes and others have been categorized into [[07 Digital Garden/Topics\|Topics]].  A selection of topics to get you started are shown below:
 
 - [[07 Digital Garden/Advice\|Advice]]
 - [[07 Digital Garden/AI\|AI]]
