@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-05-24T09:43:31.416-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-05-25T12:09:11.760-07:00"}
 ---
 
 ![Revue Banner.png](/img/user/06%20Utilities/Attachments/Revue%20Banner.png)
@@ -9,7 +9,7 @@ This is my [digital garden](https://cagrimmett.com/ideas/2020/11/08/what-are-dig
 ---
 ## Topics
 
-The notes tagged [[07 Digital Garden/ATH\|07 Digital Garden/ATH]]  have been initially shared in my family group chat. These notes and others have been categorized into [[07 Digital Garden/Topics\|Topics]].  A selection of topics to get you started are shown below:
+The notes tagged [[07 Digital Garden/ATH\|ATH]]  have been initially shared in my family group chat. These notes and others have been categorized into [[07 Digital Garden/Topics\|Topics]].  A selection of topics to get you started are shown below:
 
 - [[07 Digital Garden/Advice\|Advice]]
 - [[07 Digital Garden/AI\|AI]]
@@ -29,13 +29,13 @@ The notes tagged [[07 Digital Garden/ATH\|07 Digital Garden/ATH]]  have been ini
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
+- [[07 Digital Garden/Action is the medium for ethics\|Action is the medium for ethics]]
 - [[07 Digital Garden/Task Management Best Practices\|Task Management Best Practices]]
 - [[07 Digital Garden/The power of curiosity\|The power of curiosity]]
 - [[07 Digital Garden/Time Blocking Guide\|Time Blocking Guide]]
 - [[07 Digital Garden/Start where you are\|Start where you are]]
 - [[07 Digital Garden/Paul Graham Quotes\|Paul Graham Quotes]]
 - [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]
-- [[07 Digital Garden/Action is the medium for ethics\|Action is the medium for ethics]]
 - [[07 Digital Garden/The most useful form of patience Is persistence\|The most useful form of patience Is persistence]]
 - [[07 Digital Garden/That might be the wrong question\|That might be the wrong question]]
 - [[07 Digital Garden/Recipes\|Recipes]]
