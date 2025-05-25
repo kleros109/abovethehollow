@@ -7,7 +7,7 @@
 | [[07 Digital Garden/David Perrell on Derek Sivers\|David Perrell on Derek Sivers]]                                                       | 2025-05-24 |
 | [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]] | 2025-05-24 |
 | [[07 Digital Garden/Icon - AI Admaker\|Icon - AI Admaker]]                                                                               | 2025-05-24 |
-| [[07 Digital Garden/Impact of increasing customer loyalty\|Impact of increasing customer loyalty]]                                       | 2025-05-24 |
 | [[07 Digital Garden/Marketing equals caring\|Marketing equals caring]]                                                                   | 2025-05-24 |
+| [[07 Digital Garden/Impact of increasing customer loyalty\|Impact of increasing customer loyalty]]                                       | 2025-05-24 |
 
 { .block-language-dataview}
