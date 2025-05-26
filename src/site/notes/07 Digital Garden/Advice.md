@@ -5,6 +5,9 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Education needs tending\|Education needs tending]]                                                                                   |
+| [[07 Digital Garden/Good relationships are key to happiness\|Good relationships are key to happiness]]                                                   |
+| [[07 Digital Garden/Focus on the next small step\|Focus on the next small step]]                                                                         |
 | [[07 Digital Garden/The power of curiosity\|The power of curiosity]]                                                                                     |
 | [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           |
 | [[07 Digital Garden/The most useful form of patience Is persistence\|The most useful form of patience Is persistence]]                                   |

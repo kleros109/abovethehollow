@@ -5,10 +5,15 @@
 
 | Note                                                                                                                                                        | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Education needs tending\|Education needs tending]]                                                                                   | 2025-05-26 |
+| [[07 Digital Garden/Focus on the next small step\|Focus on the next small step]]                                                                         | 2025-05-26 |
+| [[07 Digital Garden/Good relationships are key to happiness\|Good relationships are key to happiness]]                                                   | 2025-05-26 |
+| [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                                           | 2025-05-26 |
+| [[07 Digital Garden/A Simple Format for Herb Sauces\|A Simple Format for Herb Sauces]]                                                                   | 2025-05-25 |
+| [[07 Digital Garden/Curiosity - A Collection of Insights\|Curiosity - A Collection of Insights]]                                                         | 2025-05-25 |
 | [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           | 2025-05-25 |
 | [[07 Digital Garden/Task Management Best Practices\|Task Management Best Practices]]                                                                     | 2025-05-25 |
 | [[07 Digital Garden/The power of curiosity\|The power of curiosity]]                                                                                     | 2025-05-25 |
-| [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                                           | 2025-05-25 |
 | [[07 Digital Garden/12 Simple Ways to Create Momentum in Your Day\|12 Simple Ways to Create Momentum in Your Day]]                                       | 2025-05-24 |
 | [[07 Digital Garden/5 Relationships You Need to Build a Successful Career\|5 Relationships You Need to Build a Successful Career]]                       | 2025-05-24 |
 | [[07 Digital Garden/A brief guide to leadership\|A brief guide to leadership]]                                                                           | 2025-05-24 |
@@ -96,8 +101,8 @@
 | [[07 Digital Garden/How to earn your resilience\|How to earn your resilience]]                                                                           | 2025-04-08 |
 | [[07 Digital Garden/Greg McKeown on Ichi-go Ichi-e\|Greg McKeown on Ichi-go Ichi-e]]                                                                     | 2025-04-07 |
 | [[07 Digital Garden/Spicy Chimichurri\|Spicy Chimichurri]]                                                                                               | 2025-04-06 |
+| [[07 Digital Garden/Above the Hollow Newsletter\|Above the Hollow Newsletter]]                                                                           | 2025-04-05 |
 | [[07 Digital Garden/Herbert Lui - Make a Map of Memories\|Herbert Lui - Make a Map of Memories]]                                                         | 2025-04-05 |
 | [[07 Digital Garden/Identifying control in life choices\|Identifying control in life choices]]                                                           | 2025-04-05 |
-| [[07 Digital Garden/Above the Hollow Newsletter\|Above the Hollow Newsletter]]                                                                           | 2025-04-05 |
 
 { .block-language-dataview}

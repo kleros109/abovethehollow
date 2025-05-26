@@ -5,6 +5,7 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Anne Lamont on good relationships\|Anne Lamont on good relationships]]                                                               |
 | [[07 Digital Garden/Action is the medium for ethics\|Action is the medium for ethics]]                                                                   |
 | [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           |
 | [[07 Digital Garden/Paul Graham Quotes\|Paul Graham Quotes]]                                                                                             |
@@ -17,7 +18,6 @@
 | [[07 Digital Garden/Gandhi on the way to live\|Gandhi on the way to live]]                                                                               |
 | [[07 Digital Garden/Don't waste today\|Don't waste today]]                                                                                               |
 | [[07 Digital Garden/Best quotes from Founders podcast\|Best quotes from Founders podcast]]                                                               |
-| [[07 Digital Garden/Anne Lamont on good relationships\|Anne Lamont on good relationships]]                                                               |
 | [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                                     |
 | [[07 Digital Garden/Age and wisdom\|Age and wisdom]]                                                                                                     |
 | [[07 Digital Garden/The true joy in life\|The true joy in life]]                                                                                         |

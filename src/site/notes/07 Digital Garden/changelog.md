@@ -6,9 +6,12 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                                                          | Created    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                                             | 2025-05-26 |
+| [[07 Digital Garden/Good relationships are key to happiness\|Good relationships are key to happiness]]                                                     | 2025-05-26 |
+| [[07 Digital Garden/Focus on the next small step\|Focus on the next small step]]                                                                           | 2025-05-26 |
+| [[07 Digital Garden/Education needs tending\|Education needs tending]]                                                                                     | 2025-05-26 |
 | [[07 Digital Garden/Curiosity - A Collection of Insights\|Curiosity - A Collection of Insights]]                                                           | 2025-05-25 |
 | [[07 Digital Garden/A Simple Format for Herb Sauces\|A Simple Format for Herb Sauces]]                                                                     | 2025-05-25 |
-| [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                                             | 2025-05-25 |
 | [[07 Digital Garden/Task Management Best Practices\|Task Management Best Practices]]                                                                       | 2025-05-25 |
 | [[07 Digital Garden/Time Blocking Guide\|Time Blocking Guide]]                                                                                             | 2025-05-24 |
 | [[07 Digital Garden/The power of curiosity\|The power of curiosity]]                                                                                       | 2025-05-24 |
@@ -53,8 +56,5 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/Sourdough Detroit-Style Pizza Recipe\|Sourdough Detroit-Style Pizza Recipe]]                                                           | 2025-04-08 |
 | [[07 Digital Garden/Favorites\|Favorites]]                                                                                                                 | 2025-04-08 |
 | [[07 Digital Garden/Soreng Santi - Kuen Kuen Lueng Lueng (Black Sabbath's "Iron Man")\|Soreng Santi - Kuen Kuen Lueng Lueng (Black Sabbath's "Iron Man")]] | 2025-04-08 |
-| [[07 Digital Garden/You’re sending emails during the wrong day and time\|You’re sending emails during the wrong day and time]]                             | 2025-04-08 |
-| [[07 Digital Garden/How to earn your resilience\|How to earn your resilience]]                                                                             | 2025-04-08 |
-| [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                                       | 2025-04-08 |
 
 { .block-language-dataview}

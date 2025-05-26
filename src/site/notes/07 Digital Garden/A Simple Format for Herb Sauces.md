@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/a-simple-format-for-herb-sauces/","title":"A Simple Format for Herb Sauces","tags":["clippings"],"updated":"2025-05-25T15:31:50.845-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/a-simple-format-for-herb-sauces/","title":"A Simple Format for Herb Sauces","tags":["clippings","ath"],"updated":"2025-05-25T15:48:07.040-07:00"}
 ---
 
 ### Your New Favorite Sauce(s)

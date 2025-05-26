@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-53/","tags":["ath"],"updated":"2025-05-26T11:19:09.968-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/digital-garden-workflows/file-summaries-template/","tags":["ath"],"updated":"2025-05-26T11:18:12.484-07:00"}
 ---
 
 
@@ -8,7 +8,7 @@ Observations, articles, and other links. Curated for my children as they embark 
 ## 1. Personal Development & Productivity
 
 **Task Management Best Practices**
-A comprehensive guide to effective task management, focusing on prioritization, time-blocking, and maintaining a sustainable workflow. The guide emphasizes practical strategies for staying organized and maximizing daily productivity. [[07 Digital Garden/Task Management Best Practices\|Task Management Best Practices]]
+A comprehensive guide to effective task management, focusing on prioritization, time-blocking, and maintaining a sustainable workflow. The guide emphasizes practical strategies for staying organized and maximizing daily productivity. [[02 Notes/Task Management Best Practices\|Task Management Best Practices]]
 
 **Time Blocking Guide**
 An in-depth exploration of time blocking methodology, providing actionable steps to structure your day for optimal focus and productivity. The guide includes templates and best practices for implementing this powerful time management technique. [[07 Digital Garden/Time Blocking Guide\|Time Blocking Guide]]
