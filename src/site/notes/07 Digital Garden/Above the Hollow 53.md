@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-53/","tags":["ath"],"updated":"2025-05-26T11:22:27.563-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-53/","tags":["ath"],"updated":"2025-05-26T11:24:56.739-07:00"}
 ---
 
 
@@ -42,6 +42,3 @@ A refreshed index of key topics and themes within the digital garden, providing 
 
 **changelog**
 Recent updates and modifications to the digital garden, tracking the evolution of content and structural improvements. [[07 Digital Garden/changelog\|changelog]]
-
-
-Key Categories: [[07 Digital Garden/Favorites\|Favorites]] | [[07 Digital Garden/Evergreen\|Evergreen]] | [[07 Digital Garden/Productivity\|Productivity]] | [[07 Digital Garden/Philosophy\|Philosophy]] | [[07 Digital Garden/AI\|AI]]
