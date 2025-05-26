@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-53/","tags":["ath"],"updated":"2025-05-26T11:19:09.968-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-53/","tags":["ath"],"updated":"2025-05-26T11:22:27.563-07:00"}
 ---
 
 
-Observations, articles, and other links. Curated for my children as they embark upon adulthood.
+Observations, articles, and other links. Curated for my family and friends.
 
 ## 1. Personal Development & Productivity
 
