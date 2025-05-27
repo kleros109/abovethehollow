@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/marketing/","updated":"2025-05-25T13:05:30.020-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/marketing/","updated":"2025-05-27T10:52:40.323-07:00"}
 ---
 
 
@@ -10,5 +10,8 @@
 | [[07 Digital Garden/Icon - AI Admaker\|Icon - AI Admaker]]                                                                               | 2025-05-24 |
 | [[07 Digital Garden/Impact of increasing customer loyalty\|Impact of increasing customer loyalty]]                                       | 2025-05-24 |
 | [[07 Digital Garden/Marketing equals caring\|Marketing equals caring]]                                                                   | 2025-05-24 |
+| [[07 Digital Garden/Value-based Marketing from Steve Jobs\|Value-based Marketing from Steve Jobs]]                                       | 2025-05-24 |
 
 { .block-language-dataview}
+
+![[Links to File Name.base]]

@@ -5,7 +5,8 @@
 
 | Note                                                                                                                                                        | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                                           | 2025-05-26 |
+| [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                                           | 2025-05-27 |
+| [[07 Digital Garden/Newsletter\|Newsletter]]                                                                                                             | 2025-05-27 |
 | [[07 Digital Garden/Education needs tending\|Education needs tending]]                                                                                   | 2025-05-26 |
 | [[07 Digital Garden/Focus on the next small step\|Focus on the next small step]]                                                                         | 2025-05-26 |
 | [[07 Digital Garden/Good relationships are key to happiness\|Good relationships are key to happiness]]                                                   | 2025-05-26 |
@@ -103,6 +104,5 @@
 | [[07 Digital Garden/Spicy Chimichurri\|Spicy Chimichurri]]                                                                                               | 2025-04-06 |
 | [[07 Digital Garden/Herbert Lui - Make a Map of Memories\|Herbert Lui - Make a Map of Memories]]                                                         | 2025-04-05 |
 | [[07 Digital Garden/Identifying control in life choices\|Identifying control in life choices]]                                                           | 2025-04-05 |
-| [[07 Digital Garden/Newsletter\|Newsletter]]                                                                                                             | 2025-04-05 |
 
 { .block-language-dataview}

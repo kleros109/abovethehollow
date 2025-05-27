@@ -38,16 +38,16 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
+- [[07 Digital Garden/Recipes\|Recipes]]
+- [[07 Digital Garden/Entree\|Entree]]
+- [[07 Digital Garden/Side Dish\|Side Dish]]
+- [[07 Digital Garden/Condiments\|Condiments]]
+- [[07 Digital Garden/Marketing\|Marketing]]
+- [[07 Digital Garden/Newsletter\|Newsletter]]
 - [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]
 - [[07 Digital Garden/Education needs tending\|Education needs tending]]
 - [[07 Digital Garden/Good relationships are key to happiness\|Good relationships are key to happiness]]
 - [[07 Digital Garden/Focus on the next small step\|Focus on the next small step]]
-- [[07 Digital Garden/Anne Lamont on good relationships\|Anne Lamont on good relationships]]
-- [[07 Digital Garden/A Simple Format for Herb Sauces\|A Simple Format for Herb Sauces]]
-- [[07 Digital Garden/Curiosity - A Collection of Insights\|Curiosity - A Collection of Insights]]
-- [[07 Digital Garden/Stock Analysis\|Stock Analysis]]
-- [[07 Digital Garden/Recipes\|Recipes]]
-- [[07 Digital Garden/Quotes\|Quotes]]
 
 { .block-language-dataview}
 

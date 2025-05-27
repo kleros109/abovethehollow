@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/newsletter/","tags":["ath"],"updated":"2025-04-05T17:08:40.294-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/newsletter/","tags":["ath"],"updated":"2025-05-27T10:35:34.886-07:00"}
 ---
 
 
-| Note                                                              | Created    |
+| Edition                                                           | Created    |
 | ----------------------------------------------------------------- | ---------- |
 | [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]] | 2025-05-26 |
 
