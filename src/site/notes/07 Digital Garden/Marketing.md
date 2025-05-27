@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/marketing/","updated":"2025-05-27T10:52:40.323-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/marketing/","updated":"2025-05-27T11:09:24.312-07:00"}
 ---
 
 
@@ -13,5 +13,3 @@
 | [[07 Digital Garden/Value-based Marketing from Steve Jobs\|Value-based Marketing from Steve Jobs]]                                       | 2025-05-24 |
 
 { .block-language-dataview}
-
-![[Links to File Name.base]]

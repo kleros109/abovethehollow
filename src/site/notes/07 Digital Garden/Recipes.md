@@ -1,12 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/recipes/","tags":["categories"],"updated":"2025-05-27T10:58:35.099-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/recipes/","tags":["categories"],"updated":"2025-05-27T11:09:00.428-07:00"}
 ---
 
 
 Here is a list of my frequently used recipes.
-
-![[Links to File Name.base]]
-
 
 | Note                                                                              | Updated    |
 | --------------------------------------------------------------------------------- | ---------- |
