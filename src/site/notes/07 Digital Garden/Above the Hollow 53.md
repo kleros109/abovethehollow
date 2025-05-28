@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-53/","tags":["ath"],"updated":"2025-05-27T10:35:04.151-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-53/","tags":["ath"],"updated":"2025-05-27T17:56:32.624-07:00"}
 ---
 
 Observations, articles, and other links. Curated for my family and friends.
@@ -34,10 +34,3 @@ A curated collection of perspectives and strategies for cultivating and maintain
 **A Simple Format for Herb Sauces**
 A practical guide to creating versatile herb sauces, including essential ratios, techniques, and variations. The guide empowers home cooks to experiment with different herb combinations while maintaining consistent results. [[07 Digital Garden/A Simple Format for Herb Sauces\|A Simple Format for Herb Sauces]]
 
-## 4. Knowledge Organization
-
-**Topics**
-A refreshed index of key topics and themes within the digital garden, providing improved navigation and discovery of related content. [[07 Digital Garden/Topics\|Topics]]
-
-**changelog**
-Recent updates and modifications to the digital garden, tracking the evolution of content and structural improvements. [[07 Digital Garden/changelog\|changelog]]
