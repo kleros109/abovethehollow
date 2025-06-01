@@ -6,6 +6,7 @@
 hello now hello
 | Note                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Knowledge Work Is Dying—Here’s What Comes Next\|Knowledge Work Is Dying—Here’s What Comes Next]]               |
 | [[07 Digital Garden/5 Relationships You Need to Build a Successful Career\|5 Relationships You Need to Build a Successful Career]] |
 | [[07 Digital Garden/Boundary between work and self\|Boundary between work and self]]                                               |
 | [[07 Digital Garden/Building trust quickly is a superpower\|Building trust quickly is a superpower]]                               |

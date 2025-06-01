@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/condiments/","updated":"2025-05-27T10:56:09.586-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/condiments/","updated":"2025-05-28T09:46:12.939-07:00"}
 ---
 
-## Backlinks
 
 | File                                                            | Date       |
 | --------------------------------------------------------------- | ---------- |

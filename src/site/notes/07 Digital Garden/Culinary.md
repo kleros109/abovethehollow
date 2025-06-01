@@ -7,7 +7,6 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[07 Digital Garden/A Simple Format for Herb Sauces\|A Simple Format for Herb Sauces]]                                                                   |
 | [[07 Digital Garden/Lacto Fermentation\|Lacto Fermentation]]                                                                                             |
-| [[07 Digital Garden/Focaccia from Radio Bakery\|Focaccia from Radio Bakery]]                                                                             |
 | [[07 Digital Garden/Focaccia Da Laura\|Focaccia Da Laura]]                                                                                               |
 | [[07 Digital Garden/A Very Good Aeropress Recipe, Maybe the Best\|A Very Good Aeropress Recipe, Maybe the Best]]                                         |
 | [[07 Digital Garden/Cooking is an antidote to the problems of modernity\|Cooking is an antidote to the problems of modernity]]                           |

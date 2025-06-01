@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/focaccia-from-radio-bakery/","title":"(15) How One of NYC’s Best Bakeries Makes Focaccia | Made to Order | Bon Appétit - YouTube","tags":["recipes","videos","inbox"],"updated":"2025-05-24T09:44:36.465-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/focaccia-from-radio-bakery/","title":"(15) How One of NYC’s Best Bakeries Makes Focaccia | Made to Order | Bon Appétit - YouTube","tags":["recipes","videos","inbox"],"updated":"2025-06-01T12:27:23.691-07:00"}
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oPUux4h4Mf8?si=Ky6qsgqqZEh5FcOR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

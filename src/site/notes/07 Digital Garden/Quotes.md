@@ -5,6 +5,10 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Satisfaction from action\|Satisfaction from action]]                                                                                 |
+| [[07 Digital Garden/The depth of understanding\|The depth of understanding]]                                                                             |
+| [[07 Digital Garden/Mastery is the best goal\|Mastery is the best goal]]                                                                                 |
+| [[07 Digital Garden/Do not long for nor fear the next day\|Do not long for nor fear the next day]]                                                       |
 | [[07 Digital Garden/Anne Lamont on good relationships\|Anne Lamont on good relationships]]                                                               |
 | [[07 Digital Garden/Action is the medium for ethics\|Action is the medium for ethics]]                                                                   |
 | [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           |

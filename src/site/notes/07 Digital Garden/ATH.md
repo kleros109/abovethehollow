@@ -5,11 +5,22 @@
 
 | Note                                                                                                                                                        | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                                           | 2025-05-27 |
+| [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                                           | 2025-06-01 |
+| [[07 Digital Garden/Habits are the compound interest of self-improvement\|Habits are the compound interest of self-improvement]]                         | 2025-06-01 |
+| [[07 Digital Garden/Satisfaction from action\|Satisfaction from action]]                                                                                 | 2025-06-01 |
+| [[07 Digital Garden/Knowledge Work Is Dying—Here’s What Comes Next\|Knowledge Work Is Dying—Here’s What Comes Next]]                                     | 2025-06-01 |
+| [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]                                                                                           | 2025-06-01 |
+| [[07 Digital Garden/Chimichurri\|Chimichurri]]                                                                                                           | 2025-05-31 |
+| [[07 Digital Garden/Mastery is the best goal\|Mastery is the best goal]]                                                                                 | 2025-05-30 |
+| [[07 Digital Garden/The depth of understanding\|The depth of understanding]]                                                                             | 2025-05-30 |
+| [[07 Digital Garden/Adam Grant Highlights\|Adam Grant Highlights]]                                                                                       | 2025-05-29 |
+| [[07 Digital Garden/Do not long for nor fear the next day\|Do not long for nor fear the next day]]                                                       | 2025-05-28 |
+| [[07 Digital Garden/Hydration Guidelines\|Hydration Guidelines]]                                                                                         | 2025-05-28 |
+| [[07 Digital Garden/Important Health Protocols\|Important Health Protocols]]                                                                             | 2025-05-28 |
 | [[07 Digital Garden/Newsletter\|Newsletter]]                                                                                                             | 2025-05-27 |
 | [[07 Digital Garden/Education needs tending\|Education needs tending]]                                                                                   | 2025-05-26 |
-| [[07 Digital Garden/Good relationships are key to happiness\|Good relationships are key to happiness]]                                                   | 2025-05-26 |
 | [[07 Digital Garden/Focus on the next small step\|Focus on the next small step]]                                                                         | 2025-05-26 |
+| [[07 Digital Garden/Good relationships are key to happiness\|Good relationships are key to happiness]]                                                   | 2025-05-26 |
 | [[07 Digital Garden/A Simple Format for Herb Sauces\|A Simple Format for Herb Sauces]]                                                                   | 2025-05-25 |
 | [[07 Digital Garden/Curiosity - A Collection of Insights\|Curiosity - A Collection of Insights]]                                                         | 2025-05-25 |
 | [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           | 2025-05-25 |
@@ -62,13 +73,12 @@
 | [[07 Digital Garden/Persistence increases our power in doing\|Persistence increases our power in doing]]                                                 | 2025-05-24 |
 | [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                               | 2025-05-24 |
 | [[07 Digital Garden/Process leads to purpose\|Process leads to purpose]]                                                                                 | 2025-05-24 |
-| [[07 Digital Garden/Questioning assumptions\|Questioning assumptions]]                                                                                   | 2025-05-24 |
 | [[07 Digital Garden/Rare skills are career capital\|Rare skills are career capital]]                                                                     | 2025-05-24 |
+| [[07 Digital Garden/Questioning assumptions\|Questioning assumptions]]                                                                                   | 2025-05-24 |
 | [[07 Digital Garden/Sahil Bloom on Simple Habits\|Sahil Bloom on Simple Habits]]                                                                         | 2025-05-24 |
 | [[07 Digital Garden/Sam Altman on self-belief and willfulness\|Sam Altman on self-belief and willfulness]]                                               | 2025-05-24 |
 | [[07 Digital Garden/Scott Adams on success\|Scott Adams on success]]                                                                                     | 2025-05-24 |
 | [[07 Digital Garden/Selling is the crucial skill nobody taught you\|Selling is the crucial skill nobody taught you]]                                     | 2025-05-24 |
-| [[07 Digital Garden/Shane Parrish on Mastery\|Shane Parrish on Mastery]]                                                                                 | 2025-05-24 |
 | [[07 Digital Garden/Shane Parrish on confidence vs. competenece\|Shane Parrish on confidence vs. competenece]]                                           | 2025-05-24 |
 | [[07 Digital Garden/Showing up vs. disapearing\|Showing up vs. disapearing]]                                                                             | 2025-05-24 |
 | [[07 Digital Garden/Super Whisper Reformat Message Prompt\|Super Whisper Reformat Message Prompt]]                                                       | 2025-05-24 |

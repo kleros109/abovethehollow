@@ -5,6 +5,8 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/The Power of Pausing in Conversation\|The Power of Pausing in Conversation]]                                                         |
+| [[07 Digital Garden/Mastery is the best goal\|Mastery is the best goal]]                                                                                 |
 | [[07 Digital Garden/Education needs tending\|Education needs tending]]                                                                                   |
 | [[07 Digital Garden/Good relationships are key to happiness\|Good relationships are key to happiness]]                                                   |
 | [[07 Digital Garden/Focus on the next small step\|Focus on the next small step]]                                                                         |
@@ -12,7 +14,6 @@
 | [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           |
 | [[07 Digital Garden/The most useful form of patience Is persistence\|The most useful form of patience Is persistence]]                                   |
 | [[07 Digital Garden/That might be the wrong question\|That might be the wrong question]]                                                                 |
-| [[07 Digital Garden/Shane Parrish on Mastery\|Shane Parrish on Mastery]]                                                                                 |
 | [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                               |
 | [[07 Digital Garden/Yvon Chouinard's Journey to Protecting Patagonia's Values\|Yvon Chouinard's Journey to Protecting Patagonia's Values]]               |
 | [[07 Digital Garden/Viktor Frankel on Success\|Viktor Frankel on Success]]                                                                               |
