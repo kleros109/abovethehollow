@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-54/","tags":["ath"],"updated":"2025-06-01T12:46:03.248-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-54/","tags":["ath"],"updated":"2025-06-01T13:00:33.741-07:00"}
 ---
 
 Here is a summary of all notes added to my digital garden in the last 7 days (as of June 1, 2025). Each summary captures the main takeaway and includes a link to the original file.
@@ -46,6 +46,9 @@ A comprehensive collection of evidence-based health practices and protocols, foc
 
 **Chimichurri**
 A detailed recipe and technique guide for making authentic chimichurri sauce, including variations and serving suggestions that highlight its versatility. [[07 Digital Garden/Chimichurri\|Chimichurri]]
+
+**Dubai Taco**
+A recipe for a ground beef smashed taco inspired by the orginal from [77T Texas BBQ](https://www.instagram.com/77texasbbq/?hl=en) in Dubai. Looks delicious. [[07 Digital Garden/Dubai Taco\|Dubai Taco]] 
 
 **Richard Bertinet Sourdough**
 A masterclass in sourdough breadmaking following Richard Bertinet's renowned technique, including crucial tips for achieving the perfect crust and crumb structure. [[07 Digital Garden/Richard Bertinet Sourdough\|Richard Bertinet Sourdough]]
