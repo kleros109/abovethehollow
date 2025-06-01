@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/adam-grant-highlights/","tags":["ath","readwise"],"updated":"2025-05-29T07:23:57.130-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/adam-grant-highlights/","tags":["ath","readwise"],"updated":"2025-06-01T12:52:56.139-07:00"}
 ---
 
-Here’s a summary of your highlights from Adam Grant:
+Here’s a summary of my highlights from Adam Grant:
 
 - Success is framed not as winning against others but as making a positive contribution. Achieving meaningful success means helping others succeed, which shifts the focus from competition to contribution [Success is not about winning a competition. It’s about making a contribution](https://readwise.io/bookreview/26465787/?highlight=509585676).
 

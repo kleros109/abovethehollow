@@ -38,6 +38,8 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
+- [[07 Digital Garden/Adam Grant Highlights\|Adam Grant Highlights]]
+- [[07 Digital Garden/Important Health Protocols\|Important Health Protocols]]
 - [[07 Digital Garden/Deep Research AI Prompt\|Deep Research AI Prompt]]
 - [[07 Digital Garden/The Power of Pausing in Conversation\|The Power of Pausing in Conversation]]
 - [[07 Digital Garden/Richard Bertinet Sourdough\|Richard Bertinet Sourdough]]
@@ -46,8 +48,6 @@ Here are the 10 most recent changes to my notes. A more comprehensive list of ch
 - [[07 Digital Garden/Focaccia from Radio Bakery\|Focaccia from Radio Bakery]]
 - [[07 Digital Garden/Bread\|Bread]]
 - [[07 Digital Garden/Knowledge Work Is Dying—Here’s What Comes Next\|Knowledge Work Is Dying—Here’s What Comes Next]]
-- [[07 Digital Garden/Habits are the compound interest of self-improvement\|Habits are the compound interest of self-improvement]]
-- [[07 Digital Garden/Satisfaction from action\|Satisfaction from action]]
 
 { .block-language-dataview}
 
