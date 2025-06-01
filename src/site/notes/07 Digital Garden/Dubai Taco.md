@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/dubai-taco/","title":"I Flew 8,000 Miles to Learn this BBQ Recipe","tags":["videos","recipes"],"updated":"2025-05-31T14:16:41.904-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/dubai-taco/","title":"Dubai Taco","tags":["videos","recipes"],"updated":"2025-06-01T13:05:43.611-07:00"}
 ---
 
 # The Dubai Taco: A Fusion of Texas Barbecue and Middle Eastern Street Food
 
 The Dubai Taco, as featured in the YouTube video by Mad Scientist BBQ, represents a culinary innovation that merges the robust flavors of Texas barbecue with the aromatic traditions of Middle Eastern street food. Originating from 77 Texas Barbecue in Dubai, this dish reimagines the Egyptian hawashi—a spiced meat-stuffed bread—by incorporating techniques from smash burgers and tacos. The result is a crispy, juicy hybrid that has garnered significant attention for its bold flavors and inventive preparation. Below, we explore the recipe, its cultural roots, and the culinary techniques that define this modern street food phenomenon.
 
-![I Flew 8,000 Miles to Learn this BBQ Recipe](https://www.youtube.com/embed/1caQmWPluas&t=36s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1caQmWPluas?si=UOy6M9Fk6PxgN_CQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 ## Culinary Context and Inspiration
