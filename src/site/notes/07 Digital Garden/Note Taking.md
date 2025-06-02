@@ -6,6 +6,7 @@
 
 | File                                                                                                                                                  | Date       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Top 5 Themes in the Digital Garden\|Top 5 Themes in the Digital Garden]]                                                       | 2025-06-02 |
 | [[07 Digital Garden/Innovative ways to use dataview code\|Innovative ways to use dataview code]]                                                   | 2025-04-20 |
 | [[07 Digital Garden/What are evergreen notes\|What are evergreen notes]]                                                                           | 2025-04-20 |
 | [[07 Digital Garden/Abhishek - Grok 3 Can Now Create Mind Maps for Books\|Abhishek - Grok 3 Can Now Create Mind Maps for Books]]                   | 2025-04-16 |

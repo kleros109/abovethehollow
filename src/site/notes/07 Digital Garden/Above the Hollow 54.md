@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-54/","tags":["ath"],"updated":"2025-06-01T13:23:45.599-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-54/","tags":["ath"],"updated":"2025-06-01T20:34:17.269-07:00"}
 ---
 
 Here is a summary of all notes added to my digital garden in the last week (as of June 1, 2025). Each summary captures the main takeaway and includes a link to the original file.
-
 
 ## Philosophy and Wisdom
 

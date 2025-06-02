@@ -10,7 +10,7 @@
 | [[07 Digital Garden/AI\|AI]]                           | 2025-05-25    |
 | [[02 Notes/Audio Visual\|Audio Visual]]                | 2025-03-03    |
 | [[06 Utilities/Categories/Automobiles\|Automobiles]]   | 2025-03-03    |
-| [[02 Notes/Baking\|Baking]]                            | 2025-04-06    |
+| [[02 Notes/Baking\|Baking]]                            | 2025-06-01    |
 | [[07 Digital Garden/Bread\|Bread]]                     | 2025-06-01    |
 | [[07 Digital Garden/Careers\|Careers]]                 | 2025-05-25    |
 | [[02 Notes/Christianity\|Christianity]]                | 2025-03-03    |

@@ -5,6 +5,7 @@
  
 | Note                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Top 5 Themes in the Digital Garden\|Top 5 Themes in the Digital Garden]]                                   |
 | [[07 Digital Garden/Deep Research AI Prompt\|Deep Research AI Prompt]]                                                         |
 | [[07 Digital Garden/Voicenotes AI Prompts\|Voicenotes AI Prompts]]                                                             |
 | [[07 Digital Garden/Weekly Audit Prompt\|Weekly Audit Prompt]]                                                                 |

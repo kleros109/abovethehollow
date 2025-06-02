@@ -6,6 +6,10 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                                | Created    |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Top 5 Themes in the Digital Garden\|Top 5 Themes in the Digital Garden]]                                     | 2025-06-02 |
+| [[07 Digital Garden/File Summaries 2025-06-01\|File Summaries 2025-06-01]]                                                       | 2025-06-02 |
+| [[07 Digital Garden/Develop into a lifelong learner\|Develop into a lifelong learner]]                                           | 2025-06-02 |
+| [[07 Digital Garden/Sam Altman on Productivity\|Sam Altman on Productivity]]                                                     | 2025-06-01 |
 | [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]                                                                   | 2025-06-01 |
 | [[07 Digital Garden/Bread\|Bread]]                                                                                               | 2025-06-01 |
 | [[07 Digital Garden/Richard Bertinet Sourdough\|Richard Bertinet Sourdough]]                                                     | 2025-06-01 |
@@ -52,9 +56,5 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/Innovative ways to use dataview code\|Innovative ways to use dataview code]]                                 | 2025-04-20 |
 | [[07 Digital Garden/Bake values in\|Bake values in]]                                                                             | 2025-04-19 |
 | [[07 Digital Garden/Meta Prompt\|Meta Prompt]]                                                                                   | 2025-04-18 |
-| [[07 Digital Garden/American\|American]]                                                                                         | 2025-04-16 |
-| [[07 Digital Garden/No Publish\|No Publish]]                                                                                     | 2025-04-16 |
-| [[07 Digital Garden/Blind Spots Prompt\|Blind Spots Prompt]]                                                                     | 2025-04-16 |
-| [[07 Digital Garden/Do what you’re doing\|Do what you’re doing]]                                                                 | 2025-04-15 |
 
 { .block-language-dataview}
