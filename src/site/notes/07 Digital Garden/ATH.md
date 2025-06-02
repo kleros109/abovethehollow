@@ -6,7 +6,7 @@
 | Note                                                                                                                                                        | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[07 Digital Garden/Develop into a lifelong learner\|Develop into a lifelong learner]]                                                                   | 2025-06-02 |
-| [[07 Digital Garden/Top 5 Themes in the Digital Garden\|Top 5 Themes in the Digital Garden]]                                                             | 2025-06-02 |
+| [[07 Digital Garden/Top 5 Themes in Above the Hollow\|Top 5 Themes in Above the Hollow]]                                                                 | 2025-06-02 |
 | [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                                           | 2025-06-01 |
 | [[07 Digital Garden/Adam Grant Highlights\|Adam Grant Highlights]]                                                                                       | 2025-06-01 |
 | [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]                                                                                           | 2025-06-01 |

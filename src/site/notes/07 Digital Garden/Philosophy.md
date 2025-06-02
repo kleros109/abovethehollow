@@ -11,7 +11,7 @@ Several notes in this vault link to [[07 Digital Garden/Philosophy\|Philosophy]]
 
 | Note                                                                                                  |
 | ----------------------------------------------------------------------------------------------------- |
-| [[07 Digital Garden/Top 5 Themes in the Digital Garden\|Top 5 Themes in the Digital Garden]]       |
+| [[07 Digital Garden/Top 5 Themes in Above the Hollow\|Top 5 Themes in Above the Hollow]]           |
 | [[07 Digital Garden/Do not long for nor fear the next day\|Do not long for nor fear the next day]] |
 | [[07 Digital Garden/Philosophy\|Philosophy]]                                                       |
 | [[07 Digital Garden/The chief task in life from Epictetus\|The chief task in life from Epictetus]] |
