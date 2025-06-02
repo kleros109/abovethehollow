@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/a-very-good-aeropress-recipe-maybe-the-best/","title":"A Very Good Aeropress Recipe, Maybe the Best","tags":["videos","culinary"],"updated":"2025-05-24T09:41:14.313-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/a-very-good-aeropress-recipe-maybe-the-best/","title":"A Very Good Aeropress Recipe, Maybe the Best","tags":["videos","culinary"],"updated":"2025-06-02T12:38:27.620-07:00"}
 ---
 
 # A Very Good Aeropress Recipe, Maybe the Best
@@ -10,7 +10,7 @@ This video presents three key tips for making a better Aeropress brew:
 3. Use a coarser grind to improve flow and flavor clarity. 
 Additionally, the video encourages experimentation with different techniques to optimize your brew.
 
-![A Very Good Aeropress Recipe, Maybe the Best](https://www.youtube.com/embed/CafyJ2p0Bgs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CafyJ2p0Bgs?si=7msH75pn9hnAHUwN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > [!tip]- Recipe
 > - 15g medium-fine ground coffee coffee (15 on Baratza Encore)
