@@ -6,7 +6,7 @@
 
 | File                                                                                                                | Date       |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/A Very Good Aeropress Recipe, Maybe the Best\|A Very Good Aeropress Recipe, Maybe the Best]] | 2025-05-24 |
+| [[07 Digital Garden/A Very Good Aeropress Recipe, Maybe the Best\|A Very Good Aeropress Recipe, Maybe the Best]] | 2025-06-02 |
 | [[07 Digital Garden/Aeropress Recipe\|Aeropress Recipe]]                                                         | 2025-05-24 |
 | [[07 Digital Garden/Immersion Iced Coffee\|Immersion Iced Coffee]]                                               | 2025-05-24 |
 

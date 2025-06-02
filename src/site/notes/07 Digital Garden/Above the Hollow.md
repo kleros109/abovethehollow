@@ -38,6 +38,7 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
+- [[07 Digital Garden/A Very Good Aeropress Recipe, Maybe the Best\|A Very Good Aeropress Recipe, Maybe the Best]]
 - [[07 Digital Garden/Top 5 Themes in the Digital Garden\|Top 5 Themes in the Digital Garden]]
 - [[07 Digital Garden/File Summaries 2025-06-01\|File Summaries 2025-06-01]]
 - [[07 Digital Garden/Develop into a lifelong learner\|Develop into a lifelong learner]]
@@ -47,7 +48,6 @@ Here are the 10 most recent changes to my notes. A more comprehensive list of ch
 - [[07 Digital Garden/Richard Bertinet Sourdough\|Richard Bertinet Sourdough]]
 - [[07 Digital Garden/Adam Grant Highlights\|Adam Grant Highlights]]
 - [[07 Digital Garden/Important Health Protocols\|Important Health Protocols]]
-- [[07 Digital Garden/Deep Research AI Prompt\|Deep Research AI Prompt]]
 
 { .block-language-dataview}
 
