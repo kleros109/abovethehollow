@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-55/","tags":["ath"],"updated":"2025-06-07T14:27:41.032-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-55/","tags":["ath"],"updated":"2025-06-07T14:36:15.841-07:00"}
 ---
 
 Here is a summary of all notes added to my digitl garden the last 7 days (as of 2025-06-07). Each summary captures the main takeaway and includes a link to the original file.
@@ -26,3 +26,7 @@ This note illustrates how small, consistent daily habits accumulate over time to
 **Sam Altman on Productivity**
 This note distills key insights and strategies from Sam Altman regarding effective productivity. It covers his perspectives on focus, decision-making, and leveraging time to maximize output and achieve significant goals. [[07 Digital Garden/Sam Altman on Productivity\|Sam Altman on Productivity]]
 
+## Collections and Resources
+
+**Top 5 Themes in Above the Hollow**
+This note summarizes the top 5 themes in this digital garden. Each theme is accompanied by links to representative notes, offering a good starting point for your exploration. [[07 Digital Garden/Top 5 Themes in Above the Hollow\|Top 5 Themes in Above the Hollow]]
