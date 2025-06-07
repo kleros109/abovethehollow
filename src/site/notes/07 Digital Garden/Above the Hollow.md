@@ -39,8 +39,8 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
-- [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]
 - [[07 Digital Garden/Above the Hollow 55\|Above the Hollow 55]]
+- [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]
 - [[07 Digital Garden/Deep Research AI Prompt\|Deep Research AI Prompt]]
 - [[07 Digital Garden/Wisdom\|Wisdom]]
 - [[07 Digital Garden/Wisdom means discerning when to change you opinions\|Wisdom means discerning when to change you opinions]]

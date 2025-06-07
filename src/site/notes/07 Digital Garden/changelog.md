@@ -6,8 +6,8 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                                | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]                                                                   | 2025-06-07 |
 | [[07 Digital Garden/Above the Hollow 55\|Above the Hollow 55]]                                                                   | 2025-06-07 |
+| [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]                                                                   | 2025-06-07 |
 | [[07 Digital Garden/Deep Research AI Prompt\|Deep Research AI Prompt]]                                                           | 2025-06-07 |
 | [[07 Digital Garden/Wisdom\|Wisdom]]                                                                                             | 2025-06-07 |
 | [[07 Digital Garden/Wisdom means discerning when to change you opinions\|Wisdom means discerning when to change you opinions]]   | 2025-06-07 |
