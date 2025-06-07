@@ -5,6 +5,7 @@
 
 | Note                                                                                                                                                        | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]                                                                                           | 2025-06-07 |
 | [[07 Digital Garden/Important Health Protocols\|Important Health Protocols]]                                                                             | 2025-06-07 |
 | [[07 Digital Garden/Note Taking\|Note Taking]]                                                                                                           | 2025-06-07 |
 | [[07 Digital Garden/Sam Altman on Productivity\|Sam Altman on Productivity]]                                                                             | 2025-06-07 |
@@ -20,7 +21,6 @@
 | [[07 Digital Garden/Top 5 Themes in Above the Hollow\|Top 5 Themes in Above the Hollow]]                                                                 | 2025-06-02 |
 | [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                                           | 2025-06-01 |
 | [[07 Digital Garden/Adam Grant Highlights\|Adam Grant Highlights]]                                                                                       | 2025-06-01 |
-| [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]                                                                                           | 2025-06-01 |
 | [[07 Digital Garden/Knowledge Work Is Dying—Here’s What Comes Next\|Knowledge Work Is Dying—Here’s What Comes Next]]                                     | 2025-06-01 |
 | [[07 Digital Garden/Habits are the compound interest of self-improvement\|Habits are the compound interest of self-improvement]]                         | 2025-06-01 |
 | [[07 Digital Garden/Satisfaction from action\|Satisfaction from action]]                                                                                 | 2025-06-01 |

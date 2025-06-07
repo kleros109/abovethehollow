@@ -6,6 +6,7 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                                | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]                                                                   | 2025-06-07 |
 | [[07 Digital Garden/Above the Hollow 55\|Above the Hollow 55]]                                                                   | 2025-06-07 |
 | [[07 Digital Garden/Deep Research AI Prompt\|Deep Research AI Prompt]]                                                           | 2025-06-07 |
 | [[07 Digital Garden/Wisdom\|Wisdom]]                                                                                             | 2025-06-07 |
@@ -43,7 +44,6 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/A Very Good Aeropress Recipe, Maybe the Best\|A Very Good Aeropress Recipe, Maybe the Best]]                 | 2025-06-02 |
 | [[07 Digital Garden/Top 5 Themes in Above the Hollow\|Top 5 Themes in Above the Hollow]]                                         | 2025-06-02 |
 | [[07 Digital Garden/Develop into a lifelong learner\|Develop into a lifelong learner]]                                           | 2025-06-02 |
-| [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]                                                                   | 2025-06-01 |
 | [[07 Digital Garden/Dubai Taco\|Dubai Taco]]                                                                                     | 2025-06-01 |
 | [[07 Digital Garden/Richard Bertinet Sourdough\|Richard Bertinet Sourdough]]                                                     | 2025-06-01 |
 | [[07 Digital Garden/Adam Grant Highlights\|Adam Grant Highlights]]                                                               | 2025-06-01 |
