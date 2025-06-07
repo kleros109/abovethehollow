@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/weekly-audit-prompt/","tags":["AI"],"updated":"2025-05-24T09:43:31.619-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/weekly-audit-prompt/","tags":["AI","prompts"],"updated":"2025-06-02T14:58:46.960-07:00"}
 ---
 
 Answer these questions based on this week’s notes. 

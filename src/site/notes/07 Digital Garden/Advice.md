@@ -5,6 +5,8 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Wisdom\|Wisdom]]                                                                                                                     |
+| [[07 Digital Garden/Wisdom means discerning when to change you opinions\|Wisdom means discerning when to change you opinions]]                           |
 | [[07 Digital Garden/The Power of Pausing in Conversation\|The Power of Pausing in Conversation]]                                                         |
 | [[07 Digital Garden/Mastery is the best goal\|Mastery is the best goal]]                                                                                 |
 | [[07 Digital Garden/Education needs tending\|Education needs tending]]                                                                                   |

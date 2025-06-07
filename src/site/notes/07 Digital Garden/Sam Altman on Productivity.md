@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/sam-altman-on-productivity/","tags":["ath","productivity","inbox"],"updated":"2025-06-01T16:02:05.954-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/sam-altman-on-productivity/","tags":["ath","productivity"],"updated":"2025-06-07T08:45:45.266-07:00"}
 ---
 
 ## What you work on

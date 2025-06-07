@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/voicenotes-ai-prompts/","tags":["AI"],"updated":"2025-05-24T09:43:31.627-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/voicenotes-ai-prompts/","tags":["AI","prompts"],"updated":"2025-06-02T14:58:39.238-07:00"}
 ---
 
 

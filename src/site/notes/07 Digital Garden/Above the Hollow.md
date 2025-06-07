@@ -31,6 +31,7 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 - [[07 Digital Garden/Quotes\|Quotes]]
 - [[07 Digital Garden/Recipes\|Recipes]]
 - [[07 Digital Garden/Stock Analysis\|Stock Analysis]]
+- [[07 Digital Garden/Wisdom\|Wisdom]]
 
 { .block-language-dataview}
 
@@ -38,16 +39,16 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
-- [[07 Digital Garden/A Very Good Aeropress Recipe, Maybe the Best\|A Very Good Aeropress Recipe, Maybe the Best]]
-- [[07 Digital Garden/Top 5 Themes in Above the Hollow\|Top 5 Themes in Above the Hollow]]
-- [[07 Digital Garden/Develop into a lifelong learner\|Develop into a lifelong learner]]
-- [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]
-- [[07 Digital Garden/Sam Altman on Productivity\|Sam Altman on Productivity]]
-- [[07 Digital Garden/Dubai Taco\|Dubai Taco]]
-- [[07 Digital Garden/Richard Bertinet Sourdough\|Richard Bertinet Sourdough]]
-- [[07 Digital Garden/Adam Grant Highlights\|Adam Grant Highlights]]
-- [[07 Digital Garden/Important Health Protocols\|Important Health Protocols]]
+- [[07 Digital Garden/Above the Hollow 55\|Above the Hollow 55]]
 - [[07 Digital Garden/Deep Research AI Prompt\|Deep Research AI Prompt]]
+- [[07 Digital Garden/Wisdom\|Wisdom]]
+- [[07 Digital Garden/Wisdom means discerning when to change you opinions\|Wisdom means discerning when to change you opinions]]
+- [[07 Digital Garden/My Productivity System\|My Productivity System]]
+- [[07 Digital Garden/Note Taking\|Note Taking]]
+- [[07 Digital Garden/Task Management Best Practices\|Task Management Best Practices]]
+- [[07 Digital Garden/Time Blocking Guide\|Time Blocking Guide]]
+- [[07 Digital Garden/Important Health Protocols\|Important Health Protocols]]
+- [[07 Digital Garden/Focaccia from Radio Bakery\|Focaccia from Radio Bakery]]
 
 { .block-language-dataview}
 

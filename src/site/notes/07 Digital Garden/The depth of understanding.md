@@ -15,4 +15,4 @@
 </div></div>
 
 
-Another quote on the importance of [[Wisdom\|Wisdom]].
+Another quote on the importance of [[07 Digital Garden/Wisdom\|Wisdom]].

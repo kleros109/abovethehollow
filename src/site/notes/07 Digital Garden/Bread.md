@@ -4,6 +4,6 @@
 
 | Note                                                                            | Updated    |
 | ------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Focaccia from Radio Bakery\|Focaccia from Radio Bakery]] | 2025-06-01 |
+| [[07 Digital Garden/Focaccia from Radio Bakery\|Focaccia from Radio Bakery]] | 2025-06-07 |
 
 { .block-language-dataview}

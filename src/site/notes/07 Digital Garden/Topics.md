@@ -33,7 +33,7 @@
 | [[02 Notes/Macro\|Macro]]                              | 2025-03-03    |
 | [[07 Digital Garden/Marketing\|Marketing]]             | 2025-05-27    |
 | [[07 Digital Garden/Mental Models\|Mental Models]]     | 2025-04-20    |
-| [[07 Digital Garden/Note Taking\|Note Taking]]         | 2025-04-19    |
+| [[07 Digital Garden/Note Taking\|Note Taking]]         | 2025-06-07    |
 | [[02 Notes/Options\|Options]]                          | 2025-03-03    |
 | [[07 Digital Garden/Philosophy\|Philosophy]]           | 2025-05-28    |
 | [[07 Digital Garden/Pizza\|Pizza]]                     | 2025-05-25    |
@@ -50,6 +50,7 @@
 | [[02 Notes/Trading\|Trading]]                          | 2025-03-03    |
 | [[07 Digital Garden/Travel\|Travel]]                   | 2025-04-20    |
 | [[07 Digital Garden/Venture Capital\|Venture Capital]] | 2025-04-20    |
+| [[07 Digital Garden/Wisdom\|Wisdom]]                   | 2025-06-07    |
 | [[07 Digital Garden/Writing\|Writing]]                 | 2025-04-17    |
 
 { .block-language-dataview}

@@ -11,9 +11,9 @@ hello now hello
 | [[07 Digital Garden/Boundary between work and self\|Boundary between work and self]]                                               |
 | [[07 Digital Garden/Building trust quickly is a superpower\|Building trust quickly is a superpower]]                               |
 | [[07 Digital Garden/Business Writing 101\|Business Writing 101]]                                                                   |
+| [[07 Digital Garden/Career Advice from James Clear\|Career Advice from James Clear]]                                               |
 | [[07 Digital Garden/Career Advice from Msty\|Career Advice from Msty]]                                                             |
 | [[07 Digital Garden/Career Advice from My Highlights\|Career Advice from My Highlights]]                                           |
-| [[07 Digital Garden/Career Advice from James Clear\|Career Advice from James Clear]]                                               |
 | [[07 Digital Garden/Decide Your Next Decade\|Decide Your Next Decade]]                                                             |
 | [[07 Digital Garden/Here's the BIGGEST Mistake Found on Resumes!\|Here's the BIGGEST Mistake Found on Resumes!]]                   |
 | [[07 Digital Garden/Honest answers for development\|Honest answers for development]]                                               |

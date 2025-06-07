@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/time-blocking-guide/","tags":["productivity","inbox"],"updated":"2025-05-25T09:59:52.462-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/time-blocking-guide/","tags":["productivity"],"updated":"2025-06-07T08:47:54.287-07:00"}
 ---
 
 

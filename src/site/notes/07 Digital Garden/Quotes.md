@@ -5,6 +5,7 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Act to cancel out stupid behavior\|Act to cancel out stupid behavior]]                                                               |
 | [[07 Digital Garden/Develop into a lifelong learner\|Develop into a lifelong learner]]                                                                   |
 | [[07 Digital Garden/Satisfaction from action\|Satisfaction from action]]                                                                                 |
 | [[07 Digital Garden/The depth of understanding\|The depth of understanding]]                                                                             |

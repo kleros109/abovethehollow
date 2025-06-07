@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/deep-research-ai-prompt/","title":"Deep Research AI Prompt","tags":["clippings","AI"],"updated":"2025-06-01T12:50:59.924-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/deep-research-ai-prompt/","title":"Deep Research AI Prompt","tags":["clippings","AI","prompts"],"updated":"2025-06-07T13:59:12.077-07:00"}
 ---
 
 Alex Finn’s thread on X (Twitter) introduces what he calls the most powerful Deep Research AI prompt he’s ever used, claiming it can help users generate thousands of dollars. The core idea is that this AI prompt enables the AI to conduct in-depth research on any topic, synthesizing information from various sources to produce actionable insights or business opportunities. Finn emphasizes the prompt’s ability to automate complex research tasks, saving users significant time and effort, and highlights its potential for financial gain by leveraging AI-driven research for business, investing, or content creation purposes[1].
