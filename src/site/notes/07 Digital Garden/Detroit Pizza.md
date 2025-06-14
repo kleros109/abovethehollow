@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/detroit-pizza/","tags":["recipes"],"updated":"2025-04-16T09:49:02.941-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/detroit-pizza/","tags":["recipes"],"updated":"2025-06-07T18:50:00.254-07:00"}
 ---
 
 ## Detroit-Style Pan Pizza Recipe

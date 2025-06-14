@@ -5,6 +5,7 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Wisdom is knowing when to abandon identity\|Wisdom is knowing when to abandon identity]]                                             |
 | [[07 Digital Garden/Wisdom\|Wisdom]]                                                                                                                     |
 | [[07 Digital Garden/Wisdom means discerning when to change you opinions\|Wisdom means discerning when to change you opinions]]                           |
 | [[07 Digital Garden/The Power of Pausing in Conversation\|The Power of Pausing in Conversation]]                                                         |

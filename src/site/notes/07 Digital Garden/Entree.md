@@ -14,5 +14,6 @@
 | [[07 Digital Garden/Baked Tacos\|Baked Tacos]]                             | 2025-05-24 |
 | [[07 Digital Garden/Miso & Ginger Chuck Roast\|Miso & Ginger Chuck Roast]] | 2025-05-24 |
 | [[07 Digital Garden/Pasta all’Amatriciana\|Pasta all’Amatriciana]]         | 2025-05-24 |
+| [[07 Digital Garden/Skillet Chicken\|Skillet Chicken]]                     | 2025-06-13 |
 
 { .block-language-dataview}

@@ -22,6 +22,7 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 - [[07 Digital Garden/Culinary\|Culinary]]
 - [[07 Digital Garden/Evergreen\|Evergreen]]
 - [[07 Digital Garden/Favorites\|Favorites]]
+- [[07 Digital Garden/Health\|Health]]
 - [[07 Digital Garden/Investing\|Investing]]
 - [[07 Digital Garden/Leadership\|Leadership]]
 - [[07 Digital Garden/Marketing\|Marketing]]
@@ -41,14 +42,14 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
 - [[07 Digital Garden/Above the Hollow 55\|Above the Hollow 55]]
 - [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]
-- [[07 Digital Garden/Deep Research AI Prompt\|Deep Research AI Prompt]]
-- [[07 Digital Garden/Wisdom\|Wisdom]]
-- [[07 Digital Garden/Wisdom means discerning when to change you opinions\|Wisdom means discerning when to change you opinions]]
-- [[07 Digital Garden/My Productivity System\|My Productivity System]]
-- [[07 Digital Garden/Note Taking\|Note Taking]]
-- [[07 Digital Garden/Task Management Best Practices\|Task Management Best Practices]]
-- [[07 Digital Garden/Time Blocking Guide\|Time Blocking Guide]]
-- [[07 Digital Garden/Important Health Protocols\|Important Health Protocols]]
+- [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]
+- [[07 Digital Garden/Above the Hollow 56\|Above the Hollow 56]]
+- [[07 Digital Garden/Above the Hollow Prompt 2\|Above the Hollow Prompt 2]]
+- [[07 Digital Garden/Health\|Health]]
+- [[07 Digital Garden/Readwise Highlights on Wisdom\|Readwise Highlights on Wisdom]]
+- [[07 Digital Garden/Above the Hollow Prompt\|Above the Hollow Prompt]]
+- [[07 Digital Garden/Skillet Chicken\|Skillet Chicken]]
+- [[07 Digital Garden/The illusion of motivation\|The illusion of motivation]]
 
 { .block-language-dataview}
 

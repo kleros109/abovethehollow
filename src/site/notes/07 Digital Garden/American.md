@@ -5,6 +5,7 @@
 
 | File                                                                          | Date       |
 | ----------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Skillet Chicken\|Skillet Chicken]]                     | 2025-06-13 |
 | [[07 Digital Garden/Miso & Ginger Chuck Roast\|Miso & Ginger Chuck Roast]] | 2025-05-24 |
 
 { .block-language-dataview}

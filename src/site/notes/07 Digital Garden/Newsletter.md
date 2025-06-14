@@ -5,6 +5,7 @@
 
 | Edition                                                           | Created    |
 | ----------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Above the Hollow 56\|Above the Hollow 56]] | 2025-06-14 |
 | [[07 Digital Garden/Above the Hollow 55\|Above the Hollow 55]] | 2025-06-07 |
 | [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]] | 2025-06-01 |
 | [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]] | 2025-05-26 |
