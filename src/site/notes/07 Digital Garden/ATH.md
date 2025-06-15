@@ -5,14 +5,14 @@
 
 | Note                                                                                                                                                        | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Above the Hollow 56\|Above the Hollow 56]]                                                                                           | 2025-06-15 |
+| [[07 Digital Garden/The illusion of motivation\|The illusion of motivation]]                                                                             | 2025-06-15 |
 | [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                                           | 2025-06-14 |
 | [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]                                                                                           | 2025-06-14 |
 | [[07 Digital Garden/Above the Hollow 55\|Above the Hollow 55]]                                                                                           | 2025-06-14 |
-| [[07 Digital Garden/Above the Hollow 56\|Above the Hollow 56]]                                                                                           | 2025-06-14 |
 | [[07 Digital Garden/Above the Hollow Prompt 2\|Above the Hollow Prompt 2]]                                                                               | 2025-06-14 |
 | [[07 Digital Garden/Above the Hollow Prompt\|Above the Hollow Prompt]]                                                                                   | 2025-06-14 |
 | [[07 Digital Garden/Readwise Highlights on Wisdom\|Readwise Highlights on Wisdom]]                                                                       | 2025-06-14 |
-| [[07 Digital Garden/The illusion of motivation\|The illusion of motivation]]                                                                             | 2025-06-13 |
 | [[07 Digital Garden/Minimize overhead for maximum focus\|Minimize overhead for maximum focus]]                                                           | 2025-06-11 |
 | [[07 Digital Garden/AI Fluency\|AI Fluency]]                                                                                                             | 2025-06-09 |
 | [[07 Digital Garden/The Ultimate Sourdough Bulk Fermentation Guide\|The Ultimate Sourdough Bulk Fermentation Guide]]                                     | 2025-06-08 |

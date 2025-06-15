@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-56/","tags":["ath"],"updated":"2025-06-14T16:01:39.175-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-56/","tags":["ath"],"updated":"2025-06-15T10:25:42.856-07:00"}
 ---
 
 
@@ -19,7 +19,7 @@ Gain a deeper understanding of wisdom as the capacity to discern the right momen
 This note highlights that relying solely on motivation is often a trap for consistent action, suggesting that building systems and habits is a more reliable path to achieving goals. [[07 Digital Garden/The illusion of motivation\|The illusion of motivation]]
 
 **Minimize overhead for maximum focus**
-Discover how streamlining workflows and reducing unnecessary tasks can significantly boost concentration and productivity by freeing up mental energy for deep work. [[07 Digital Garden/Minimize overhead for maximum focus\|Minimize overhead for maximum focus]]
+Wisdom is discerning the right moment to release deeply held identities, key to judgment, open-mindedness, and continuous growth. [[07 Digital Garden/Minimize overhead for maximum focus\|Minimize overhead for maximum focus]]
 
 ## Technology and AI
 
