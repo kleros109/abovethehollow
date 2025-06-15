@@ -9,8 +9,8 @@ hello now hello
 | [[07 Digital Garden/Knowledge Work Is Dying—Here’s What Comes Next\|Knowledge Work Is Dying—Here’s What Comes Next]]               |
 | [[07 Digital Garden/5 Relationships You Need to Build a Successful Career\|5 Relationships You Need to Build a Successful Career]] |
 | [[07 Digital Garden/Boundary between work and self\|Boundary between work and self]]                                               |
-| [[07 Digital Garden/Business Writing 101\|Business Writing 101]]                                                                   |
 | [[07 Digital Garden/Building trust quickly is a superpower\|Building trust quickly is a superpower]]                               |
+| [[07 Digital Garden/Business Writing 101\|Business Writing 101]]                                                                   |
 | [[07 Digital Garden/Career Advice from James Clear\|Career Advice from James Clear]]                                               |
 | [[07 Digital Garden/Career Advice from Msty\|Career Advice from Msty]]                                                             |
 | [[07 Digital Garden/Career Advice from My Highlights\|Career Advice from My Highlights]]                                           |

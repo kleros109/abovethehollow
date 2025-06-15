@@ -40,16 +40,16 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
+- [[07 Digital Garden/Above the Hollow Prompt 2\|Above the Hollow Prompt 2]]
+- [[07 Digital Garden/2025-06-14\|2025-06-14]]
 - [[07 Digital Garden/Above the Hollow 55\|Above the Hollow 55]]
 - [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]
 - [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]
 - [[07 Digital Garden/Above the Hollow 56\|Above the Hollow 56]]
-- [[07 Digital Garden/Above the Hollow Prompt 2\|Above the Hollow Prompt 2]]
 - [[07 Digital Garden/Health\|Health]]
 - [[07 Digital Garden/Readwise Highlights on Wisdom\|Readwise Highlights on Wisdom]]
 - [[07 Digital Garden/Above the Hollow Prompt\|Above the Hollow Prompt]]
 - [[07 Digital Garden/Skillet Chicken\|Skillet Chicken]]
-- [[07 Digital Garden/The illusion of motivation\|The illusion of motivation]]
 
 { .block-language-dataview}
 

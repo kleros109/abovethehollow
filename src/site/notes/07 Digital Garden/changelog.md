@@ -6,11 +6,12 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                              | Updated    |
 | --------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Above the Hollow Prompt 2\|Above the Hollow Prompt 2]]                                                     | 2025-06-14 |
+| [[07 Digital Garden/2025-06-14\|2025-06-14]]                                                                                   | 2025-06-14 |
 | [[07 Digital Garden/Above the Hollow 55\|Above the Hollow 55]]                                                                 | 2025-06-14 |
 | [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]                                                                 | 2025-06-14 |
 | [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                 | 2025-06-14 |
 | [[07 Digital Garden/Above the Hollow 56\|Above the Hollow 56]]                                                                 | 2025-06-14 |
-| [[07 Digital Garden/Above the Hollow Prompt 2\|Above the Hollow Prompt 2]]                                                     | 2025-06-14 |
 | [[07 Digital Garden/Health\|Health]]                                                                                           | 2025-06-14 |
 | [[07 Digital Garden/Readwise Highlights on Wisdom\|Readwise Highlights on Wisdom]]                                             | 2025-06-14 |
 | [[07 Digital Garden/Above the Hollow Prompt\|Above the Hollow Prompt]]                                                         | 2025-06-14 |
@@ -55,6 +56,5 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/Weekly Audit Prompt\|Weekly Audit Prompt]]                                                                 | 2025-06-02 |
 | [[07 Digital Garden/Voicenotes AI Prompts\|Voicenotes AI Prompts]]                                                             | 2025-06-02 |
 | [[07 Digital Garden/A Very Good Aeropress Recipe, Maybe the Best\|A Very Good Aeropress Recipe, Maybe the Best]]               | 2025-06-02 |
-| [[07 Digital Garden/Top 5 Themes in Above the Hollow\|Top 5 Themes in Above the Hollow]]                                       | 2025-06-02 |
 
 { .block-language-dataview}
