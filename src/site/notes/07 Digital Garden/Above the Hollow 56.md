@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-56/","tags":["ath"],"updated":"2025-06-15T10:27:03.674-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-56/","tags":["ath"],"updated":"2025-06-15T10:51:51.937-07:00"}
 ---
 
 
-Here is a summary of all notes added to my digital garden the last 7 days (as of 2025-06-14). Each summary captures the main takeaway and includes a link to the original file.
+Here is a summary of all notes added to my digital garden the last week. Each summary captures the main takeaway and includes a link to the original file.
 
 ## Philosophy and Wisdom
 
