@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/paul-graham-quotes/","tags":["ath","quotes","inbox"],"updated":"2025-05-24T14:10:46.396-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/paul-graham-quotes/","tags":["ath","quotes"],"updated":"2025-06-20T09:40:05.749-07:00"}
 ---
 
 ## Core Life and Work Philosophy

@@ -6,12 +6,12 @@
 
 | Note                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Sam Altman on Productivity\|Sam Altman on Productivity]]                                                                     |
 | [[07 Digital Garden/The illusion of motivation\|The illusion of motivation]]                                                                     |
 | [[07 Digital Garden/Minimize overhead for maximum focus\|Minimize overhead for maximum focus]]                                                   |
 | [[07 Digital Garden/My Productivity System\|My Productivity System]]                                                                             |
 | [[07 Digital Garden/Task Management Best Practices\|Task Management Best Practices]]                                                             |
 | [[07 Digital Garden/Time Blocking Guide\|Time Blocking Guide]]                                                                                   |
-| [[07 Digital Garden/Sam Altman on Productivity\|Sam Altman on Productivity]]                                                                     |
 | [[07 Digital Garden/Habits are the compound interest of self-improvement\|Habits are the compound interest of self-improvement]]                 |
 | [[07 Digital Garden/Weekly Review\|Weekly Review]]                                                                                               |
 | [[07 Digital Garden/Weekly Review from Ross Harkness\|Weekly Review from Ross Harkness]]                                                         |

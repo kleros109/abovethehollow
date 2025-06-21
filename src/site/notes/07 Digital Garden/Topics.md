@@ -24,6 +24,7 @@
 | [[07 Digital Garden/Favorites\|Favorites]]                          | 2025-05-25    |
 | [[02 Notes/Financial Analysis\|Financial Analysis]]                 | 2025-03-03    |
 | [[02 Notes/Fixed Income\|Fixed Income]]                             | 2025-03-03    |
+| [[07 Digital Garden/Founders\|Founders]]                            | 2025-06-15    |
 | [[07 Digital Garden/Health\|Health]]                                | 2025-06-14    |
 | [[02 Notes/Housing\|Housing]]                                       | 2025-03-03    |
 | [[07 Digital Garden/Investing\|Investing]]                          | 2025-05-25    |
@@ -38,7 +39,7 @@
 | [[07 Digital Garden/Note Taking\|Note Taking]]                      | 2025-06-07    |
 | [[02 Notes/Options\|Options]]                                       | 2025-03-03    |
 | [[07 Digital Garden/Philosophy\|Philosophy]]                        | 2025-05-28    |
-| [[07 Digital Garden/Pizza\|Pizza]]                                  | 2025-05-25    |
+| [[07 Digital Garden/Pizza\|Pizza]]                                  | 2025-06-20    |
 | [[07 Digital Garden/Productivity\|Productivity]]                    | 2025-05-25    |
 | [[02 Notes/Quantum Computing\|Quantum Computing]]                   | 2025-03-31    |
 | [[07 Digital Garden/Quotes\|Quotes]]                                | 2025-05-25    |

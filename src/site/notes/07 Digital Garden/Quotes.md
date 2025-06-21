@@ -5,6 +5,7 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Paul Graham Quotes\|Paul Graham Quotes]]                                                                                             |
 | [[07 Digital Garden/Act to cancel out stupid behavior\|Act to cancel out stupid behavior]]                                                               |
 | [[07 Digital Garden/Develop into a lifelong learner\|Develop into a lifelong learner]]                                                                   |
 | [[07 Digital Garden/Satisfaction from action\|Satisfaction from action]]                                                                                 |
@@ -14,7 +15,6 @@
 | [[07 Digital Garden/Anne Lamont on good relationships\|Anne Lamont on good relationships]]                                                               |
 | [[07 Digital Garden/Action is the medium for ethics\|Action is the medium for ethics]]                                                                   |
 | [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           |
-| [[07 Digital Garden/Paul Graham Quotes\|Paul Graham Quotes]]                                                                                             |
 | [[07 Digital Garden/Peace and time\|Peace and time]]                                                                                                     |
 | [[07 Digital Garden/Questioning assumptions\|Questioning assumptions]]                                                                                   |
 | [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                               |
@@ -44,7 +44,7 @@
 
 | Note                                                                                                                                                                                                                                                                                             | Updated    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| [[04 Clippings/Readwise/Articles/Tim Ferriss - 5-Bullet Friday — Why You’re Not Late, Japanese Binaural Jazz, Peyote Conservation, and a Relaxing Realization\|Tim Ferriss - 5-Bullet Friday — Why You’re Not Late, Japanese Binaural Jazz, Peyote Conservation, and a Relaxing Realization]] | 2025-06-07 |
+| [[04 Clippings/Readwise/Articles/Tim Ferriss - 5-Bullet Friday — Why You’re Not Late, Japanese Binaural Jazz, Peyote Conservation, and a Relaxing Realization\|Tim Ferriss - 5-Bullet Friday — Why You’re Not Late, Japanese Binaural Jazz, Peyote Conservation, and a Relaxing Realization]] | 2025-06-21 |
 | [[04 Clippings/Paul Tudor Jones on market strategy\|Paul Tudor Jones on market strategy]]                                                                                                                                                                                                     | 2025-05-24 |
 | [[02 Notes/Above the Hollow 47\|Above the Hollow 47]]                                                                                                                                                                                                                                         | 2025-04-16 |
 | [[02 Notes/Voicenotes/2025-01-08 Questioning Assumptions\|2025-01-08 Questioning Assumptions]]                                                                                                                                                                                                | 2025-04-07 |

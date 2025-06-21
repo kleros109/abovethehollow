@@ -5,6 +5,7 @@
 
 | Note                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Highlights about Charlie Munger\|Highlights about Charlie Munger]]                                     |
 | [[07 Digital Garden/Stock Analysis\|Stock Analysis]]                                                                       |
 | [[07 Digital Garden/Bond math is now key to today's financial markets\|Bond math is now key to today's financial markets]] |
 | [[07 Digital Garden/Hybrid Asset Allocation\|Hybrid Asset Allocation]]                                                     |

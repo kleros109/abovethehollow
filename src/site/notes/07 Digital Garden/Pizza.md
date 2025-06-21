@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/pizza/","tags":["inbox"],"updated":"2025-05-25T13:05:55.054-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/pizza/","tags":["culinary"],"updated":"2025-06-20T09:40:36.965-07:00"}
 ---
 
 

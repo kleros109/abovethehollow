@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/paul-graham-on-superlinear-returns/","tags":["readwise","careers"],"updated":"2025-05-24T09:40:31.003-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/paul-graham-on-superlinear-returns/","tags":["readwise","careers"],"updated":"2025-06-15T12:43:27.753-07:00"}
 ---
 
 # Superlinear Returns

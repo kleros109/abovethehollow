@@ -5,6 +5,9 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/What should young people do with their lives\|What should young people do with their lives]]                                         |
+| [[07 Digital Garden/Commit first, plan later\|Commit first, plan later]]                                                                                 |
+| [[07 Digital Garden/Highlights about Sam Zell\|Highlights about Sam Zell]]                                                                               |
 | [[07 Digital Garden/Wisdom is knowing when to abandon identity\|Wisdom is knowing when to abandon identity]]                                             |
 | [[07 Digital Garden/Wisdom\|Wisdom]]                                                                                                                     |
 | [[07 Digital Garden/Wisdom means discerning when to change you opinions\|Wisdom means discerning when to change you opinions]]                           |
