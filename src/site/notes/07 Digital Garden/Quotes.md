@@ -5,6 +5,8 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/The art of thoughtful elimination\|The art of thoughtful elimination]]                                                               |
+| [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           |
 | [[07 Digital Garden/Paul Graham Quotes\|Paul Graham Quotes]]                                                                                             |
 | [[07 Digital Garden/Act to cancel out stupid behavior\|Act to cancel out stupid behavior]]                                                               |
 | [[07 Digital Garden/Develop into a lifelong learner\|Develop into a lifelong learner]]                                                                   |
@@ -14,7 +16,6 @@
 | [[07 Digital Garden/Do not long for nor fear the next day\|Do not long for nor fear the next day]]                                                       |
 | [[07 Digital Garden/Anne Lamont on good relationships\|Anne Lamont on good relationships]]                                                               |
 | [[07 Digital Garden/Action is the medium for ethics\|Action is the medium for ethics]]                                                                   |
-| [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           |
 | [[07 Digital Garden/Peace and time\|Peace and time]]                                                                                                     |
 | [[07 Digital Garden/Questioning assumptions\|Questioning assumptions]]                                                                                   |
 | [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                               |

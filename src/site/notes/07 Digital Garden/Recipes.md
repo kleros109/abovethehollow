@@ -20,9 +20,9 @@ Here is a list of my frequently used recipes.
 | [[07 Digital Garden/Chicken Thighs Beast Mode\|Chicken Thighs Beast Mode]]     | 2025-05-24 |
 | [[07 Digital Garden/Chile Poblano Tacos\|Chile Poblano Tacos]]                 | 2025-05-24 |
 | [[07 Digital Garden/Frittata\|Frittata]]                                       | 2025-05-24 |
+| [[07 Digital Garden/Hummus\|Hummus]]                                           | 2025-05-24 |
 | [[07 Digital Garden/Immersion Iced Coffee\|Immersion Iced Coffee]]             | 2025-05-24 |
 | [[07 Digital Garden/Instant Pot Beans\|Instant Pot Beans]]                     | 2025-05-24 |
-| [[07 Digital Garden/Hummus\|Hummus]]                                           | 2025-05-24 |
 | [[07 Digital Garden/Mexican White Rice\|Mexican White Rice]]                   | 2025-05-24 |
 | [[07 Digital Garden/Miso & Ginger Chuck Roast\|Miso & Ginger Chuck Roast]]     | 2025-05-24 |
 | [[07 Digital Garden/Oaxacan Old Fashioned\|Oaxacan Old Fashioned]]             | 2025-05-24 |

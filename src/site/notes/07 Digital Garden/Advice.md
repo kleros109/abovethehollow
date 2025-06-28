@@ -5,9 +5,12 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/The art of thoughtful elimination\|The art of thoughtful elimination]]                                                               |
+| [[07 Digital Garden/Kindness isn't a weakness\|Kindness isn't a weakness]]                                                                               |
+| [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           |
+| [[07 Digital Garden/Highlights about Sam Zell\|Highlights about Sam Zell]]                                                                               |
 | [[07 Digital Garden/What should young people do with their lives\|What should young people do with their lives]]                                         |
 | [[07 Digital Garden/Commit first, plan later\|Commit first, plan later]]                                                                                 |
-| [[07 Digital Garden/Highlights about Sam Zell\|Highlights about Sam Zell]]                                                                               |
 | [[07 Digital Garden/Wisdom is knowing when to abandon identity\|Wisdom is knowing when to abandon identity]]                                             |
 | [[07 Digital Garden/Wisdom\|Wisdom]]                                                                                                                     |
 | [[07 Digital Garden/Wisdom means discerning when to change you opinions\|Wisdom means discerning when to change you opinions]]                           |
@@ -17,7 +20,6 @@
 | [[07 Digital Garden/Good relationships are key to happiness\|Good relationships are key to happiness]]                                                   |
 | [[07 Digital Garden/Focus on the next small step\|Focus on the next small step]]                                                                         |
 | [[07 Digital Garden/The power of curiosity\|The power of curiosity]]                                                                                     |
-| [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           |
 | [[07 Digital Garden/The most useful form of patience Is persistence\|The most useful form of patience Is persistence]]                                   |
 | [[07 Digital Garden/That might be the wrong question\|That might be the wrong question]]                                                                 |
 | [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                               |

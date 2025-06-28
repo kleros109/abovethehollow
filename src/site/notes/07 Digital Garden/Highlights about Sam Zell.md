@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/highlights-about-sam-zell/","tags":["ath","inbox"],"updated":"2025-06-15T12:40:33.793-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/highlights-about-sam-zell/","tags":["ath"],"updated":"2025-06-22T18:40:40.607-07:00"}
 ---
 
 

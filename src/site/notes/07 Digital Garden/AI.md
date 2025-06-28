@@ -5,6 +5,7 @@
  
 | Note                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Business Plan Prompt\|Business Plan Prompt]]                                                               |
 | [[07 Digital Garden/AI Fluency\|AI Fluency]]                                                                                   |
 | [[07 Digital Garden/Deep Research AI Prompt\|Deep Research AI Prompt]]                                                         |
 | [[07 Digital Garden/Performance Review Prompt\|Performance Review Prompt]]                                                     |

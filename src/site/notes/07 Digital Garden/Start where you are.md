@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/start-where-you-are/","tags":["ath","quotes","inbox"],"updated":"2025-05-25T09:58:15.003-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/start-where-you-are/","tags":["ath","quotes"],"updated":"2025-06-23T07:01:01.422-07:00"}
 ---
 
 
