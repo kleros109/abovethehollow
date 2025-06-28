@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/business-plan-prompt/","tags":["ath","AI"],"updated":"2025-06-22T14:55:11.493-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/business-plan-prompt/","tags":["ath","AI"],"updated":"2025-06-28T14:41:29.508-07:00"}
 ---
 
-## This ChatGPT Prompt Writes Your Entire Business Plan in Minutes (Step-by-Step, With Real Projections)
+## This Prompt Writes Your Entire Business Plan in Minutes
 
 
 If you’re planning to launch a business and feel overwhelmed by the idea of writing a full business plan — this ChatGPT prompt can literally do 90% of the heavy lifting.

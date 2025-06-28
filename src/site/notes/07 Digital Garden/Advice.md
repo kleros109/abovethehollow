@@ -5,6 +5,7 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Clarity comes from subtraction\|Clarity comes from subtraction]]                                                                     |
 | [[07 Digital Garden/The art of thoughtful elimination\|The art of thoughtful elimination]]                                                               |
 | [[07 Digital Garden/Kindness isn't a weakness\|Kindness isn't a weakness]]                                                                               |
 | [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           |

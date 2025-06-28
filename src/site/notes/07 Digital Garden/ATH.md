@@ -5,10 +5,10 @@
 
 | Note                                                                                                                                                        | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Business Plan Prompt\|Business Plan Prompt]]                                                                                         | 2025-06-28 |
 | [[07 Digital Garden/Above the Hollow 58\|Above the Hollow 58]]                                                                                           | 2025-06-28 |
 | [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           | 2025-06-23 |
 | [[07 Digital Garden/Highlights about Sam Zell\|Highlights about Sam Zell]]                                                                               | 2025-06-22 |
-| [[07 Digital Garden/Business Plan Prompt\|Business Plan Prompt]]                                                                                         | 2025-06-22 |
 | [[07 Digital Garden/Above the Hollow 57\|Above the Hollow 57]]                                                                                           | 2025-06-21 |
 | [[07 Digital Garden/Lao Tzu on wisdom\|Lao Tzu on wisdom]]                                                                                               | 2025-06-21 |
 | [[07 Digital Garden/Narcissistic leaders are threatened by talent\|Narcissistic leaders are threatened by talent]]                                       | 2025-06-21 |

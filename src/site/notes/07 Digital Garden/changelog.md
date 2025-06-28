@@ -6,17 +6,17 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                                    | Updated    |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Business Plan Prompt\|Business Plan Prompt]]                                                                     | 2025-06-28 |
+| [[07 Digital Garden/Clarity comes from subtraction\|Clarity comes from subtraction]]                                                 | 2025-06-28 |
+| [[07 Digital Garden/Quick to change opinions but slow to change principles\|Quick to change opinions but slow to change principles]] | 2025-06-28 |
 | [[07 Digital Garden/Above the Hollow 58\|Above the Hollow 58]]                                                                       | 2025-06-28 |
 | [[07 Digital Garden/The biggest career cheat code\|The biggest career cheat code]]                                                   | 2025-06-28 |
 | [[07 Digital Garden/The art of thoughtful elimination\|The art of thoughtful elimination]]                                           | 2025-06-27 |
 | [[07 Digital Garden/Kindness isn't a weakness\|Kindness isn't a weakness]]                                                           | 2025-06-27 |
 | [[07 Digital Garden/You are divided into one of two groups\|You are divided into one of two groups]]                                 | 2025-06-27 |
-| [[07 Digital Garden/Quick to change opinions but slow to change principles\|Quick to change opinions but slow to change principles]] | 2025-06-27 |
-| [[07 Digital Garden/Clarity comes from subtraction\|Clarity comes from subtraction]]                                                 | 2025-06-27 |
 | [[07 Digital Garden/Swallow the frog\|Swallow the frog]]                                                                             | 2025-06-27 |
 | [[07 Digital Garden/Start where you are\|Start where you are]]                                                                       | 2025-06-23 |
 | [[07 Digital Garden/Highlights about Sam Zell\|Highlights about Sam Zell]]                                                           | 2025-06-22 |
-| [[07 Digital Garden/Business Plan Prompt\|Business Plan Prompt]]                                                                     | 2025-06-22 |
 | [[07 Digital Garden/Highlights about Charlie Munger\|Highlights about Charlie Munger]]                                               | 2025-06-21 |
 | [[07 Digital Garden/Zone 2 Training from Readwise\|Zone 2 Training from Readwise]]                                                   | 2025-06-21 |
 | [[07 Digital Garden/Above the Hollow 57\|Above the Hollow 57]]                                                                       | 2025-06-21 |

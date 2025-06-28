@@ -6,7 +6,6 @@
 
 | Note                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[07 Digital Garden/Clarity comes from subtraction\|Clarity comes from subtraction]]                                                             |
 | [[07 Digital Garden/Sam Altman on Productivity\|Sam Altman on Productivity]]                                                                     |
 | [[07 Digital Garden/The illusion of motivation\|The illusion of motivation]]                                                                     |
 | [[07 Digital Garden/Minimize overhead for maximum focus\|Minimize overhead for maximum focus]]                                                   |

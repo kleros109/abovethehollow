@@ -41,16 +41,16 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
+- [[07 Digital Garden/Business Plan Prompt\|Business Plan Prompt]]
+- [[07 Digital Garden/Clarity comes from subtraction\|Clarity comes from subtraction]]
+- [[07 Digital Garden/Quick to change opinions but slow to change principles\|Quick to change opinions but slow to change principles]]
 - [[07 Digital Garden/Above the Hollow 58\|Above the Hollow 58]]
 - [[07 Digital Garden/The biggest career cheat code\|The biggest career cheat code]]
 - [[07 Digital Garden/The art of thoughtful elimination\|The art of thoughtful elimination]]
 - [[07 Digital Garden/Kindness isn't a weakness\|Kindness isn't a weakness]]
 - [[07 Digital Garden/You are divided into one of two groups\|You are divided into one of two groups]]
-- [[07 Digital Garden/Quick to change opinions but slow to change principles\|Quick to change opinions but slow to change principles]]
-- [[07 Digital Garden/Clarity comes from subtraction\|Clarity comes from subtraction]]
 - [[07 Digital Garden/Swallow the frog\|Swallow the frog]]
 - [[07 Digital Garden/Start where you are\|Start where you are]]
-- [[07 Digital Garden/Highlights about Sam Zell\|Highlights about Sam Zell]]
 
 { .block-language-dataview}
 
