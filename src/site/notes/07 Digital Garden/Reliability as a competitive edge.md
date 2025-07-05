@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/reliability-as-a-competitive-edge/","tags":["careers","evergreen","readwise"],"updated":"2025-07-05T10:23:13.791-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/reliability-as-a-competitive-edge/","tags":["careers","evergreen","readwise"],"updated":"2025-07-05T11:08:44.850-07:00"}
 ---
 
-## Based on on Readwise highlights:
+## Based on my Readwise highlights:
 
 Reliability is not just a personal virtue—it's a proven competitive edge that can set you or your organization apart in ways that more obvious attributes, like intelligence, cannot. As this observation highlights, "Being brilliant won't save you if no one can count on you... Reliability isn't just a virtue - it's a competitive advantage that compounds over time." The compounding effects of being reliable mean that opportunities accumulate for those who can consistently deliver, sometimes even outpacing smarter or more talented peers who are less dependable [reliability compounds as a competitive advantage](https://readwise.io/bookreview/47972221/?highlight=841665178).
 

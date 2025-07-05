@@ -5,10 +5,10 @@
  
 | Note                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Production Ready Prompt\|Production Ready Prompt]]                                                         |
 | [[07 Digital Garden/The Master Prompt Method Unlock AI’s Full Potential\|The Master Prompt Method Unlock AI’s Full Potential]] |
 | [[07 Digital Garden/Master Claude Code in 8 Steps\|Master Claude Code in 8 Steps]]                                             |
 | [[07 Digital Garden/Maximum Efficiency Prompt\|Maximum Efficiency Prompt]]                                                     |
-| [[07 Digital Garden/Production Ready Prompt\|Production Ready Prompt]]                                                         |
 | [[07 Digital Garden/Business Plan Prompt\|Business Plan Prompt]]                                                               |
 | [[07 Digital Garden/AI Fluency\|AI Fluency]]                                                                                   |
 | [[07 Digital Garden/Deep Research AI Prompt\|Deep Research AI Prompt]]                                                         |

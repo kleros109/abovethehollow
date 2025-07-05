@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-59/","tags":["ath"],"updated":"2025-07-05T10:57:41.233-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-59/","tags":["ath"],"updated":"2025-07-05T11:09:16.490-07:00"}
 ---
 
 Here is a summary of all notes added to my digital garden this week. Each summary captures the main takeaway and includes a link to the original file.
 
 ## Productivity and Time Management
 
-**Thomas Keller'S Sense Of Urgency**
+**Thomas Keller's Sense Of Urgency**
 The legendary chef's approach to urgency isn't about speed—it's about intentional action. When every second counts in a kitchen, clarity of purpose becomes your superpower. [[Thomas Keller's sense of urgency\|Thomas Keller's sense of urgency]]
 
 **The Daily Meeze**
@@ -15,7 +15,7 @@ A planning system that bridges the gap between ambitious goals and daily executi
 **Marc Andreessen on Productivity**
 Before building Netscape and a16z, Andreessen cracked the code on personal productivity. His system prioritizes ruthless focus over endless optimization—timeless advice from a tech pioneer. [[07 Digital Garden/Marc Andreessen on Productivity\|Marc Andreessen on Productivity]]
 
-**Based on on Readwise highlights:**
+**Reliability as a competitive edge**
 In a world obsessed with innovation, the companies that simply show up consistently are winning. Reliability isn't boring—it's your secret weapon for building trust and crushing competition. [[07 Digital Garden/Reliability as a competitive edge\|Reliability as a competitive edge]]
 
 ## Philosophy and Wisdom
