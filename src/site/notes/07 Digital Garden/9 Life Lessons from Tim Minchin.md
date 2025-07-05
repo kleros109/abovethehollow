@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/9-life-lessons-from-tim-minchin/","tags":["ath","advice"],"updated":"2025-07-05T10:23:04.912-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/9-life-lessons-from-tim-minchin/","tags":["ath","advice"],"updated":"2025-07-05T11:17:02.654-07:00"}
 ---
 
 Tim Minchin’s “9 Life Lessons” were delivered in his 2013 commencement address at the University of Western Australia. These lessons are known for their wit, humility, and practical wisdom. Here are the nine lessons, summarized and explained:
@@ -33,12 +33,19 @@ Tim Minchin’s “9 Life Lessons” were delivered in his 2013 commencement add
 
 These lessons are celebrated for their honesty and practical relevance, offering a counterpoint to more traditional, idealistic commencement advice.
 
-Sources
+**Sources:**
 [1] "9 Life Lessons" - James Clear https://jamesclear.com/great-speeches/9-life-lessons
+
 [2] 9 Life Lessons - Tim Minchin UWA Address - YouTube https://www.youtube.com/watch?v=yoEezZD71sc
+
 [3] Tim Minchin Speech (9 Life Lessons) - mojologic https://www.mojologic.com.au/speech-26-tim-minchin-9-life-lessons/
+
 [4] Tim Minchin - 9 Life Lessons - YouTube https://www.youtube.com/watch?v=FJ__a4qVE_g
+
 [5] 9 Life Lessons — Tim Minchin - Tenneson Woolf https://www.tennesonwoolf.com/9-life-lessons-tim-minchin/
+
 [6] 9 Life Lessons - Tim Minchin [Good morning] - Instagram https://www.instagram.com/reel/C0dPhUwCheP/
+
 [7] 9 Life Lessons by Tim Minchin : r/funny - Reddit https://www.reddit.com/r/funny/comments/1bmsx7q/9_life_lessons_by_tim_minchin/
+
 [8] 9 Life Lessons - Tim Minchin UWA Address | Alvin Foo - LinkedIn https://www.linkedin.com/posts/alvinfsc_9-life-lessons-tim-minchin-uwa-address-activity-7342566335807148032-Ksdh
