@@ -10,7 +10,7 @@
 | [[07 Digital Garden/Marc Andreessen on Productivity\|Marc Andreessen on Productivity]]                                                                   | 2025-07-05 |
 | [[07 Digital Garden/9 Life Lessons from Tim Minchin\|9 Life Lessons from Tim Minchin]]                                                                   | 2025-07-05 |
 | [[07 Digital Garden/Maximum Efficiency Prompt\|Maximum Efficiency Prompt]]                                                                               | 2025-07-05 |
-| [[07 Digital Garden/Above the Hollow 2025-07-05\|Above the Hollow 2025-07-05]]                                                                           | 2025-07-05 |
+| [[07 Digital Garden/Above the Hollow 59\|Above the Hollow 59]]                                                                                           | 2025-07-05 |
 | [[07 Digital Garden/Endless curiosity drives action\|Endless curiosity drives action]]                                                                   | 2025-06-29 |
 | [[07 Digital Garden/Production Ready Prompt\|Production Ready Prompt]]                                                                                   | 2025-06-29 |
 | [[07 Digital Garden/Simple rules for writing\|Simple rules for writing]]                                                                                 | 2025-06-29 |
