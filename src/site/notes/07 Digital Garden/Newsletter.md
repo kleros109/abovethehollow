@@ -3,13 +3,14 @@
 ---
 
 
-| Edition                                                           | Created    |
-| ----------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Above the Hollow 58\|Above the Hollow 58]] | 2025-06-28 |
-| [[07 Digital Garden/Above the Hollow 57\|Above the Hollow 57]] | 2025-06-21 |
-| [[07 Digital Garden/Above the Hollow 56\|Above the Hollow 56]] | 2025-06-14 |
-| [[07 Digital Garden/Above the Hollow 55\|Above the Hollow 55]] | 2025-06-07 |
-| [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]] | 2025-06-01 |
-| [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]] | 2025-05-26 |
+| Edition                                                                           | Created    |
+| --------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Above the Hollow 2025-07-05\|Above the Hollow 2025-07-05]] | 2025-07-05 |
+| [[07 Digital Garden/Above the Hollow 58\|Above the Hollow 58]]                 | 2025-06-28 |
+| [[07 Digital Garden/Above the Hollow 57\|Above the Hollow 57]]                 | 2025-06-21 |
+| [[07 Digital Garden/Above the Hollow 56\|Above the Hollow 56]]                 | 2025-06-14 |
+| [[07 Digital Garden/Above the Hollow 55\|Above the Hollow 55]]                 | 2025-06-07 |
+| [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]                 | 2025-06-01 |
+| [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                 | 2025-05-26 |
 
 { .block-language-dataview}

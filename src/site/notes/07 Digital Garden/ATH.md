@@ -5,8 +5,17 @@
 
 | Note                                                                                                                                                        | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Business Plan Prompt\|Business Plan Prompt]]                                                                                         | 2025-06-28 |
+| [[07 Digital Garden/The daily meeze planning system\|The daily meeze planning system]]                                                                   | 2025-07-05 |
+| [[07 Digital Garden/Thomas Keller’s sense of urgency\|Thomas Keller’s sense of urgency]]                                                                 | 2025-07-05 |
+| [[07 Digital Garden/Marc Andreessen on Productivity\|Marc Andreessen on Productivity]]                                                                   | 2025-07-05 |
+| [[07 Digital Garden/9 Life Lessons from Tim Minchin\|9 Life Lessons from Tim Minchin]]                                                                   | 2025-07-05 |
+| [[07 Digital Garden/Maximum Efficiency Prompt\|Maximum Efficiency Prompt]]                                                                               | 2025-07-05 |
+| [[07 Digital Garden/Above the Hollow 2025-07-05\|Above the Hollow 2025-07-05]]                                                                           | 2025-07-05 |
+| [[07 Digital Garden/Endless curiosity drives action\|Endless curiosity drives action]]                                                                   | 2025-06-29 |
+| [[07 Digital Garden/Production Ready Prompt\|Production Ready Prompt]]                                                                                   | 2025-06-29 |
+| [[07 Digital Garden/Simple rules for writing\|Simple rules for writing]]                                                                                 | 2025-06-29 |
 | [[07 Digital Garden/Above the Hollow 58\|Above the Hollow 58]]                                                                                           | 2025-06-28 |
+| [[07 Digital Garden/Business Plan Prompt\|Business Plan Prompt]]                                                                                         | 2025-06-28 |
 | [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           | 2025-06-23 |
 | [[07 Digital Garden/Highlights about Sam Zell\|Highlights about Sam Zell]]                                                                               | 2025-06-22 |
 | [[07 Digital Garden/Above the Hollow 57\|Above the Hollow 57]]                                                                                           | 2025-06-21 |
@@ -59,13 +68,13 @@
 | [[07 Digital Garden/A brief guide to leadership\|A brief guide to leadership]]                                                                           | 2025-05-24 |
 | [[07 Digital Garden/A taste for saltwater\|A taste for saltwater]]                                                                                       | 2025-05-24 |
 | [[07 Digital Garden/Age and wisdom\|Age and wisdom]]                                                                                                     | 2025-05-24 |
+| [[07 Digital Garden/Anna Gat on not disappearing\|Anna Gat on not disappearing]]                                                                         | 2025-05-24 |
 | [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                                     | 2025-05-24 |
 | [[07 Digital Garden/Best quotes from Founders podcast\|Best quotes from Founders podcast]]                                                               | 2025-05-24 |
 | [[07 Digital Garden/Boundary between work and self\|Boundary between work and self]]                                                                     | 2025-05-24 |
 | [[07 Digital Garden/Building trust quickly is a superpower\|Building trust quickly is a superpower]]                                                     | 2025-05-24 |
 | [[07 Digital Garden/Business Writing 101\|Business Writing 101]]                                                                                         | 2025-05-24 |
 | [[07 Digital Garden/Career Advice from Msty\|Career Advice from Msty]]                                                                                   | 2025-05-24 |
-| [[07 Digital Garden/Anna Gat on not disappearing\|Anna Gat on not disappearing]]                                                                         | 2025-05-24 |
 | [[07 Digital Garden/Charles Mingus on Creativity\|Charles Mingus on Creativity]]                                                                         | 2025-05-24 |
 | [[07 Digital Garden/Choose optimism\|Choose optimism]]                                                                                                   | 2025-05-24 |
 | [[07 Digital Garden/Cognitive shifts are productivity poison\|Cognitive shifts are productivity poison]]                                                 | 2025-05-24 |
@@ -113,8 +122,8 @@
 | [[07 Digital Garden/Two questions for choosing a company to work with\|Two questions for choosing a company to work with]]                               | 2025-05-24 |
 | [[07 Digital Garden/Write an Incredible Resume\|Write an Incredible Resume]]                                                                             | 2025-05-24 |
 | [[07 Digital Garden/You’re sending emails during the wrong day and time\|You’re sending emails during the wrong day and time]]                           | 2025-05-24 |
-| [[07 Digital Garden/Give people space and they flourish\|Give people space and they flourish]]                                                           | 2025-04-20 |
 | [[07 Digital Garden/Great mentors over higher pay\|Great mentors over higher pay]]                                                                       | 2025-04-20 |
+| [[07 Digital Garden/Give people space and they flourish\|Give people space and they flourish]]                                                           | 2025-04-20 |
 | [[07 Digital Garden/Have a next play mentality\|Have a next play mentality]]                                                                             | 2025-04-20 |
 | [[07 Digital Garden/The most powerful razors\|The most powerful razors]]                                                                                 | 2025-04-20 |
 | [[07 Digital Garden/Unconventional problem solving\|Unconventional problem solving]]                                                                     | 2025-04-20 |

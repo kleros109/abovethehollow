@@ -21,7 +21,7 @@ This theme focuses on the rapidly evolving fields of artificial intelligence and
 ## Personal Development
 
 This theme is centered around self-improvement, personal growth, and cultivating a positive mindset. It includes insights on learning, habit formation, and strategies for enhancing one's life and capabilities.
-*   [[07 Digital Garden/Adam Grant - Silence and Reflection\|Adam Grant - Silence and Reflection]]
+*   [[Adam Grant - Silence and Reflection\|Adam Grant - Silence and Reflection]]
 *   [[07 Digital Garden/How to Get Rich (without getting lucky)\|How to Get Rich (without getting lucky)]]
 *   [[07 Digital Garden/Develop into a lifelong learner\|Develop into a lifelong learner]]
 

@@ -6,10 +6,23 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                                    | Updated    |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Value-based Marketing from Steve Jobs\|Value-based Marketing from Steve Jobs]]                                   | 2025-07-05 |
+| [[07 Digital Garden/The Master Prompt Method Unlock AI’s Full Potential\|The Master Prompt Method Unlock AI’s Full Potential]]       | 2025-07-05 |
+| [[07 Digital Garden/Above the Hollow 2025-07-05\|Above the Hollow 2025-07-05]]                                                       | 2025-07-05 |
+| [[07 Digital Garden/Thomas Keller’s sense of urgency\|Thomas Keller’s sense of urgency]]                                             | 2025-07-05 |
+| [[07 Digital Garden/The daily meeze planning system\|The daily meeze planning system]]                                               | 2025-07-05 |
+| [[07 Digital Garden/Master Claude Code in 8 Steps\|Master Claude Code in 8 Steps]]                                                   | 2025-07-05 |
+| [[07 Digital Garden/Marc Andreessen on Productivity\|Marc Andreessen on Productivity]]                                               | 2025-07-05 |
+| [[07 Digital Garden/Reliability as a competitive edge\|Reliability as a competitive edge]]                                           | 2025-07-05 |
+| [[07 Digital Garden/9 Life Lessons from Tim Minchin\|9 Life Lessons from Tim Minchin]]                                               | 2025-07-05 |
+| [[07 Digital Garden/Maximum Efficiency Prompt\|Maximum Efficiency Prompt]]                                                           | 2025-07-05 |
+| [[07 Digital Garden/Endless curiosity drives action\|Endless curiosity drives action]]                                               | 2025-06-29 |
+| [[07 Digital Garden/Production Ready Prompt\|Production Ready Prompt]]                                                               | 2025-06-29 |
+| [[07 Digital Garden/Simple rules for writing\|Simple rules for writing]]                                                             | 2025-06-29 |
+| [[07 Digital Garden/Above the Hollow 58\|Above the Hollow 58]]                                                                       | 2025-06-28 |
 | [[07 Digital Garden/Business Plan Prompt\|Business Plan Prompt]]                                                                     | 2025-06-28 |
 | [[07 Digital Garden/Clarity comes from subtraction\|Clarity comes from subtraction]]                                                 | 2025-06-28 |
 | [[07 Digital Garden/Quick to change opinions but slow to change principles\|Quick to change opinions but slow to change principles]] | 2025-06-28 |
-| [[07 Digital Garden/Above the Hollow 58\|Above the Hollow 58]]                                                                       | 2025-06-28 |
 | [[07 Digital Garden/The biggest career cheat code\|The biggest career cheat code]]                                                   | 2025-06-28 |
 | [[07 Digital Garden/The art of thoughtful elimination\|The art of thoughtful elimination]]                                           | 2025-06-27 |
 | [[07 Digital Garden/Kindness isn't a weakness\|Kindness isn't a weakness]]                                                           | 2025-06-27 |
@@ -43,18 +56,5 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/Skillet Chicken\|Skillet Chicken]]                                                                               | 2025-06-13 |
 | [[07 Digital Garden/Minimize overhead for maximum focus\|Minimize overhead for maximum focus]]                                       | 2025-06-11 |
 | [[07 Digital Garden/AI Fluency\|AI Fluency]]                                                                                         | 2025-06-09 |
-| [[07 Digital Garden/Wisdom is knowing when to abandon identity\|Wisdom is knowing when to abandon identity]]                         | 2025-06-08 |
-| [[07 Digital Garden/The Ultimate Sourdough Bulk Fermentation Guide\|The Ultimate Sourdough Bulk Fermentation Guide]]                 | 2025-06-08 |
-| [[07 Digital Garden/Detroit Pizza\|Detroit Pizza]]                                                                                   | 2025-06-07 |
-| [[07 Digital Garden/Deep Research AI Prompt\|Deep Research AI Prompt]]                                                               | 2025-06-07 |
-| [[07 Digital Garden/Wisdom\|Wisdom]]                                                                                                 | 2025-06-07 |
-| [[07 Digital Garden/Wisdom means discerning when to change you opinions\|Wisdom means discerning when to change you opinions]]       | 2025-06-07 |
-| [[07 Digital Garden/My Productivity System\|My Productivity System]]                                                                 | 2025-06-07 |
-| [[07 Digital Garden/Note Taking\|Note Taking]]                                                                                       | 2025-06-07 |
-| [[07 Digital Garden/Task Management Best Practices\|Task Management Best Practices]]                                                 | 2025-06-07 |
-| [[07 Digital Garden/Time Blocking Guide\|Time Blocking Guide]]                                                                       | 2025-06-07 |
-| [[07 Digital Garden/Important Health Protocols\|Important Health Protocols]]                                                         | 2025-06-07 |
-| [[07 Digital Garden/Focaccia from Radio Bakery\|Focaccia from Radio Bakery]]                                                         | 2025-06-07 |
-| [[07 Digital Garden/Act to cancel out stupid behavior\|Act to cancel out stupid behavior]]                                           | 2025-06-04 |
 
 { .block-language-dataview}

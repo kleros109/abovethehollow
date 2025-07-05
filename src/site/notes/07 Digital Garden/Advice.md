@@ -5,6 +5,9 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/9 Life Lessons from Tim Minchin\|9 Life Lessons from Tim Minchin]]                                                                   |
+| [[07 Digital Garden/Endless curiosity drives action\|Endless curiosity drives action]]                                                                   |
+| [[07 Digital Garden/Simple rules for writing\|Simple rules for writing]]                                                                                 |
 | [[07 Digital Garden/Clarity comes from subtraction\|Clarity comes from subtraction]]                                                                     |
 | [[07 Digital Garden/The art of thoughtful elimination\|The art of thoughtful elimination]]                                                               |
 | [[07 Digital Garden/Kindness isn't a weakness\|Kindness isn't a weakness]]                                                                               |

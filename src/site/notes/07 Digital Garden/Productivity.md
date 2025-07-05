@@ -6,6 +6,9 @@
 
 | Note                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Thomas Keller’s sense of urgency\|Thomas Keller’s sense of urgency]]                                                         |
+| [[07 Digital Garden/The daily meeze planning system\|The daily meeze planning system]]                                                           |
+| [[07 Digital Garden/Marc Andreessen on Productivity\|Marc Andreessen on Productivity]]                                                           |
 | [[07 Digital Garden/Sam Altman on Productivity\|Sam Altman on Productivity]]                                                                     |
 | [[07 Digital Garden/The illusion of motivation\|The illusion of motivation]]                                                                     |
 | [[07 Digital Garden/Minimize overhead for maximum focus\|Minimize overhead for maximum focus]]                                                   |

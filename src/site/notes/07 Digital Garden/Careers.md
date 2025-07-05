@@ -6,6 +6,7 @@
 hello now hello
 | Note                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Reliability as a competitive edge\|Reliability as a competitive edge]]                                         |
 | [[07 Digital Garden/The biggest career cheat code\|The biggest career cheat code]]                                                 |
 | [[07 Digital Garden/Swallow the frog\|Swallow the frog]]                                                                           |
 | [[07 Digital Garden/You are divided into one of two groups\|You are divided into one of two groups]]                               |

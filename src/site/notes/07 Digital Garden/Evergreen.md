@@ -17,6 +17,7 @@ An evergreen note is an idea. It doesn't have to be something that I agree with,
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Reliability as a competitive edge\|Reliability as a competitive edge]]                                                               |
 | [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                                     |
 | [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]                                                                       |
 | [[07 Digital Garden/Rare skills are career capital\|Rare skills are career capital]]                                                                     |

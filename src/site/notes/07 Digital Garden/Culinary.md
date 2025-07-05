@@ -5,6 +5,7 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Thomas Keller’s sense of urgency\|Thomas Keller’s sense of urgency]]                                                                 |
 | [[07 Digital Garden/A Very Good Aeropress Recipe, Maybe the Best\|A Very Good Aeropress Recipe, Maybe the Best]]                                         |
 | [[07 Digital Garden/A Simple Format for Herb Sauces\|A Simple Format for Herb Sauces]]                                                                   |
 | [[07 Digital Garden/Lacto Fermentation\|Lacto Fermentation]]                                                                                             |

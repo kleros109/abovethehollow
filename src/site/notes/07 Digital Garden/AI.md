@@ -5,10 +5,13 @@
  
 | Note                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/The Master Prompt Method Unlock AI’s Full Potential\|The Master Prompt Method Unlock AI’s Full Potential]] |
+| [[07 Digital Garden/Master Claude Code in 8 Steps\|Master Claude Code in 8 Steps]]                                             |
+| [[07 Digital Garden/Maximum Efficiency Prompt\|Maximum Efficiency Prompt]]                                                     |
+| [[07 Digital Garden/Production Ready Prompt\|Production Ready Prompt]]                                                         |
 | [[07 Digital Garden/Business Plan Prompt\|Business Plan Prompt]]                                                               |
 | [[07 Digital Garden/AI Fluency\|AI Fluency]]                                                                                   |
 | [[07 Digital Garden/Deep Research AI Prompt\|Deep Research AI Prompt]]                                                         |
-| [[07 Digital Garden/Performance Review Prompt\|Performance Review Prompt]]                                                     |
 | [[07 Digital Garden/Loan Proposal Review Prompt\|Loan Proposal Review Prompt]]                                                 |
 | [[07 Digital Garden/Journal Prompt\|Journal Prompt]]                                                                           |
 | [[07 Digital Garden/Interactive Lecture Prompt\|Interactive Lecture Prompt]]                                                   |
@@ -26,7 +29,6 @@
 | [[07 Digital Garden/Meta Prompt\|Meta Prompt]]                                                                                 |
 | [[07 Digital Garden/Note Summary Prompt\|Note Summary Prompt]]                                                                 |
 | [[07 Digital Garden/Question Not Asked Prompt\|Question Not Asked Prompt]]                                                     |
-| [[07 Digital Garden/The Master Prompt Method Unlock AI’s Full Potential\|The Master Prompt Method Unlock AI’s Full Potential]] |
 | [[07 Digital Garden/Super Whisper Reformat Message Prompt\|Super Whisper Reformat Message Prompt]]                             |
 | [[07 Digital Garden/Weekly Audit Prompt\|Weekly Audit Prompt]]                                                                 |
 | [[07 Digital Garden/Voicenotes AI Prompts\|Voicenotes AI Prompts]]                                                             |
