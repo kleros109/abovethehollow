@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/thomas-keller-s-sense-of-urgency/","tags":["ath","productivity"],"updated":"2025-07-05T10:28:24.896-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/thomas-keller-s-sense-of-urgency/","tags":["ath","productivity"],"updated":"2025-07-05T15:09:33.134-07:00"}
 ---
+
+## Based on my Readwise highlights:
 
 Just started watching the  fourth season of the Bear. Carmie installed a plaque in the kitchen that says “Every Second Counts.”  This reminds me of the inspiration for the plaque, the one installed by Thomas Keller at The French Laundy.  Here is more from my Readwise highlights. 
 

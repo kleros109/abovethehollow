@@ -6,14 +6,14 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                                    | Updated    |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Above the Hollow 59\|Above the Hollow 59]]                                                                       | 2025-07-05 |
+| [[07 Digital Garden/Thomas Keller’s sense of urgency\|Thomas Keller’s sense of urgency]]                                             | 2025-07-05 |
 | [[07 Digital Garden/Production Ready Prompt\|Production Ready Prompt]]                                                               | 2025-07-05 |
 | [[07 Digital Garden/Maximum Efficiency Prompt\|Maximum Efficiency Prompt]]                                                           | 2025-07-05 |
 | [[07 Digital Garden/9 Life Lessons from Tim Minchin\|9 Life Lessons from Tim Minchin]]                                               | 2025-07-05 |
-| [[07 Digital Garden/Above the Hollow 59\|Above the Hollow 59]]                                                                       | 2025-07-05 |
 | [[07 Digital Garden/Reliability as a competitive edge\|Reliability as a competitive edge]]                                           | 2025-07-05 |
 | [[07 Digital Garden/Value-based Marketing from Steve Jobs\|Value-based Marketing from Steve Jobs]]                                   | 2025-07-05 |
 | [[07 Digital Garden/The Master Prompt Method Unlock AI’s Full Potential\|The Master Prompt Method Unlock AI’s Full Potential]]       | 2025-07-05 |
-| [[07 Digital Garden/Thomas Keller’s sense of urgency\|Thomas Keller’s sense of urgency]]                                             | 2025-07-05 |
 | [[07 Digital Garden/The daily meeze planning system\|The daily meeze planning system]]                                               | 2025-07-05 |
 | [[07 Digital Garden/Master Claude Code in 8 Steps\|Master Claude Code in 8 Steps]]                                                   | 2025-07-05 |
 | [[07 Digital Garden/Marc Andreessen on Productivity\|Marc Andreessen on Productivity]]                                               | 2025-07-05 |

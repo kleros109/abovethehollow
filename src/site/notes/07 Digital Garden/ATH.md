@@ -5,11 +5,11 @@
 
 | Note                                                                                                                                                        | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/The daily meeze planning system\|The daily meeze planning system]]                                                                   | 2025-07-05 |
-| [[07 Digital Garden/Thomas Keller’s sense of urgency\|Thomas Keller’s sense of urgency]]                                                                 | 2025-07-05 |
-| [[07 Digital Garden/Marc Andreessen on Productivity\|Marc Andreessen on Productivity]]                                                                   | 2025-07-05 |
 | [[07 Digital Garden/9 Life Lessons from Tim Minchin\|9 Life Lessons from Tim Minchin]]                                                                   | 2025-07-05 |
 | [[07 Digital Garden/Above the Hollow 59\|Above the Hollow 59]]                                                                                           | 2025-07-05 |
+| [[07 Digital Garden/Marc Andreessen on Productivity\|Marc Andreessen on Productivity]]                                                                   | 2025-07-05 |
+| [[07 Digital Garden/The daily meeze planning system\|The daily meeze planning system]]                                                                   | 2025-07-05 |
+| [[07 Digital Garden/Thomas Keller’s sense of urgency\|Thomas Keller’s sense of urgency]]                                                                 | 2025-07-05 |
 | [[07 Digital Garden/Endless curiosity drives action\|Endless curiosity drives action]]                                                                   | 2025-06-29 |
 | [[07 Digital Garden/Simple rules for writing\|Simple rules for writing]]                                                                                 | 2025-06-29 |
 | [[07 Digital Garden/Above the Hollow 58\|Above the Hollow 58]]                                                                                           | 2025-06-28 |
@@ -120,8 +120,8 @@
 | [[07 Digital Garden/Two questions for choosing a company to work with\|Two questions for choosing a company to work with]]                               | 2025-05-24 |
 | [[07 Digital Garden/Write an Incredible Resume\|Write an Incredible Resume]]                                                                             | 2025-05-24 |
 | [[07 Digital Garden/You’re sending emails during the wrong day and time\|You’re sending emails during the wrong day and time]]                           | 2025-05-24 |
-| [[07 Digital Garden/Great mentors over higher pay\|Great mentors over higher pay]]                                                                       | 2025-04-20 |
 | [[07 Digital Garden/Give people space and they flourish\|Give people space and they flourish]]                                                           | 2025-04-20 |
+| [[07 Digital Garden/Great mentors over higher pay\|Great mentors over higher pay]]                                                                       | 2025-04-20 |
 | [[07 Digital Garden/Have a next play mentality\|Have a next play mentality]]                                                                             | 2025-04-20 |
 | [[07 Digital Garden/The most powerful razors\|The most powerful razors]]                                                                                 | 2025-04-20 |
 | [[07 Digital Garden/Unconventional problem solving\|Unconventional problem solving]]                                                                     | 2025-04-20 |

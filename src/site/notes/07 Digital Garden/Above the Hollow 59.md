@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-59/","tags":["ath"],"updated":"2025-07-05T11:09:16.490-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-59/","tags":["ath"],"updated":"2025-07-05T15:10:07.697-07:00"}
 ---
 
 Here is a summary of all notes added to my digital garden this week. Each summary captures the main takeaway and includes a link to the original file.
@@ -7,7 +7,7 @@ Here is a summary of all notes added to my digital garden this week. Each summar
 ## Productivity and Time Management
 
 **Thomas Keller's Sense Of Urgency**
-The legendary chef's approach to urgency isn't about speed—it's about intentional action. When every second counts in a kitchen, clarity of purpose becomes your superpower. [[Thomas Keller's sense of urgency\|Thomas Keller's sense of urgency]]
+The legendary chef's approach to urgency isn't about speed—it's about intentional action. When every second counts in a kitchen, clarity of purpose becomes your superpower. [[07 Digital Garden/Thomas Keller’s sense of urgency\|Thomas Keller’s sense of urgency]]
 
 **The Daily Meeze**
 A planning system that bridges the gap between ambitious goals and daily execution. Simple enough to stick with, powerful enough to transform how you approach each day. [[07 Digital Garden/The daily meeze planning system\|The daily meeze planning system]]
