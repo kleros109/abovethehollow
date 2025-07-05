@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/maximum-efficiency-prompt/","tags":["ath","AI"],"updated":"2025-07-05T10:20:06.157-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/maximum-efficiency-prompt/","tags":["AI","prompts"],"updated":"2025-07-05T11:18:02.142-07:00"}
 ---
 
 ## Prompt for using Claude Code:

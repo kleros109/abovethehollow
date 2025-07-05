@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/production-ready-prompt/","tags":["ath"],"updated":"2025-07-05T11:06:03.668-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/production-ready-prompt/","tags":["prompts"],"updated":"2025-07-05T11:18:11.407-07:00"}
 ---
 
 Rewrite the selected text into a **production‑ready prompt**. Follow these rules **silently** – do **not** mention them in your answer:
