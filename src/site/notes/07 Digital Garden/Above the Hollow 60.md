@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-60/","tags":["ath"],"updated":"2025-07-12T12:19:55.662-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-60/","tags":["ath"],"updated":"2025-07-12T12:24:41.662-07:00"}
 ---
 
 Here is a summary of all notes added to my digital garden this week. Each summary captures the main takeaway and includes a link to the original file.
@@ -14,7 +14,7 @@ Methods for improving personal productivity through systematic changes. Essentia
 
 ## Technology and AI
 
-**How To 10X Your Notes Obsidian + Claude Ai Agents**
+**How To 10X Your Notes Obsidian + Claude AI Agents**
 Digital transformation insights with practical implications. Key takeaway: "Hey, can you actually pull this file inside of my Google Drive?" [[07 Digital Garden/How To 10x Your Notes Obsidian + Claude AI Agents\|How To 10x Your Notes Obsidian + Claude AI Agents]]
 
 **Big Ideas Come From The Unconscious**
