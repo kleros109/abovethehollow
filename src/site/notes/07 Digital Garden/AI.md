@@ -5,8 +5,9 @@
  
 | Note                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------- |
-| [[07 Digital Garden/Production Ready Prompt\|Production Ready Prompt]]                                                         |
+| [[07 Digital Garden/How To 10x Your Notes Obsidian + Claude AI Agents\|How To 10x Your Notes Obsidian + Claude AI Agents]]     |
 | [[07 Digital Garden/Maximum Efficiency Prompt\|Maximum Efficiency Prompt]]                                                     |
+| [[07 Digital Garden/Production Ready Prompt\|Production Ready Prompt]]                                                         |
 | [[07 Digital Garden/The Master Prompt Method Unlock AI’s Full Potential\|The Master Prompt Method Unlock AI’s Full Potential]] |
 | [[07 Digital Garden/Master Claude Code in 8 Steps\|Master Claude Code in 8 Steps]]                                             |
 | [[07 Digital Garden/Business Plan Prompt\|Business Plan Prompt]]                                                               |

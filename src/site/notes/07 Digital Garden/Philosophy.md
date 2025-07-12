@@ -11,6 +11,7 @@ Several notes in this vault link to [[07 Digital Garden/Philosophy\|Philosophy]]
 
 | Note                                                                                                  |
 | ----------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Stop to look fear in the face\|Stop to look fear in the face]]                 |
 | [[07 Digital Garden/The core of stoicism\|The core of stoicism]]                                   |
 | [[07 Digital Garden/Top 5 Themes in Above the Hollow\|Top 5 Themes in Above the Hollow]]           |
 | [[07 Digital Garden/Do not long for nor fear the next day\|Do not long for nor fear the next day]] |

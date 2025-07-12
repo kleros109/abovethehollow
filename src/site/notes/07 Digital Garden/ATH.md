@@ -5,6 +5,9 @@
 
 | Note                                                                                                                                                        | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Big ideas come from the unconscious\|Big ideas come from the unconscious]]                                                           | 2025-07-12 |
+| [[07 Digital Garden/Love is a decision\|Love is a decision]]                                                                                             | 2025-07-12 |
+| [[07 Digital Garden/Above the Hollow 60\|Above the Hollow 60]]                                                                                           | 2025-07-12 |
 | [[07 Digital Garden/9 Life Lessons from Tim Minchin\|9 Life Lessons from Tim Minchin]]                                                                   | 2025-07-05 |
 | [[07 Digital Garden/Above the Hollow 59\|Above the Hollow 59]]                                                                                           | 2025-07-05 |
 | [[07 Digital Garden/Marc Andreessen on Productivity\|Marc Andreessen on Productivity]]                                                                   | 2025-07-05 |

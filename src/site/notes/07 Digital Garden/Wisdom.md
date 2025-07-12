@@ -5,6 +5,7 @@
 
 | Note                                                                                                                                    | Updated    |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Stop to look fear in the face\|Stop to look fear in the face]]                                                   | 2025-07-12 |
 | [[07 Digital Garden/Quick to change opinions but slow to change principles\|Quick to change opinions but slow to change principles]] | 2025-06-28 |
 | [[07 Digital Garden/Lao Tzu on wisdom\|Lao Tzu on wisdom]]                                                                           | 2025-06-21 |
 | [[07 Digital Garden/Readwise Highlights on Wisdom\|Readwise Highlights on Wisdom]]                                                   | 2025-06-14 |

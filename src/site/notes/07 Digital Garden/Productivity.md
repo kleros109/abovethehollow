@@ -6,6 +6,8 @@
 
 | Note                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Habit Formation Essentials\|Habit Formation Essentials]]                                                                     |
+| [[07 Digital Garden/The power of acting early\|The power of acting early]]                                                                       |
 | [[07 Digital Garden/Thomas Keller’s sense of urgency\|Thomas Keller’s sense of urgency]]                                                         |
 | [[07 Digital Garden/The daily meeze planning system\|The daily meeze planning system]]                                                           |
 | [[07 Digital Garden/Marc Andreessen on Productivity\|Marc Andreessen on Productivity]]                                                           |
@@ -32,7 +34,6 @@
 | [[07 Digital Garden/How to plan an epic 2025 in 56 minutes  Jesse Itzler\|How to plan an epic 2025 in 56 minutes  Jesse Itzler]]                 |
 | [[07 Digital Garden/Here's a simple to-do list trick anyone can use\|Here's a simple to-do list trick anyone can use]]                           |
 | [[07 Digital Garden/Do what you’re doing\|Do what you’re doing]]                                                                                 |
-| [[07 Digital Garden/Digital Gardens\|Digital Gardens]]                                                                                           |
 | [[07 Digital Garden/Core Systems\|Core Systems]]                                                                                                 |
 | [[07 Digital Garden/Cognitive shifts are productivity poison\|Cognitive shifts are productivity poison]]                                         |
 | [[07 Digital Garden/4 Steps to Hyperfocus Productivity System\|4 Steps to Hyperfocus Productivity System]]                                       |

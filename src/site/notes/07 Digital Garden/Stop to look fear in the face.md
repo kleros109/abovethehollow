@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/looking-fear-in-the-face/","tags":["ath","quotes"],"updated":"2025-05-24T09:43:31.557-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/stop-to-look-fear-in-the-face/","tags":["quotes"],"updated":"2025-07-12T11:53:46.197-07:00"}
 ---
 
+As highlighted by [[03 References/Tim Ferriss\|Tim Ferriss]].
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -15,5 +16,3 @@
 
 </div></div>
 
-
-Similar meaning to [[07 Digital Garden/Hope begins in the dark\|Hope begins in the dark]]

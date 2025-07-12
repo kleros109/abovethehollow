@@ -5,6 +5,7 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Stop to look fear in the face\|Stop to look fear in the face]]                                                                       |
 | [[07 Digital Garden/The art of thoughtful elimination\|The art of thoughtful elimination]]                                                               |
 | [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           |
 | [[07 Digital Garden/Paul Graham Quotes\|Paul Graham Quotes]]                                                                                             |

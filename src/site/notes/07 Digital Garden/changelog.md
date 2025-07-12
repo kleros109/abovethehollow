@@ -6,12 +6,23 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                                    | Updated    |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Above the Hollow 60\|Above the Hollow 60]]                                                                       | 2025-07-12 |
+| [[07 Digital Garden/How To 10x Your Notes Obsidian + Claude AI Agents\|How To 10x Your Notes Obsidian + Claude AI Agents]]           | 2025-07-12 |
+| [[07 Digital Garden/Habit Formation Essentials\|Habit Formation Essentials]]                                                         | 2025-07-12 |
+| [[07 Digital Garden/4 Tiny Habits That Dramatically Improved My Weeks\|4 Tiny Habits That Dramatically Improved My Weeks]]           | 2025-07-12 |
+| [[07 Digital Garden/Love is a decision\|Love is a decision]]                                                                         | 2025-07-12 |
+| [[07 Digital Garden/Big ideas come from the unconscious\|Big ideas come from the unconscious]]                                       | 2025-07-12 |
+| [[07 Digital Garden/Stop to look fear in the face\|Stop to look fear in the face]]                                                   | 2025-07-12 |
+| [[07 Digital Garden/Managing in an AI driven world\|Managing in an AI driven world]]                                                 | 2025-07-12 |
+| [[07 Digital Garden/Personal Development\|Personal Development]]                                                                     | 2025-07-11 |
+| [[07 Digital Garden/Relationships\|Relationships]]                                                                                   | 2025-07-11 |
+| [[07 Digital Garden/The power of acting early\|The power of acting early]]                                                           | 2025-07-11 |
+| [[07 Digital Garden/Maximum Efficiency Prompt\|Maximum Efficiency Prompt]]                                                           | 2025-07-06 |
+| [[07 Digital Garden/Reliability as a competitive edge\|Reliability as a competitive edge]]                                           | 2025-07-05 |
 | [[07 Digital Garden/Above the Hollow 59\|Above the Hollow 59]]                                                                       | 2025-07-05 |
 | [[07 Digital Garden/Thomas Keller’s sense of urgency\|Thomas Keller’s sense of urgency]]                                             | 2025-07-05 |
 | [[07 Digital Garden/Production Ready Prompt\|Production Ready Prompt]]                                                               | 2025-07-05 |
-| [[07 Digital Garden/Maximum Efficiency Prompt\|Maximum Efficiency Prompt]]                                                           | 2025-07-05 |
 | [[07 Digital Garden/9 Life Lessons from Tim Minchin\|9 Life Lessons from Tim Minchin]]                                               | 2025-07-05 |
-| [[07 Digital Garden/Reliability as a competitive edge\|Reliability as a competitive edge]]                                           | 2025-07-05 |
 | [[07 Digital Garden/Value-based Marketing from Steve Jobs\|Value-based Marketing from Steve Jobs]]                                   | 2025-07-05 |
 | [[07 Digital Garden/The Master Prompt Method Unlock AI’s Full Potential\|The Master Prompt Method Unlock AI’s Full Potential]]       | 2025-07-05 |
 | [[07 Digital Garden/The daily meeze planning system\|The daily meeze planning system]]                                               | 2025-07-05 |
@@ -45,16 +56,5 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/The core of stoicism\|The core of stoicism]]                                                                     | 2025-06-15 |
 | [[07 Digital Garden/Paul Graham on superlinear returns\|Paul Graham on superlinear returns]]                                         | 2025-06-15 |
 | [[07 Digital Garden/Sam Altman on Productivity\|Sam Altman on Productivity]]                                                         | 2025-06-15 |
-| [[07 Digital Garden/Founders\|Founders]]                                                                                             | 2025-06-15 |
-| [[07 Digital Garden/Above the Hollow 56\|Above the Hollow 56]]                                                                       | 2025-06-15 |
-| [[07 Digital Garden/The illusion of motivation\|The illusion of motivation]]                                                         | 2025-06-15 |
-| [[07 Digital Garden/Above the Hollow 55\|Above the Hollow 55]]                                                                       | 2025-06-14 |
-| [[07 Digital Garden/Above the Hollow 54\|Above the Hollow 54]]                                                                       | 2025-06-14 |
-| [[07 Digital Garden/Above the Hollow 53\|Above the Hollow 53]]                                                                       | 2025-06-14 |
-| [[07 Digital Garden/Health\|Health]]                                                                                                 | 2025-06-14 |
-| [[07 Digital Garden/Readwise Highlights on Wisdom\|Readwise Highlights on Wisdom]]                                                   | 2025-06-14 |
-| [[07 Digital Garden/Skillet Chicken\|Skillet Chicken]]                                                                               | 2025-06-13 |
-| [[07 Digital Garden/Minimize overhead for maximum focus\|Minimize overhead for maximum focus]]                                       | 2025-06-11 |
-| [[07 Digital Garden/AI Fluency\|AI Fluency]]                                                                                         | 2025-06-09 |
 
 { .block-language-dataview}

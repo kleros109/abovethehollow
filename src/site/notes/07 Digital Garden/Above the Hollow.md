@@ -27,11 +27,13 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 - [[07 Digital Garden/Investing\|Investing]]
 - [[07 Digital Garden/Leadership\|Leadership]]
 - [[07 Digital Garden/Marketing\|Marketing]]
+- [[07 Digital Garden/Personal Development\|Personal Development]]
 - [[07 Digital Garden/Philosophy\|Philosophy]]
 - [[07 Digital Garden/Pizza\|Pizza]]
 - [[07 Digital Garden/Productivity\|Productivity]]
 - [[07 Digital Garden/Quotes\|Quotes]]
 - [[07 Digital Garden/Recipes\|Recipes]]
+- [[07 Digital Garden/Relationships\|Relationships]]
 - [[07 Digital Garden/Stock Analysis\|Stock Analysis]]
 - [[07 Digital Garden/Wisdom\|Wisdom]]
 
@@ -41,16 +43,16 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
-- [[07 Digital Garden/Above the Hollow 59\|Above the Hollow 59]]
-- [[07 Digital Garden/Thomas Keller’s sense of urgency\|Thomas Keller’s sense of urgency]]
-- [[07 Digital Garden/Production Ready Prompt\|Production Ready Prompt]]
-- [[07 Digital Garden/Maximum Efficiency Prompt\|Maximum Efficiency Prompt]]
-- [[07 Digital Garden/9 Life Lessons from Tim Minchin\|9 Life Lessons from Tim Minchin]]
-- [[07 Digital Garden/Reliability as a competitive edge\|Reliability as a competitive edge]]
-- [[07 Digital Garden/Value-based Marketing from Steve Jobs\|Value-based Marketing from Steve Jobs]]
-- [[07 Digital Garden/The Master Prompt Method Unlock AI’s Full Potential\|The Master Prompt Method Unlock AI’s Full Potential]]
-- [[07 Digital Garden/The daily meeze planning system\|The daily meeze planning system]]
-- [[07 Digital Garden/Master Claude Code in 8 Steps\|Master Claude Code in 8 Steps]]
+- [[07 Digital Garden/Above the Hollow 60\|Above the Hollow 60]]
+- [[07 Digital Garden/How To 10x Your Notes Obsidian + Claude AI Agents\|How To 10x Your Notes Obsidian + Claude AI Agents]]
+- [[07 Digital Garden/Habit Formation Essentials\|Habit Formation Essentials]]
+- [[07 Digital Garden/4 Tiny Habits That Dramatically Improved My Weeks\|4 Tiny Habits That Dramatically Improved My Weeks]]
+- [[07 Digital Garden/Love is a decision\|Love is a decision]]
+- [[07 Digital Garden/Big ideas come from the unconscious\|Big ideas come from the unconscious]]
+- [[07 Digital Garden/Stop to look fear in the face\|Stop to look fear in the face]]
+- [[07 Digital Garden/Managing in an AI driven world\|Managing in an AI driven world]]
+- [[07 Digital Garden/Personal Development\|Personal Development]]
+- [[07 Digital Garden/Relationships\|Relationships]]
 
 { .block-language-dataview}
 
