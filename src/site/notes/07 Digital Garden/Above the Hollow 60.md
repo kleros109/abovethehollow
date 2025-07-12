@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-60/","tags":["ath"],"updated":"2025-07-12T12:24:41.662-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-60/","tags":["ath"],"updated":"2025-07-12T12:32:43.635-07:00"}
 ---
 
 Here is a summary of all notes added to my digital garden this week. Each summary captures the main takeaway and includes a link to the original file.
@@ -26,10 +26,10 @@ Analysis of AI and automation's impact on society and work. Key points presented
 ## Philosophy and Wisdom
 
 **4 Tiny Habits That Dramatically Improved My Weeks**
-Ideas that connect to broader themes and ongoing discussions. Essential takeaways in digestible form. [[07 Digital Garden/4 Tiny Habits That Dramatically Improved My Weeks\|4 Tiny Habits That Dramatically Improved My Weeks]]
+Simple concept from Sahil Bloom. Invest 30 minutes of your day in building your vision of the future. [[07 Digital Garden/4 Tiny Habits That Dramatically Improved My Weeks\|4 Tiny Habits That Dramatically Improved My Weeks]]
 
 **Love Is A Decision**
-Important topics explored with thoughtful analysis. Focused notes highlighting main themes. [[07 Digital Garden/Love is a decision\|Love is a decision]]
+Paula Rainey's powerful perspective: your spouse is who sits beside you when parents die, holds your hand through childbirth, and might bathe you when sick. Marriage requires commitment, maturity, and endurance through life's ugly parts—romance alone won't sustain character when forever gets hard. [[07 Digital Garden/Love is a decision\|Love is a decision]]
 
 **Stop To Look Fear In The Face**
-Analysis offering new takes on established ideas. Concise notes that capture essential points. [[07 Digital Garden/Stop to look fear in the face\|Stop to look fear in the face]]
+Eleanor Roosevelt's timeless wisdom: "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face." Each confronted fear builds capacity to handle whatever comes next. [[07 Digital Garden/Stop to look fear in the face\|Stop to look fear in the face]]

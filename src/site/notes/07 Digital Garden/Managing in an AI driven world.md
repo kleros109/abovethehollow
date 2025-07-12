@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/07-digital-garden/managing-in-an-ai-driven-world/","tags":["careers","AI"],"updated":"2025-07-12T11:53:31.407-07:00"}
 ---
 
-[[Dan Shipper\|Dan Shipper]] on the role of writing in an AI-driven world.
+[[03 References/Dan Shipper\|Dan Shipper]] on the role of writing in an AI-driven world.
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
