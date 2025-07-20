@@ -4,6 +4,6 @@
 
 | Note                                                            | Updated    |
 | --------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Love is a decision\|Love is a decision]] | 2025-07-12 |
+| [[07 Digital Garden/Love is a decision\|Love is a decision]] | 2025-07-14 |
 
 { .block-language-dataview}

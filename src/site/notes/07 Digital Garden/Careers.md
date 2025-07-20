@@ -6,6 +6,7 @@
 hello now hello
 | Note                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Qualities for a significant impact on your results\|Qualities for a significant impact on your results]]       |
 | [[07 Digital Garden/Managing in an AI driven world\|Managing in an AI driven world]]                                               |
 | [[07 Digital Garden/Reliability as a competitive edge\|Reliability as a competitive edge]]                                         |
 | [[07 Digital Garden/The biggest career cheat code\|The biggest career cheat code]]                                                 |

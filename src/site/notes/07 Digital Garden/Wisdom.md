@@ -5,7 +5,12 @@
 
 | Note                                                                                                                                    | Updated    |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Stop to look fear in the face\|Stop to look fear in the face]]                                                   | 2025-07-12 |
+| [[07 Digital Garden/Margin of safety is a secret weapon\|Margin of safety is a secret weapon]]                                       | 2025-07-20 |
+| [[07 Digital Garden/Qualities for a significant impact on your results\|Qualities for a significant impact on your results]]         | 2025-07-20 |
+| [[07 Digital Garden/Creativity in simplifying complexity\|Creativity in simplifying complexity]]                                     | 2025-07-20 |
+| [[07 Digital Garden/Concept of Subtraction\|Concept of Subtraction]]                                                                 | 2025-07-20 |
+| [[07 Digital Garden/Eric Weinstein on DOAC Podcast\|Eric Weinstein on DOAC Podcast]]                                                 | 2025-07-19 |
+| [[07 Digital Garden/Stop to look fear in the face\|Stop to look fear in the face]]                                                   | 2025-07-14 |
 | [[07 Digital Garden/Quick to change opinions but slow to change principles\|Quick to change opinions but slow to change principles]] | 2025-06-28 |
 | [[07 Digital Garden/Lao Tzu on wisdom\|Lao Tzu on wisdom]]                                                                           | 2025-06-21 |
 | [[07 Digital Garden/Readwise Highlights on Wisdom\|Readwise Highlights on Wisdom]]                                                   | 2025-06-14 |

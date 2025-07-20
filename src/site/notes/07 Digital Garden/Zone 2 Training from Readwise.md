@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/zone-2-training-from-readwise/","tags":["health","inbox"],"updated":"2025-06-21T13:52:38.638-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/zone-2-training-from-readwise/","tags":["health"],"updated":"2025-07-12T12:50:43.840-07:00"}
 ---
 
 Here is information about Zone 2 trainign from my Readwise highlights.

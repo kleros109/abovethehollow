@@ -6,6 +6,7 @@
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[07 Digital Garden/Stop to look fear in the face\|Stop to look fear in the face]]                                                                       |
+| [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           |
 | [[07 Digital Garden/The art of thoughtful elimination\|The art of thoughtful elimination]]                                                               |
 | [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           |
 | [[07 Digital Garden/Paul Graham Quotes\|Paul Graham Quotes]]                                                                                             |
@@ -32,7 +33,6 @@
 | [[07 Digital Garden/Shane Parrish on confidence vs. competenece\|Shane Parrish on confidence vs. competenece]]                                           |
 | [[07 Digital Garden/Scott Adams on success\|Scott Adams on success]]                                                                                     |
 | [[07 Digital Garden/Most are neither for you nor against you\|Most are neither for you nor against you]]                                                 |
-| [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           |
 | [[07 Digital Garden/Anna Gat on not disappearing\|Anna Gat on not disappearing]]                                                                         |
 | [[07 Digital Garden/Anne Lamott on hope\|Anne Lamott on hope]]                                                                                           |
 | [[07 Digital Garden/Success is nothing more than moving from one failure to the next\|Success is nothing more than moving from one failure to the next]] |
@@ -46,10 +46,10 @@
 
 | Note                                                                                                                                                                                                                                                                                             | Updated    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| [[04 Clippings/Readwise/Articles/Jawad Mian - Stay Human\|Jawad Mian - Stay Human]]                                                                                                                                                                                                           | 2025-06-29 |
-| [[04 Clippings/Readwise/Articles/Tim Ferriss - 5-Bullet Friday — Why You’re Not Late, Japanese Binaural Jazz, Peyote Conservation, and a Relaxing Realization\|Tim Ferriss - 5-Bullet Friday — Why You’re Not Late, Japanese Binaural Jazz, Peyote Conservation, and a Relaxing Realization]] | 2025-06-21 |
+| [[02 Notes/Above the Hollow 47\|Above the Hollow 47]]                                                                                                                                                                                                                                         | 2025-07-19 |
+| [[04 Clippings/Readwise/Articles/Tim Ferriss - 5-Bullet Friday — Why You’re Not Late, Japanese Binaural Jazz, Peyote Conservation, and a Relaxing Realization\|Tim Ferriss - 5-Bullet Friday — Why You’re Not Late, Japanese Binaural Jazz, Peyote Conservation, and a Relaxing Realization]] | 2025-07-12 |
+| [[04 Clippings/Readwise/Articles/Jawad Mian - Stay Human\|Jawad Mian - Stay Human]]                                                                                                                                                                                                           | 2025-07-12 |
 | [[04 Clippings/Paul Tudor Jones on market strategy\|Paul Tudor Jones on market strategy]]                                                                                                                                                                                                     | 2025-05-24 |
-| [[02 Notes/Above the Hollow 47\|Above the Hollow 47]]                                                                                                                                                                                                                                         | 2025-04-16 |
 | [[02 Notes/Voicenotes/2025-01-08 Questioning Assumptions\|2025-01-08 Questioning Assumptions]]                                                                                                                                                                                                | 2025-04-07 |
 | [[02 Notes/Voicenotes/2024-12-29 Mind and the Illusion of Tomorrow\|2024-12-29 Mind and the Illusion of Tomorrow]]                                                                                                                                                                            | 2025-04-06 |
 | [[02 Notes/Voicenotes/2025-02-15 Understanding love and sensitivity\|2025-02-15 Understanding love and sensitivity]]                                                                                                                                                                          | 2025-04-06 |

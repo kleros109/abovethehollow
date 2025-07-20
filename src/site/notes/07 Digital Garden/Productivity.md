@@ -6,8 +6,8 @@
 
 | Note                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[07 Digital Garden/Habit Formation Essentials\|Habit Formation Essentials]]                                                                     |
 | [[07 Digital Garden/The power of acting early\|The power of acting early]]                                                                       |
+| [[07 Digital Garden/Habit Formation Essentials\|Habit Formation Essentials]]                                                                     |
 | [[07 Digital Garden/Thomas Keller’s sense of urgency\|Thomas Keller’s sense of urgency]]                                                         |
 | [[07 Digital Garden/The daily meeze planning system\|The daily meeze planning system]]                                                           |
 | [[07 Digital Garden/Marc Andreessen on Productivity\|Marc Andreessen on Productivity]]                                                           |

@@ -20,7 +20,7 @@
 | [[07 Digital Garden/Culinary\|Culinary]]                            | 2025-05-25    |
 | [[02 Notes/Demographics\|Demographics]]                             | 2025-03-03    |
 | [[02 Notes/Entrepreneurship\|Entrepreneurship]]                     | 2025-06-22    |
-| [[07 Digital Garden/Evergreen\|Evergreen]]                          | 2025-05-25    |
+| [[07 Digital Garden/Evergreen\|Evergreen]]                          | 2025-07-14    |
 | [[07 Digital Garden/Favorites\|Favorites]]                          | 2025-05-25    |
 | [[02 Notes/Financial Analysis\|Financial Analysis]]                 | 2025-03-03    |
 | [[02 Notes/Fixed Income\|Fixed Income]]                             | 2025-03-03    |

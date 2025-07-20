@@ -9,12 +9,8 @@
 
 
 
-| File                                                                                                                                                                                         | Author                                                                      | Topic | Created    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----- | ---------- |
-| [[02 Notes/RW_Inbox_Review_20250710_100030\|RW_Inbox_Review_20250710_100030]]                                                                                                             | \-                                                                          | \-    | 2025-07-10 |
-| [[04 Clippings/Marc Andreessen  The Future of Venture Capital\|Marc Andreessen  The Future of Venture Capital]]                                                                           | <ul><li>[[Uncapped with Jack Altman\\|Uncapped with Jack Altman]]</li></ul> | \-    | 2025-07-05 |
-| [[04 Clippings/Readwise/Articles/Bill Rice Strategy - Sam Altman's Productivity System Start Using It Today\|Bill Rice Strategy - Sam Altman's Productivity System Start Using It Today]] | Bill Rice Strategy                                                          | \-    | 2025-06-06 |
-| [[04 Clippings/Readwise/Articles/James Clear - On the Shortness of Life by Seneca\|James Clear - On the Shortness of Life by Seneca]]                                                     | James Clear                                                                 | \-    | 2025-05-28 |
+| File | Author | Topic | Created |
+| ---- | ------ | ----- | ------- |
 
 { .block-language-dataview}
 

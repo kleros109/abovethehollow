@@ -43,16 +43,16 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
-- [[07 Digital Garden/Above the Hollow 60\|Above the Hollow 60]]
-- [[07 Digital Garden/How To 10x Your Notes Obsidian + Claude AI Agents\|How To 10x Your Notes Obsidian + Claude AI Agents]]
-- [[07 Digital Garden/Habit Formation Essentials\|Habit Formation Essentials]]
-- [[07 Digital Garden/4 Tiny Habits That Dramatically Improved My Weeks\|4 Tiny Habits That Dramatically Improved My Weeks]]
-- [[07 Digital Garden/Love is a decision\|Love is a decision]]
-- [[07 Digital Garden/Big ideas come from the unconscious\|Big ideas come from the unconscious]]
+- [[07 Digital Garden/Above the Hollow 61\|Above the Hollow 61]]
+- [[07 Digital Garden/Concept of Subtraction\|Concept of Subtraction]]
+- [[07 Digital Garden/Creativity in simplifying complexity\|Creativity in simplifying complexity]]
+- [[07 Digital Garden/Prompt Engineer Prompt\|Prompt Engineer Prompt]]
+- [[07 Digital Garden/Qualities for a significant impact on your results\|Qualities for a significant impact on your results]]
+- [[07 Digital Garden/Margin of safety is a secret weapon\|Margin of safety is a secret weapon]]
+- [[07 Digital Garden/1-2-3 Rule for Managers\|1-2-3 Rule for Managers]]
+- [[07 Digital Garden/You don’t have to be good\|You don’t have to be good]]
+- [[07 Digital Garden/Eric Weinstein on DOAC Podcast\|Eric Weinstein on DOAC Podcast]]
 - [[07 Digital Garden/Stop to look fear in the face\|Stop to look fear in the face]]
-- [[07 Digital Garden/Managing in an AI driven world\|Managing in an AI driven world]]
-- [[07 Digital Garden/Personal Development\|Personal Development]]
-- [[07 Digital Garden/Relationships\|Relationships]]
 
 { .block-language-dataview}
 

@@ -5,6 +5,7 @@
  
 | Note                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Prompt Engineer Prompt\|Prompt Engineer Prompt]]                                                           |
 | [[07 Digital Garden/How To 10x Your Notes Obsidian + Claude AI Agents\|How To 10x Your Notes Obsidian + Claude AI Agents]]     |
 | [[07 Digital Garden/Maximum Efficiency Prompt\|Maximum Efficiency Prompt]]                                                     |
 | [[07 Digital Garden/Production Ready Prompt\|Production Ready Prompt]]                                                         |

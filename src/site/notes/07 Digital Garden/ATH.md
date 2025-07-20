@@ -5,9 +5,12 @@
 
 | Note                                                                                                                                                        | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Big ideas come from the unconscious\|Big ideas come from the unconscious]]                                                           | 2025-07-12 |
-| [[07 Digital Garden/Love is a decision\|Love is a decision]]                                                                                             | 2025-07-12 |
+| [[07 Digital Garden/Above the Hollow 61\|Above the Hollow 61]]                                                                                           | 2025-07-20 |
+| [[07 Digital Garden/Love is a decision\|Love is a decision]]                                                                                             | 2025-07-14 |
 | [[07 Digital Garden/Above the Hollow 60\|Above the Hollow 60]]                                                                                           | 2025-07-12 |
+| [[07 Digital Garden/Big ideas come from the unconscious\|Big ideas come from the unconscious]]                                                           | 2025-07-12 |
+| [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           | 2025-07-12 |
+| [[07 Digital Garden/The Ultimate Sourdough Bulk Fermentation Guide\|The Ultimate Sourdough Bulk Fermentation Guide]]                                     | 2025-07-12 |
 | [[07 Digital Garden/9 Life Lessons from Tim Minchin\|9 Life Lessons from Tim Minchin]]                                                                   | 2025-07-05 |
 | [[07 Digital Garden/Above the Hollow 59\|Above the Hollow 59]]                                                                                           | 2025-07-05 |
 | [[07 Digital Garden/Marc Andreessen on Productivity\|Marc Andreessen on Productivity]]                                                                   | 2025-07-05 |
@@ -35,7 +38,6 @@
 | [[07 Digital Garden/Readwise Highlights on Wisdom\|Readwise Highlights on Wisdom]]                                                                       | 2025-06-14 |
 | [[07 Digital Garden/Minimize overhead for maximum focus\|Minimize overhead for maximum focus]]                                                           | 2025-06-11 |
 | [[07 Digital Garden/AI Fluency\|AI Fluency]]                                                                                                             | 2025-06-09 |
-| [[07 Digital Garden/The Ultimate Sourdough Bulk Fermentation Guide\|The Ultimate Sourdough Bulk Fermentation Guide]]                                     | 2025-06-08 |
 | [[07 Digital Garden/Wisdom is knowing when to abandon identity\|Wisdom is knowing when to abandon identity]]                                             | 2025-06-08 |
 | [[07 Digital Garden/Important Health Protocols\|Important Health Protocols]]                                                                             | 2025-06-07 |
 | [[07 Digital Garden/Note Taking\|Note Taking]]                                                                                                           | 2025-06-07 |
@@ -77,8 +79,8 @@
 | [[07 Digital Garden/Business Writing 101\|Business Writing 101]]                                                                                         | 2025-05-24 |
 | [[07 Digital Garden/Career Advice from Msty\|Career Advice from Msty]]                                                                                   | 2025-05-24 |
 | [[07 Digital Garden/Charles Mingus on Creativity\|Charles Mingus on Creativity]]                                                                         | 2025-05-24 |
-| [[07 Digital Garden/Choose optimism\|Choose optimism]]                                                                                                   | 2025-05-24 |
 | [[07 Digital Garden/Cognitive shifts are productivity poison\|Cognitive shifts are productivity poison]]                                                 | 2025-05-24 |
+| [[07 Digital Garden/Choose optimism\|Choose optimism]]                                                                                                   | 2025-05-24 |
 | [[07 Digital Garden/Concise explanations accelerate progress\|Concise explanations accelerate progress]]                                                 | 2025-05-24 |
 | [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]]                 | 2025-05-24 |
 | [[07 Digital Garden/Daily Stoic with Kevin Rose\|Daily Stoic with Kevin Rose]]                                                                           | 2025-05-24 |
@@ -94,7 +96,6 @@
 | [[07 Digital Garden/Important anecdotes from legendary investor Charlie Munger\|Important anecdotes from legendary investor Charlie Munger]]             | 2025-05-24 |
 | [[07 Digital Garden/Interview Tips\|Interview Tips]]                                                                                                     | 2025-05-24 |
 | [[07 Digital Garden/Investing in your future\|Investing in your future]]                                                                                 | 2025-05-24 |
-| [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           | 2025-05-24 |
 | [[07 Digital Garden/Jawad Mian - Stay Human\|Jawad Mian - Stay Human]]                                                                                   | 2025-05-24 |
 | [[07 Digital Garden/Kinda Nice\|Kinda Nice]]                                                                                                             | 2025-05-24 |
 | [[07 Digital Garden/Knowledge can close you mind\|Knowledge can close you mind]]                                                                         | 2025-05-24 |

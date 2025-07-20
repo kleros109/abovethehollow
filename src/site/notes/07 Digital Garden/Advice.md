@@ -5,6 +5,9 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/You don’t have to be good\|You don’t have to be good]]                                                                               |
+| [[07 Digital Garden/Eric Weinstein on DOAC Podcast\|Eric Weinstein on DOAC Podcast]]                                                                     |
+| [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           |
 | [[07 Digital Garden/9 Life Lessons from Tim Minchin\|9 Life Lessons from Tim Minchin]]                                                                   |
 | [[07 Digital Garden/Endless curiosity drives action\|Endless curiosity drives action]]                                                                   |
 | [[07 Digital Garden/Simple rules for writing\|Simple rules for writing]]                                                                                 |
@@ -42,7 +45,6 @@
 | [[07 Digital Garden/Most are neither for you nor against you\|Most are neither for you nor against you]]                                                 |
 | [[07 Digital Garden/Momentum is powerful\|Momentum is powerful]]                                                                                         |
 | [[07 Digital Garden/Kinda Nice\|Kinda Nice]]                                                                                                             |
-| [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           |
 | [[07 Digital Garden/Investing in your future\|Investing in your future]]                                                                                 |
 | [[07 Digital Garden/Important anecdotes from legendary investor Charlie Munger\|Important anecdotes from legendary investor Charlie Munger]]             |
 | [[07 Digital Garden/How to Get Rich (without getting lucky)\|How to Get Rich (without getting lucky)]]                                                   |

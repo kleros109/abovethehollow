@@ -5,6 +5,6 @@
 
 | Note                                                                                  | Updated    |
 | ------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Zone 2 Training from Readwise\|Zone 2 Training from Readwise]] | 2025-06-21 |
+| [[07 Digital Garden/Zone 2 Training from Readwise\|Zone 2 Training from Readwise]] | 2025-07-12 |
 
 { .block-language-dataview}
