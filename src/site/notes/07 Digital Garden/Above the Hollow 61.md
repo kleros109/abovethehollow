@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-61/","tags":["ath"],"updated":"2025-07-20T06:42:57.777-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-61/","tags":["ath"],"updated":"2025-07-20T06:47:10.069-07:00"}
 ---
 
 ## Productivity and Time Management
@@ -25,7 +25,7 @@ Eclectic life recommendations from physicist Eric Weinstein covering music (Bach
 Explores how true creativity lies in "making the complicated simple, awesomely simple" rather than mere cleverness. Key insight: "The more you know, the less you need"—mastery enables removing excess to reveal what's essential, turning complexity into something powerfully simple through deliberate practice and clear communication. [[07 Digital Garden/Creativity in simplifying complexity\|Creativity in simplifying complexity]]
 
 **You Don't Have To Be Good**
-Authenticity over performance: "You've outgrown the need to pretend. Presence is enough. Let the script go. Speak from where you are." Wisdom about embracing genuine self-expression rather than striving for perfection or maintaining facades. [[You don't have to be good\|You don't have to be good]]
+Authenticity over performance: "You've outgrown the need to pretend. Presence is enough. Let the script go. Speak from where you are." Wisdom about embracing genuine self-expression rather than striving for perfection or maintaining facades. [[07 Digital Garden/You don’t have to be good\|You don’t have to be good]]
 
 ## Technology and AI
 
