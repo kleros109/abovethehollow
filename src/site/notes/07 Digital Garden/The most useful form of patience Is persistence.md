@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-most-useful-form-of-patience-is-persistence/","tags":["ath"],"updated":"2025-05-24T10:28:13.883-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-most-useful-form-of-patience-is-persistence/","tags":["ath"],"updated":"2025-05-24T11:28:13.883-06:00"}
 ---
 
 

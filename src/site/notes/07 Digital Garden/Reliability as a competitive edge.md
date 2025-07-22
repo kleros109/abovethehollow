@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/reliability-as-a-competitive-edge/","tags":["careers","readwise"],"updated":"2025-07-05T17:47:36.852-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/reliability-as-a-competitive-edge/","tags":["careers","readwise"],"updated":"2025-07-05T18:47:36.852-06:00"}
 ---
 
 ## Based on my Readwise highlights:

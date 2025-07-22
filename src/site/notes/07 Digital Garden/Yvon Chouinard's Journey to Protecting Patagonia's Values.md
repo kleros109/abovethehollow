@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/yvon-chouinard-s-journey-to-protecting-patagonia-s-values/","tags":["clippings"],"updated":"2025-05-24T09:40:31.141-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/yvon-chouinard-s-journey-to-protecting-patagonia-s-values/","tags":["clippings"],"updated":"2025-05-24T10:40:31.141-06:00"}
 ---
 
 **🪄Smart summary:**

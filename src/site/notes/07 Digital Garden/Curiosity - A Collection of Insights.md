@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/curiosity-a-collection-of-insights/","tags":["learning","ath"],"updated":"2025-05-25T15:47:57.970-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/curiosity-a-collection-of-insights/","tags":["learning","ath"],"updated":"2025-05-25T16:47:57.970-06:00"}
 ---
 
 ## The Nature of Curiosity

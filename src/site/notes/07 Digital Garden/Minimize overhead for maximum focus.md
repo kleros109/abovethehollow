@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/minimize-overhead-for-maximum-focus/","tags":["ath","productivity"],"updated":"2025-06-11T08:58:08.658-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/minimize-overhead-for-maximum-focus/","tags":["ath","productivity"],"updated":"2025-06-11T09:58:08.658-06:00"}
 ---
 
 

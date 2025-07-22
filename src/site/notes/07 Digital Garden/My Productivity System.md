@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/my-productivity-system/","tags":["productivity","favorites"],"updated":"2025-06-07T08:48:55.287-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/my-productivity-system/","tags":["productivity","favorites"],"updated":"2025-06-07T09:48:55.287-06:00"}
 ---
 
 

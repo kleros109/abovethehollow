@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/loan-proposal-review-prompt/","tags":["AI","prompts"],"updated":"2025-06-02T15:02:31.718-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/loan-proposal-review-prompt/","tags":["AI","prompts"],"updated":"2025-06-02T16:02:31.718-06:00"}
 ---
 
 You are an AI assistant tasked with helping a borrower review a loan proposal. Your goal is to analyze the loan terms, assess affordability, and provide a recommendation to the borrower. Follow these instructions carefully:

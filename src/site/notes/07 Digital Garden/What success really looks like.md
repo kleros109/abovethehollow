@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/what-success-really-looks-like/","tags":["ath"],"updated":"2025-06-21T12:52:44.698-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/what-success-really-looks-like/","tags":["ath"],"updated":"2025-06-21T13:52:44.698-06:00"}
 ---
 
 From [[03 References/Mark Manson\|Mark Manson]]:

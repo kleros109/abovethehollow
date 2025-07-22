@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/1-2-3-rule-for-managers/","updated":"2025-07-20T06:23:42.776-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/1-2-3-rule-for-managers/","tags":["productivity"],"updated":"2025-07-21T17:00:08.678-06:00"}
 ---
 
 From the [[03 References/MGMT Playbook\|MGMT Playbook]].

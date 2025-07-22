@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/note-summary-prompt/","tags":["AI","prompts"],"updated":"2025-06-02T14:59:20.735-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/note-summary-prompt/","tags":["AI","prompts"],"updated":"2025-06-02T15:59:20.735-06:00"}
 ---
 
 Reformat the following notes. Create a concise, well-structured business document that:  

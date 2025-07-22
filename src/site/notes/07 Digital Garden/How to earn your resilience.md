@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/how-to-earn-your-resilience/","tags":["readwise","philosophy","ath"],"updated":"2025-04-08T17:23:19.881-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/how-to-earn-your-resilience/","tags":["readwise","philosophy","ath"],"updated":"2025-04-08T18:23:19.881-06:00"}
 ---
 
 # How to Earn Your Resilience

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/important-health-protocols/","tags":["ath"],"updated":"2025-06-07T08:46:35.173-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/important-health-protocols/","tags":["ath"],"updated":"2025-06-07T09:46:35.173-06:00"}
 ---
 
 

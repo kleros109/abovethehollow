@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-depth-of-understanding/","tags":["ath","quotes"],"updated":"2025-05-30T08:34:59.914-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-depth-of-understanding/","tags":["ath","quotes"],"updated":"2025-05-30T09:34:59.914-06:00"}
 ---
 
 

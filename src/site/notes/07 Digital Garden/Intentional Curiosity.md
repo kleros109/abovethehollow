@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/intentional-curiosity/","tags":["ath","advice"],"updated":"2025-04-16T09:32:26.991-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/intentional-curiosity/","tags":["ath","advice"],"updated":"2025-04-16T10:32:26.991-06:00"}
 ---
 
 ## Intentional Curiosity: Get your Brain to Focus on What Matters

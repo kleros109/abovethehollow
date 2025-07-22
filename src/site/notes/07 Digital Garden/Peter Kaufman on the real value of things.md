@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/peter-kaufman-on-the-real-value-of-things/","tags":["quotes","ath"],"updated":"2025-05-24T09:43:31.576-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/peter-kaufman-on-the-real-value-of-things/","tags":["quotes","ath"],"updated":"2025-05-24T10:43:31.576-06:00"}
 ---
 
 

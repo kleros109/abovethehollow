@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/ath-inbox-embedded/","updated":"2025-06-27T12:54:54.977-07:00"}
+{"dg-publish":true,"permalink":"/02-notes/ath-inbox-embedded/","updated":"2025-06-27T13:54:54.977-06:00"}
 ---
 
 

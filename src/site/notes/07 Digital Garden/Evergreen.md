@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/evergreen/","tags":["categories"],"updated":"2025-07-14T20:51:32.992-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/evergreen/","tags":["categories"],"updated":"2025-07-14T21:51:32.992-06:00"}
 ---
 
 An evergreen note is an idea. It doesn't have to be something that I agree with, but something is composable. In a way, every idiom is a kind of evergreen idea.

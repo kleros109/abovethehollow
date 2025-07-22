@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/travel/","tags":["notes"],"updated":"2025-04-20T21:05:48.016-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/travel/","tags":["notes"],"updated":"2025-04-20T22:05:48.016-06:00"}
 ---
 
 ## Backlinks

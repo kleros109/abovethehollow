@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/coffee/","updated":"2025-04-20T20:49:59.837-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/coffee/","updated":"2025-04-20T21:49:59.837-06:00"}
 ---
 
 ## Backlinks

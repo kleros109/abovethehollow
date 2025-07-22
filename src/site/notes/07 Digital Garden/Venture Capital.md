@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/venture-capital/","updated":"2025-04-20T21:05:46.005-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/venture-capital/","updated":"2025-04-20T22:05:46.005-06:00"}
 ---
 
 ## Backlinks

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/highlights-about-charlie-munger/","tags":["investing"],"updated":"2025-06-21T13:53:11.069-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/highlights-about-charlie-munger/","tags":["investing"],"updated":"2025-06-21T14:53:11.069-06:00"}
 ---
 
 

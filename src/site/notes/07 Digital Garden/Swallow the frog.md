@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/swallow-the-frog/","updated":"2025-06-27T13:13:30.489-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/swallow-the-frog/","updated":"2025-06-27T14:13:30.489-06:00"}
 ---
 
 

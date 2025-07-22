@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-05-28T19:37:58.189-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-05-28T20:37:58.189-06:00"}
 ---
 
 ![Revue Banner.png](/img/user/06%20Utilities/Attachments/Revue%20Banner.png)
@@ -43,13 +43,13 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
-- [[07 Digital Garden/Above the Hollow 61\|Above the Hollow 61]]
-- [[07 Digital Garden/Concept of Subtraction\|Concept of Subtraction]]
+- [[07 Digital Garden/Subtraction is a powerful tool\|Subtraction is a powerful tool]]
 - [[07 Digital Garden/Creativity in simplifying complexity\|Creativity in simplifying complexity]]
-- [[07 Digital Garden/Prompt Engineer Prompt\|Prompt Engineer Prompt]]
-- [[07 Digital Garden/Qualities for a significant impact on your results\|Qualities for a significant impact on your results]]
-- [[07 Digital Garden/Margin of safety is a secret weapon\|Margin of safety is a secret weapon]]
+- [[07 Digital Garden/Above the Hollow 61\|Above the Hollow 61]]
 - [[07 Digital Garden/1-2-3 Rule for Managers\|1-2-3 Rule for Managers]]
+- [[07 Digital Garden/Qualities for a significant impact on your results\|Qualities for a significant impact on your results]]
+- [[07 Digital Garden/Prompt Engineer Prompt\|Prompt Engineer Prompt]]
+- [[07 Digital Garden/Margin of safety is a secret weapon\|Margin of safety is a secret weapon]]
 - [[07 Digital Garden/You don’t have to be good\|You don’t have to be good]]
 - [[07 Digital Garden/Eric Weinstein on DOAC Podcast\|Eric Weinstein on DOAC Podcast]]
 - [[07 Digital Garden/Stop to look fear in the face\|Stop to look fear in the face]]

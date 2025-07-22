@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/jean-michel-basquiat-s-notes-from-nyc-s-underground-art-scene/","tags":["clippings"],"updated":"2025-04-16T11:50:19.675-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/jean-michel-basquiat-s-notes-from-nyc-s-underground-art-scene/","tags":["clippings"],"updated":"2025-04-16T12:50:19.675-06:00"}
 ---
 
 

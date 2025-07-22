@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-clippings/the-1-sponge-trick-that-will-transform-your-dull-bread-knife/","title":"The $1 Sponge Trick That Will Transform Your Dull Bread Knife","tags":["clippings"],"updated":"2025-04-06T21:15:26.700-07:00"}
+{"dg-publish":true,"permalink":"/04-clippings/the-1-sponge-trick-that-will-transform-your-dull-bread-knife/","title":"The $1 Sponge Trick That Will Transform Your Dull Bread Knife","tags":["clippings"],"updated":"2025-04-06T22:15:26.700-06:00"}
 ---
 
 ## Description

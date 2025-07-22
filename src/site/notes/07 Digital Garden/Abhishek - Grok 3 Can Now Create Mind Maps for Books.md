@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/abhishek-grok-3-can-now-create-mind-maps-for-books/","tags":["readwise"],"updated":"2025-04-16T11:50:18.653-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/abhishek-grok-3-can-now-create-mind-maps-for-books/","tags":["readwise"],"updated":"2025-04-16T12:50:18.653-06:00"}
 ---
 
 # Grok 3 Can Now Create Mind Maps for Books

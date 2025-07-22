@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/best-quotes-from-founders-podcast/","tags":["ath","quotes"],"updated":"2025-05-24T09:43:31.480-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/best-quotes-from-founders-podcast/","tags":["ath","quotes"],"updated":"2025-05-24T10:43:31.480-06:00"}
 ---
 
 Here are some of the best and most thought-provoking quotes and themes captured from my highlights of the Founders Podcast:

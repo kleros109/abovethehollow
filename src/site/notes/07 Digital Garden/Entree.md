@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/entree/","tags":["types"],"updated":"2025-05-27T10:56:32.412-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/entree/","tags":["types"],"updated":"2025-05-27T11:56:32.412-06:00"}
 ---
 
 ## Backlinks

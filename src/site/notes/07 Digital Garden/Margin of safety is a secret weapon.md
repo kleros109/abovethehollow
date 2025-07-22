@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/margin-of-safety-is-a-secret-weapon/","updated":"2025-07-20T06:23:42.866-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/margin-of-safety-is-a-secret-weapon/","updated":"2025-07-20T07:23:42.866-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/mental-models/","updated":"2025-04-20T21:39:45.841-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/mental-models/","updated":"2025-04-20T22:39:45.841-06:00"}
 ---
 
 

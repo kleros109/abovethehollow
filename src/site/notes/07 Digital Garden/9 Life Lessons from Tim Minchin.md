@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/9-life-lessons-from-tim-minchin/","tags":["ath","advice"],"updated":"2025-07-05T11:17:02.654-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/9-life-lessons-from-tim-minchin/","tags":["ath","advice"],"updated":"2025-07-05T12:17:02.654-06:00"}
 ---
 
 Tim Minchin’s “9 Life Lessons” were delivered in his 2013 commencement address at the University of Western Australia. These lessons are known for their wit, humility, and practical wisdom. Here are the nine lessons, summarized and explained:

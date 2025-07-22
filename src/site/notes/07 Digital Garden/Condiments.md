@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/condiments/","updated":"2025-05-28T09:46:12.939-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/condiments/","updated":"2025-05-28T10:46:12.939-06:00"}
 ---
 
 

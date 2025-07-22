@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/wisdom/","updated":"2025-06-07T13:52:00.297-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/wisdom/","updated":"2025-06-07T14:52:00.297-06:00"}
 ---
 
 
 | Note                                                                                                                                    | Updated    |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Subtraction is a powerful tool\|Subtraction is a powerful tool]]                                                 | 2025-07-22 |
+| [[07 Digital Garden/Creativity in simplifying complexity\|Creativity in simplifying complexity]]                                     | 2025-07-21 |
+| [[07 Digital Garden/Qualities for a significant impact on your results\|Qualities for a significant impact on your results]]         | 2025-07-21 |
 | [[07 Digital Garden/Margin of safety is a secret weapon\|Margin of safety is a secret weapon]]                                       | 2025-07-20 |
-| [[07 Digital Garden/Qualities for a significant impact on your results\|Qualities for a significant impact on your results]]         | 2025-07-20 |
-| [[07 Digital Garden/Creativity in simplifying complexity\|Creativity in simplifying complexity]]                                     | 2025-07-20 |
-| [[07 Digital Garden/Concept of Subtraction\|Concept of Subtraction]]                                                                 | 2025-07-20 |
 | [[07 Digital Garden/Eric Weinstein on DOAC Podcast\|Eric Weinstein on DOAC Podcast]]                                                 | 2025-07-19 |
 | [[07 Digital Garden/Stop to look fear in the face\|Stop to look fear in the face]]                                                   | 2025-07-14 |
 | [[07 Digital Garden/Quick to change opinions but slow to change principles\|Quick to change opinions but slow to change principles]] | 2025-06-28 |

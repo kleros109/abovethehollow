@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/housing-is-an-infrastructure-asset/","tags":["evergreen"],"updated":"2025-04-18T01:37:10.910-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/housing-is-an-infrastructure-asset/","tags":["evergreen"],"updated":"2025-04-18T02:37:10.910-06:00"}
 ---
 
 Concept from [[03 References/Henry Cisneros\|Henry Cisneros]]

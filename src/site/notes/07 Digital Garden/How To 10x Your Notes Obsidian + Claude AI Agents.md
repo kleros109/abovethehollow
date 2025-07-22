@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/how-to-10x-your-notes-obsidian-claude-ai-agents/","title":"How To 10x Your Notes: Obsidian + Claude AI Agents","tags":["videos","AI"],"updated":"2025-07-12T11:59:02.329-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/how-to-10x-your-notes-obsidian-claude-ai-agents/","title":"How To 10x Your Notes: Obsidian + Claude AI Agents","tags":["videos","AI"],"updated":"2025-07-12T12:59:02.329-06:00"}
 ---
 
 This video demonstrates how to enhance note-taking in Obsidian using Claude AI agents, transforming Claude Code from a coding tool into a versatile agent. Key strategies include:

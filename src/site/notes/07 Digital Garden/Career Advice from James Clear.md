@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/career-advice-from-james-clear/","tags":["careers"],"updated":"2025-05-24T09:40:30.722-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/career-advice-from-james-clear/","tags":["careers"],"updated":"2025-05-24T10:40:30.722-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/great-mentors-over-higher-pay/","tags":["ath","careers"],"updated":"2025-04-20T20:34:16.401-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/great-mentors-over-higher-pay/","tags":["ath","careers"],"updated":"2025-04-20T21:34:16.401-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/you-don-t-have-to-be-good/","tags":["advice"],"updated":"2025-07-20T06:23:42.716-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/you-don-t-have-to-be-good/","tags":["advice"],"updated":"2025-07-20T07:23:42.716-06:00"}
 ---
 
 

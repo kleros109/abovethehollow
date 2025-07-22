@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/persistence-increases-our-power-in-doing/","tags":["ath","advice"],"updated":"2025-05-24T09:40:31.011-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/persistence-increases-our-power-in-doing/","tags":["ath","advice"],"updated":"2025-05-24T10:40:31.011-06:00"}
 ---
 
 

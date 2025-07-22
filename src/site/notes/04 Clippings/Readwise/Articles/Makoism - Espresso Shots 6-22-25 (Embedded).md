@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-clippings/readwise/articles/makoism-espresso-shots-6-22-25-embedded/","updated":"2025-06-27T12:54:54.987-07:00"}
+{"dg-publish":true,"permalink":"/04-clippings/readwise/articles/makoism-espresso-shots-6-22-25-embedded/","updated":"2025-06-27T13:54:54.987-06:00"}
 ---
 
 

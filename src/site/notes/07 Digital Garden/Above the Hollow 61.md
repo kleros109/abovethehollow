@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-61/","tags":["ath"],"updated":"2025-07-20T06:58:34.865-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-61/","tags":["ath"],"updated":"2025-07-21T17:04:38.690-06:00"}
 ---
 
 ## Productivity and Time Management
@@ -12,8 +12,8 @@ Management framework from MGMT Playbook offering structured approach to priority
 
 ## Philosophy and Wisdom
 
-**Concept Of Subtraction**
-Wisdom literature concepts connected to everyday life applications. Examines decision-making processes and mindset shifts. [[07 Digital Garden/Concept of Subtraction\|Concept of Subtraction]]
+**Subtraction is a powerful tool**
+Wisdom literature concepts connected to everyday life applications. Examines decision-making processes and mindset shifts. [[07 Digital Garden/Subtraction is a powerful tool\|Subtraction is a powerful tool]]
 
 **Margin Of Safety Is A Secret Weapon**
 Technical and ethical perspectives on modern technological progress. Quick insights distilled to core elements. [[07 Digital Garden/Margin of safety is a secret weapon\|Margin of safety is a secret weapon]]

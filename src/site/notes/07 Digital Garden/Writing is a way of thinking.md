@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/writing-is-a-way-of-thinking/","tags":["ath","evergreen"],"updated":"2025-04-20T12:55:35.369-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/writing-is-a-way-of-thinking/","tags":["ath","evergreen"],"updated":"2025-04-20T13:55:35.369-06:00"}
 ---
 
 

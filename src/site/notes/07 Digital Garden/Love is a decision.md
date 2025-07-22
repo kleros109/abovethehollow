@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/love-is-a-decision/","tags":["ath","relationships"],"updated":"2025-07-14T20:52:03.358-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/love-is-a-decision/","tags":["ath","relationships"],"updated":"2025-07-14T21:52:03.358-06:00"}
 ---
 
 From [[03 References/Jawad Mian\|Jawad Mian]]

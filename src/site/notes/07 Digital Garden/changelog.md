@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/changelog/","updated":"2025-06-07T11:48:07.204-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/changelog/","updated":"2025-06-07T12:48:07.204-06:00"}
 ---
 
 Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                                    | Updated    |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Above the Hollow 61\|Above the Hollow 61]]                                                                       | 2025-07-20 |
-| [[07 Digital Garden/Concept of Subtraction\|Concept of Subtraction]]                                                                 | 2025-07-20 |
-| [[07 Digital Garden/Creativity in simplifying complexity\|Creativity in simplifying complexity]]                                     | 2025-07-20 |
+| [[07 Digital Garden/Subtraction is a powerful tool\|Subtraction is a powerful tool]]                                                 | 2025-07-22 |
+| [[07 Digital Garden/Creativity in simplifying complexity\|Creativity in simplifying complexity]]                                     | 2025-07-21 |
+| [[07 Digital Garden/Above the Hollow 61\|Above the Hollow 61]]                                                                       | 2025-07-21 |
+| [[07 Digital Garden/1-2-3 Rule for Managers\|1-2-3 Rule for Managers]]                                                               | 2025-07-21 |
+| [[07 Digital Garden/Qualities for a significant impact on your results\|Qualities for a significant impact on your results]]         | 2025-07-21 |
 | [[07 Digital Garden/Prompt Engineer Prompt\|Prompt Engineer Prompt]]                                                                 | 2025-07-20 |
-| [[07 Digital Garden/Qualities for a significant impact on your results\|Qualities for a significant impact on your results]]         | 2025-07-20 |
 | [[07 Digital Garden/Margin of safety is a secret weapon\|Margin of safety is a secret weapon]]                                       | 2025-07-20 |
-| [[07 Digital Garden/1-2-3 Rule for Managers\|1-2-3 Rule for Managers]]                                                               | 2025-07-20 |
 | [[07 Digital Garden/You don’t have to be good\|You don’t have to be good]]                                                           | 2025-07-20 |
 | [[07 Digital Garden/Eric Weinstein on DOAC Podcast\|Eric Weinstein on DOAC Podcast]]                                                 | 2025-07-19 |
 | [[07 Digital Garden/Stop to look fear in the face\|Stop to look fear in the face]]                                                   | 2025-07-14 |

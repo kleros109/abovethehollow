@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/kindness-isn-t-a-weakness/","updated":"2025-06-27T18:02:35.231-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/kindness-isn-t-a-weakness/","updated":"2025-06-27T19:02:35.231-06:00"}
 ---
 
 

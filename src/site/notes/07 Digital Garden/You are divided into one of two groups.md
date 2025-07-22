@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/you-are-divided-into-one-of-two-groups/","updated":"2025-06-27T18:01:27.554-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/you-are-divided-into-one-of-two-groups/","updated":"2025-06-27T19:01:27.554-06:00"}
 ---
 
 

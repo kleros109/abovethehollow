@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-illusion-of-motivation/","tags":["ath","productivity"],"updated":"2025-06-15T10:18:46.294-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-illusion-of-motivation/","tags":["ath","productivity"],"updated":"2025-06-15T11:18:46.294-06:00"}
 ---
 
 From [[Nir Eyal\|Nir Eyal]] on [[Lenny's Podcast\|Lenny's Podcast]].

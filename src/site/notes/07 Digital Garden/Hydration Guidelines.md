@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/hydration-guidelines/","tags":["ath"],"updated":"2025-05-28T14:19:18.005-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/hydration-guidelines/","tags":["ath"],"updated":"2025-05-28T15:19:18.005-06:00"}
 ---
 
 ## Baseline

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-notecard-system/","tags":["clippings"],"updated":"2025-04-16T11:50:19.674-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-notecard-system/","tags":["clippings"],"updated":"2025-04-16T12:50:19.674-06:00"}
 ---
 
 ## The Notecard System: Capture, Organize, and Use Everything You Read, Watch, and Listen To - Billy Oppenheimer

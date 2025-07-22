@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/ath/","updated":"2025-04-05T14:13:56.630-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/ath/","updated":"2025-04-05T15:13:56.630-06:00"}
 ---
 
 
 | Note                                                                                                                                                        | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Above the Hollow 61\|Above the Hollow 61]]                                                                                           | 2025-07-20 |
+| [[07 Digital Garden/Above the Hollow 61\|Above the Hollow 61]]                                                                                           | 2025-07-21 |
 | [[07 Digital Garden/Love is a decision\|Love is a decision]]                                                                                             | 2025-07-14 |
 | [[07 Digital Garden/Above the Hollow 60\|Above the Hollow 60]]                                                                                           | 2025-07-12 |
 | [[07 Digital Garden/Big ideas come from the unconscious\|Big ideas come from the unconscious]]                                                           | 2025-07-12 |
@@ -79,8 +79,8 @@
 | [[07 Digital Garden/Business Writing 101\|Business Writing 101]]                                                                                         | 2025-05-24 |
 | [[07 Digital Garden/Career Advice from Msty\|Career Advice from Msty]]                                                                                   | 2025-05-24 |
 | [[07 Digital Garden/Charles Mingus on Creativity\|Charles Mingus on Creativity]]                                                                         | 2025-05-24 |
-| [[07 Digital Garden/Cognitive shifts are productivity poison\|Cognitive shifts are productivity poison]]                                                 | 2025-05-24 |
 | [[07 Digital Garden/Choose optimism\|Choose optimism]]                                                                                                   | 2025-05-24 |
+| [[07 Digital Garden/Cognitive shifts are productivity poison\|Cognitive shifts are productivity poison]]                                                 | 2025-05-24 |
 | [[07 Digital Garden/Concise explanations accelerate progress\|Concise explanations accelerate progress]]                                                 | 2025-05-24 |
 | [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]]                 | 2025-05-24 |
 | [[07 Digital Garden/Daily Stoic with Kevin Rose\|Daily Stoic with Kevin Rose]]                                                                           | 2025-05-24 |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/favorites/","updated":"2025-05-25T13:04:40.410-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/favorites/","updated":"2025-05-25T14:04:40.410-06:00"}
 ---
 
 These notes are my favorites in the garden.

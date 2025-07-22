@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/careers/","updated":"2025-05-25T13:03:22.774-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/careers/","updated":"2025-05-25T14:03:22.774-06:00"}
 ---
 
   

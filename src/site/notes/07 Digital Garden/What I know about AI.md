@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/what-i-know-about-ai/","tags":["AI"],"updated":"2025-05-24T09:43:31.615-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/what-i-know-about-ai/","tags":["AI"],"updated":"2025-05-24T10:43:31.615-06:00"}
 ---
 
 ## Created from AI Chat in Cursor on my Vault

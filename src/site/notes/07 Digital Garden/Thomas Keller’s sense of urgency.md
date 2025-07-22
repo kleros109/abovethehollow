@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/thomas-keller-s-sense-of-urgency/","tags":["ath","productivity"],"updated":"2025-07-05T15:09:33.134-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/thomas-keller-s-sense-of-urgency/","tags":["ath","productivity"],"updated":"2025-07-05T16:09:33.134-06:00"}
 ---
 
 ## Based on my Readwise highlights:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/pasta-all-amatriciana/","title":"Pasta all’Amatriciana","tags":["recipes","ath"],"updated":"2025-05-24T09:40:30.993-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/pasta-all-amatriciana/","title":"Pasta all’Amatriciana","tags":["recipes","ath"],"updated":"2025-05-24T10:40:30.993-06:00"}
 ---
 
 A traditional Roman classic typically refers to dishes like Pasta Carbonara, Cacio e Pepe, or Saltimbocca. These dishes are characterized by simple, high-quality ingredients and time-honored techniques.

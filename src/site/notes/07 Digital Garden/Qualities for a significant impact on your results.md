@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/qualities-for-a-significant-impact-on-your-results/","updated":"2025-07-20T06:23:43.139-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/qualities-for-a-significant-impact-on-your-results/","tags":["careers"],"updated":"2025-07-21T16:58:46.663-06:00"}
 ---
 
 Career advice from [[03 References/James Clear\|James Clear]].

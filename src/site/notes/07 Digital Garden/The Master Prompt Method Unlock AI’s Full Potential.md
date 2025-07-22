@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-master-prompt-method-unlock-ai-s-full-potential/","title":"The Master Prompt Method: Unlock AI’s Full Potential","tags":["videos","prompts"],"updated":"2025-07-05T10:54:07.889-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-master-prompt-method-unlock-ai-s-full-potential/","title":"The Master Prompt Method: Unlock AI’s Full Potential","tags":["videos","prompts"],"updated":"2025-07-05T11:54:07.889-06:00"}
 ---
 
 # The Master Prompt Method: Unlock AI’s Full Potential

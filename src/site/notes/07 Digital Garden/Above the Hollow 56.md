@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-56/","tags":["ath"],"updated":"2025-06-15T10:51:51.937-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-56/","tags":["ath"],"updated":"2025-06-15T11:51:51.937-06:00"}
 ---
 
 

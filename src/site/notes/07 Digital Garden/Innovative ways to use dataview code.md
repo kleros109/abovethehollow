@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/innovative-ways-to-use-dataview-code/","tags":["notes"],"updated":"2025-04-20T20:34:15.393-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/innovative-ways-to-use-dataview-code/","tags":["notes"],"updated":"2025-04-20T21:34:15.393-06:00"}
 ---
 
 Okay, the Dataview plugin for Obsidian is incredibly powerful for turning your vault of notes into a dynamic database. While basic queries are useful, here are some more innovative things you can achieve using Dataview code:

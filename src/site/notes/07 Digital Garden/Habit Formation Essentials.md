@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/habit-formation-essentials/","tags":["productivity"],"updated":"2025-07-12T11:58:37.494-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/habit-formation-essentials/","tags":["productivity"],"updated":"2025-07-12T12:58:37.494-06:00"}
 ---
 
 # Habit Formation Essentials

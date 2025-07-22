@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/stock-analysis/","tags":["investing"],"updated":"2025-05-25T13:06:45.923-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/stock-analysis/","tags":["investing"],"updated":"2025-05-25T14:06:45.923-06:00"}
 ---
 
 ## Resources

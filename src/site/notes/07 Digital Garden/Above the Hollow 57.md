@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-57/","tags":["ath"],"updated":"2025-06-21T13:46:25.429-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-57/","tags":["ath"],"updated":"2025-06-21T14:46:25.429-06:00"}
 ---
 
 Here is a summary of all notes added to my digital garden the last week. Each summary captures the main takeaway and includes a link to the original file.

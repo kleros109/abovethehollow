@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/personal-development/","updated":"2025-07-11T15:51:03.766-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/personal-development/","updated":"2025-07-11T16:51:03.766-06:00"}
 ---
 
 | Note                                                                                              | Updated    |

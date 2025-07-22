@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/diagnostic-quiz-generator-prompt/","tags":["AI","prompts"],"updated":"2025-06-02T15:00:57.751-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/diagnostic-quiz-generator-prompt/","tags":["AI","prompts"],"updated":"2025-06-02T16:00:57.751-06:00"}
 ---
 
 

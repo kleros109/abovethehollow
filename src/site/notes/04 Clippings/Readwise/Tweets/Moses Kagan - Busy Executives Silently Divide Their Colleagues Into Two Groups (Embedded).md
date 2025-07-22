@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-clippings/readwise/tweets/moses-kagan-busy-executives-silently-divide-their-colleagues-into-two-groups-embedded/","updated":"2025-06-27T12:54:55.014-07:00"}
+{"dg-publish":true,"permalink":"/04-clippings/readwise/tweets/moses-kagan-busy-executives-silently-divide-their-colleagues-into-two-groups-embedded/","updated":"2025-06-27T13:54:55.014-06:00"}
 ---
 
 

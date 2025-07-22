@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/shane-parrish-on-mastery/","tags":["readwise","ath","advice"],"updated":"2025-05-30T08:30:19.682-07:00"}
+{"dg-publish":true,"permalink":"/02-notes/shane-parrish-on-mastery/","tags":["readwise","ath","advice"],"updated":"2025-05-30T09:30:19.682-06:00"}
 ---
 
  [Link](https://twitter.com/ShaneAParrish/status/1852723258002403655/?rw_tt_thread=False)

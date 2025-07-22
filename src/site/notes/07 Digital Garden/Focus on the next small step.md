@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/focus-on-the-next-small-step/","tags":["ath"],"updated":"2025-05-26T11:03:38.574-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/focus-on-the-next-small-step/","tags":["ath"],"updated":"2025-05-26T12:03:38.574-06:00"}
 ---
 
 From [[03 References/Shane Parrish\|Shane Parrish]] in Brainfood newsletter - [[04 Clippings/Readwise/Articles/FS (Farnam Street) - Brain Food Superlinear\|FS (Farnam Street) - Brain Food Superlinear]].

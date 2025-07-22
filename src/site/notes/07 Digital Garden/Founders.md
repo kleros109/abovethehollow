@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/founders/","updated":"2025-06-15T12:39:15.021-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/founders/","updated":"2025-06-15T13:39:15.021-06:00"}
 ---
 
 

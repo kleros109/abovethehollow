@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/beef-ragu/","tags":["recipes"],"updated":"2025-05-24T09:40:30.690-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/beef-ragu/","tags":["recipes"],"updated":"2025-05-24T10:40:30.690-06:00"}
 ---
 
 ## Ingredients

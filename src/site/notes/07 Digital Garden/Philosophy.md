@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/philosophy/","updated":"2025-05-28T17:15:06.945-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/philosophy/","updated":"2025-05-28T18:15:06.945-06:00"}
 ---
 
 Several notes in this vault link to [[07 Digital Garden/Philosophy\|Philosophy]], each offering a unique perspective on how philosophical ideas shape practical life. These notes cover themes from Stoic control to Japanese mindfulness, resilience, and the art of living in the present. Together, they form a web of insights that deepen and contextualize the core ideas in [[07 Digital Garden/Philosophy\|Philosophy]].

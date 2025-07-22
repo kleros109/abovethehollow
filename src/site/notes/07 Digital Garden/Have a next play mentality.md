@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/have-a-next-play-mentality/","tags":["ath","evergreen"],"updated":"2025-04-20T20:50:02.835-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/have-a-next-play-mentality/","tags":["ath","evergreen"],"updated":"2025-04-20T21:50:02.835-06:00"}
 ---
 
 

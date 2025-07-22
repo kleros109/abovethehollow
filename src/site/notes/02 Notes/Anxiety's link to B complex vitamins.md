@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/anxiety-s-link-to-b-complex-vitamins/","tags":["ath"],"updated":"2025-06-14T14:32:05.111-07:00"}
+{"dg-publish":true,"permalink":"/02-notes/anxiety-s-link-to-b-complex-vitamins/","tags":["ath"],"updated":"2025-06-14T15:32:05.111-06:00"}
 ---
 
 

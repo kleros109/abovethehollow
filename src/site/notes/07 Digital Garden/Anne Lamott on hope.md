@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/anne-lamott-on-hope/","tags":["quotes"],"updated":"2025-04-20T12:20:12.439-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/anne-lamott-on-hope/","tags":["quotes"],"updated":"2025-04-20T13:20:12.439-06:00"}
 ---
 
 

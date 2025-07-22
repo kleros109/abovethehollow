@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/writing/","updated":"2025-04-17T16:19:05.570-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/writing/","updated":"2025-04-17T17:19:05.570-06:00"}
 ---
 
 ## Backlinks

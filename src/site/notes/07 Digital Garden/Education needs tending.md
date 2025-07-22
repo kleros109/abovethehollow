@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/education-needs-tending/","tags":["ath","advice"],"updated":"2025-05-26T11:15:36.238-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/education-needs-tending/","tags":["ath","advice"],"updated":"2025-05-26T12:15:36.238-06:00"}
 ---
 
 Edith Wharton (1862-1937) was a Pulitzer Prize-winning American novelist, short story writer, and designer. She is known for her insightful depictions of upper-class society in the United States during the Gilded Age.

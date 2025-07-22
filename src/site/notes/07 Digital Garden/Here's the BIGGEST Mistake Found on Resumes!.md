@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/here-s-the-biggest-mistake-found-on-resumes/","tags":["careers"],"updated":"2025-05-24T09:40:30.870-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/here-s-the-biggest-mistake-found-on-resumes/","tags":["careers"],"updated":"2025-05-24T10:40:30.870-06:00"}
 ---
 
 ## Video

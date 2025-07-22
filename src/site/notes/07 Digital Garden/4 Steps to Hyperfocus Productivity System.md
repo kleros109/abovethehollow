@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/4-steps-to-hyperfocus-productivity-system/","tags":["productivity"],"updated":"2025-05-24T09:40:30.587-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/4-steps-to-hyperfocus-productivity-system/","tags":["productivity"],"updated":"2025-05-24T10:40:30.587-06:00"}
 ---
 
 ![](https://youtu.be/ssi39F7bTLg?si=NGA7mlNAq_-Z2-tX)

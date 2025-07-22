@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/two-questions-for-choosing-a-company-to-work-with/","title":"Two questions for choosing a company to work with - Herbert Lui","tags":["clippings","ath/published"],"updated":"2025-05-24T09:40:31.112-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/two-questions-for-choosing-a-company-to-work-with/","title":"Two questions for choosing a company to work with - Herbert Lui","tags":["clippings","ath/published"],"updated":"2025-05-24T10:40:31.112-06:00"}
 ---
 
 Seth Godin suggests [two great questions for choosing a college](https://seths.blog/2023/12/on-choosing-a-college/):

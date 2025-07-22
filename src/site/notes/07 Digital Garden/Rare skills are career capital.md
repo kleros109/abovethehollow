@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/rare-skills-are-career-capital/","tags":["ath","careers","evergreen"],"updated":"2025-05-24T09:40:31.027-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/rare-skills-are-career-capital/","tags":["ath","careers","evergreen"],"updated":"2025-05-24T10:40:31.027-06:00"}
 ---
 
 

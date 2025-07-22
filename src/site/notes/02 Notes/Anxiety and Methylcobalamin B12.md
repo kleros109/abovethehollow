@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/anxiety-and-methylcobalamin-b12/","tags":["ath","health"],"updated":"2025-06-14T14:32:15.666-07:00"}
+{"dg-publish":true,"permalink":"/02-notes/anxiety-and-methylcobalamin-b12/","tags":["ath","health"],"updated":"2025-06-14T15:32:15.666-06:00"}
 ---
 
 # Anxiety and Methylcobalamin B12: Understanding the Complex Relationship
