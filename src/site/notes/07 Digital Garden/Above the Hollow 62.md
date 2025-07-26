@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-62/","tags":["ath"],"updated":"2025-07-26T10:24:04.541-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-62/","tags":["ath"],"updated":"2025-07-26T10:27:22.070-06:00"}
 ---
 
 
@@ -14,7 +14,7 @@ Understanding rapid technological change and its broader effects. Explores key b
 **Principles From Nabeel S. Qureshi**
 Timeless insights applied to modern challenges and decision-making. Key takeaway: "Lean into the good kind of fear." [[07 Digital Garden/Principles from Nabeel S. Qureshi\|Principles from Nabeel S. Qureshi]]
 
-**5 Stoic & Zen Practices**
+**5 Stoic & Zen Practices from Leo Babauta**
 Explores the reality that love requires intentional choice and commitment beyond feelings. Marriage succeeds through dedication during difficult seasons, not just romance. [[07 Digital Garden/5 Stoic & Zen Practices from Leo Babauta\|5 Stoic & Zen Practices from Leo Babauta]]
 
 ## Technology and AI
