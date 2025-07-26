@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/5-stoic-and-zen-practices-from-leo-babauta/","title":"5 Stoic & Zen Practices That I Believe In - Zen Habits Website","tags":["clippings"],"updated":"2025-07-26T09:55:56.474-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/5-stoic-and-zen-practices-from-leo-babauta/","title":"5 Stoic & Zen Practices from Leo Babauta","tags":["clippings"],"updated":"2025-07-26T10:26:08.787-06:00"}
 ---
 
 From [[03 References/Leo Babauta\|Leo Babauta]] [here.](https://zenhabits.net/stoic/)
