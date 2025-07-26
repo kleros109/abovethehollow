@@ -46,7 +46,7 @@ Here are the 10 most recent changes to my notes. A more comprehensive list of ch
 - [[07 Digital Garden/Above the Hollow 62\|Above the Hollow 62]]
 - [[07 Digital Garden/Principles from Nabeel S. Qureshi\|Principles from Nabeel S. Qureshi]]
 - [[07 Digital Garden/Success cannot be pursued\|Success cannot be pursued]]
-- [[07 Digital Garden/5 Stoic & Zen Practices\|5 Stoic & Zen Practices]]
+- [[07 Digital Garden/5 Stoic & Zen Practices from Leo Babauta\|5 Stoic & Zen Practices from Leo Babauta]]
 - [[07 Digital Garden/How to thrive as AI models change industries\|How to thrive as AI models change industries]]
 - [[07 Digital Garden/History Repeats\|History Repeats]]
 - [[07 Digital Garden/The magic behind things that don't change\|The magic behind things that don't change]]

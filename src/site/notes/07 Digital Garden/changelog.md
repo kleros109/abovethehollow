@@ -9,7 +9,7 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/Above the Hollow 62\|Above the Hollow 62]]                                                                         | 2025-07-26 |
 | [[07 Digital Garden/Principles from Nabeel S. Qureshi\|Principles from Nabeel S. Qureshi]]                                             | 2025-07-26 |
 | [[07 Digital Garden/Success cannot be pursued\|Success cannot be pursued]]                                                             | 2025-07-26 |
-| [[07 Digital Garden/5 Stoic & Zen Practices\|5 Stoic & Zen Practices]]                                                                 | 2025-07-26 |
+| [[07 Digital Garden/5 Stoic & Zen Practices from Leo Babauta\|5 Stoic & Zen Practices from Leo Babauta]]                               | 2025-07-26 |
 | [[07 Digital Garden/How to thrive as AI models change industries\|How to thrive as AI models change industries]]                       | 2025-07-26 |
 | [[07 Digital Garden/History Repeats\|History Repeats]]                                                                                 | 2025-07-26 |
 | [[07 Digital Garden/The magic behind things that don't change\|The magic behind things that don't change]]                             | 2025-07-26 |
