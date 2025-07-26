@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/principles-from-nabeel-s-qureshi/","title":"Nabeel S. Qureshi","tags":["clippings","advice"],"updated":"2025-07-26T10:07:44.645-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/principles-from-nabeel-s-qureshi/","title":"Principles Nabeel S. Qureshi","tags":["clippings","advice"],"updated":"2025-07-26T10:21:33.476-06:00"}
 ---
-
-›## Principles
 
 A cursed fact of the world is that the most important life lessons you learn are the hardest to communicate to others. They always sound like clichés. In any case, these are a few things I’ve learned from experience and that I try and keep in mind.  
   
