@@ -5,6 +5,8 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Principles from Nabeel S. Qureshi\|Principles from Nabeel S. Qureshi]]                                                               |
+| [[07 Digital Garden/Success cannot be pursued\|Success cannot be pursued]]                                                                               |
 | [[07 Digital Garden/You don’t have to be good\|You don’t have to be good]]                                                                               |
 | [[07 Digital Garden/Eric Weinstein on DOAC Podcast\|Eric Weinstein on DOAC Podcast]]                                                                     |
 | [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           |

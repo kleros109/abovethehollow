@@ -5,6 +5,7 @@
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Success cannot be pursued\|Success cannot be pursued]]                                                                               |
 | [[07 Digital Garden/Stop to look fear in the face\|Stop to look fear in the face]]                                                                       |
 | [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           |
 | [[07 Digital Garden/The art of thoughtful elimination\|The art of thoughtful elimination]]                                                               |
@@ -46,6 +47,7 @@
 
 | Note                                                                                                                                                                                                                                                                                             | Updated    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| [[04 Clippings/Readwise/Articles/Shane Parrish (FS) - Brain Food Guided by Beauty\|Shane Parrish (FS) - Brain Food Guided by Beauty]]                                                                                                                                                         | 2025-07-23 |
 | [[02 Notes/Above the Hollow 47\|Above the Hollow 47]]                                                                                                                                                                                                                                         | 2025-07-19 |
 | [[04 Clippings/Readwise/Articles/Tim Ferriss - 5-Bullet Friday — Why You’re Not Late, Japanese Binaural Jazz, Peyote Conservation, and a Relaxing Realization\|Tim Ferriss - 5-Bullet Friday — Why You’re Not Late, Japanese Binaural Jazz, Peyote Conservation, and a Relaxing Realization]] | 2025-07-12 |
 | [[04 Clippings/Readwise/Articles/Jawad Mian - Stay Human\|Jawad Mian - Stay Human]]                                                                                                                                                                                                           | 2025-07-12 |
@@ -77,10 +79,8 @@
 | [[02 Notes/Voicenotes/2025-01-08 Organizing Opportunities and Activism\|2025-01-08 Organizing Opportunities and Activism]]                                                                                                                                                                    | 2025-01-08 |
 | [[02 Notes/Voicenotes/2025-01-04 Understanding and Simplicity in Explanations\|2025-01-04 Understanding and Simplicity in Explanations]]                                                                                                                                                      | 2025-01-04 |
 | [[04 Clippings/James Baldwin on what love looks like\|James Baldwin on what love looks like]]                                                                                                                                                                                                 | 2024-12-29 |
-| [[04 Clippings/James Clear on Ease of Doing Your Job\|James Clear on Ease of Doing Your Job]]                                                                                                                                                                                                 | 2024-12-29 |
 | [[02 Notes/Voicenotes/2024-12-29 The Curse of Knowledge and Wisdom\|2024-12-29 The Curse of Knowledge and Wisdom]]                                                                                                                                                                            | 2024-12-29 |
 | [[06 Utilities/Templates/Quote Template\|Quote Template]]                                                                                                                                                                                                                                     | 2024-06-27 |
 | [[03 References/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                                                                                                                                                                        | 2024-03-22 |
-| [[04 Clippings/James Dyson on solving problems\|James Dyson on solving problems]]                                                                                                                                                                                                             | 2024-02-24 |
 
 { .block-language-dataview}

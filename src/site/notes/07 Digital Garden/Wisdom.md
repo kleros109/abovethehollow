@@ -5,6 +5,7 @@
 
 | Note                                                                                                                                    | Updated    |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/History Repeats\|History Repeats]]                                                                               | 2025-07-26 |
 | [[07 Digital Garden/Subtraction is a powerful tool\|Subtraction is a powerful tool]]                                                 | 2025-07-22 |
 | [[07 Digital Garden/Creativity in simplifying complexity\|Creativity in simplifying complexity]]                                     | 2025-07-21 |
 | [[07 Digital Garden/Qualities for a significant impact on your results\|Qualities for a significant impact on your results]]         | 2025-07-21 |
