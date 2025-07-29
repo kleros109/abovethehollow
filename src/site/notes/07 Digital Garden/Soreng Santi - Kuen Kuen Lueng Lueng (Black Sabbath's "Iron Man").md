@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/soreng-santi-kuen-kuen-lueng-lueng-black-sabbath-s-iron-man/","title":"Soreng Santi - Kuen Kuen Lueng Lueng (Black Sabbath's \"Iron Man\")","tags":["videos","favorites"],"updated":"2025-04-18T00:57:20.215-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/soreng-santi-kuen-kuen-lueng-lueng-black-sabbath-s-iron-man/","title":"Soreng Santi - Kuen Kuen Lueng Lueng (Black Sabbath's \"Iron Man\")","tags":["videos","favorites"],"updated":"2025-07-28T19:34:41.313-07:00"}
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/At8Zwo2myZc?si=FIHeo1l2nOeaCK1r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 - The video is Soreng Santi's cover of Black Sabbath's "Iron Man," titled "Kuen Kuen Lueng Lueng."
 - It's a Thai-language rendition, released in 2009.
