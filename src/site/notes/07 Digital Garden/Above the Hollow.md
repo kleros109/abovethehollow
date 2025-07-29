@@ -46,12 +46,12 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
+- [[07 Digital Garden/Claude Code Best Practices by Anthropic Teams\|Claude Code Best Practices by Anthropic Teams]]
+- [[07 Digital Garden/The Secret to Claude Code Isn't Better Prompts.\|The Secret to Claude Code Isn't Better Prompts.]]
 - [[07 Digital Garden/Thomas Laffon at All-in Summitt 2024\|Thomas Laffon at All-in Summitt 2024]]
 - [[07 Digital Garden/Code\|Code]]
 - [[07 Digital Garden/Personal Development\|Personal Development]]
 - [[07 Digital Garden/Focaccia from Radio Bakery\|Focaccia from Radio Bakery]]
-- [[07 Digital Garden/Claude Code Best Practices by Anthropic Teams\|Claude Code Best Practices by Anthropic Teams]]
-- [[07 Digital Garden/The Secret to Claude Code Isn't Better Prompts.\|The Secret to Claude Code Isn't Better Prompts.]]
 - [[07 Digital Garden/Zone 2 Training from Readwise\|Zone 2 Training from Readwise]]
 - [[07 Digital Garden/Subtraction is a powerful tool\|Subtraction is a powerful tool]]
 - [[07 Digital Garden/Success cannot be pursued\|Success cannot be pursued]]

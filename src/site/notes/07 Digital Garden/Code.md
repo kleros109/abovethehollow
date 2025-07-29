@@ -5,7 +5,7 @@
 
 | Note                                                                                                                      | Updated    |
 | ------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[07 Digital Garden/Claude Code Best Practices by Anthropic Teams\|Claude Code Best Practices by Anthropic Teams]]     | 2025-07-27 |
-| [[07 Digital Garden/The Secret to Claude Code Isn't Better Prompts.\|The Secret to Claude Code Isn't Better Prompts.]] | 2025-07-27 |
+| [[07 Digital Garden/Claude Code Best Practices by Anthropic Teams\|Claude Code Best Practices by Anthropic Teams]]     | 2025-07-28 |
+| [[07 Digital Garden/The Secret to Claude Code Isn't Better Prompts.\|The Secret to Claude Code Isn't Better Prompts.]] | 2025-07-28 |
 
 { .block-language-dataview}

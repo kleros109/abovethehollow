@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/claude-code-best-practices-by-anthropic-teams/","tags":["notes"],"updated":"2025-07-27T16:57:35.777-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/claude-code-best-practices-by-anthropic-teams/","tags":["code","AI"],"updated":"2025-07-28T19:24:00.851-07:00"}
 ---
 
 ## Team Practices Overview

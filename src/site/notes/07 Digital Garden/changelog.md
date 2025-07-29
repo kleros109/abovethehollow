@@ -6,12 +6,12 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                                      | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Claude Code Best Practices by Anthropic Teams\|Claude Code Best Practices by Anthropic Teams]]                     | 2025-07-28 |
+| [[07 Digital Garden/The Secret to Claude Code Isn't Better Prompts.\|The Secret to Claude Code Isn't Better Prompts.]]                 | 2025-07-28 |
 | [[07 Digital Garden/Thomas Laffon at All-in Summitt 2024\|Thomas Laffon at All-in Summitt 2024]]                                       | 2025-07-28 |
 | [[07 Digital Garden/Code\|Code]]                                                                                                       | 2025-07-28 |
 | [[07 Digital Garden/Personal Development\|Personal Development]]                                                                       | 2025-07-28 |
 | [[07 Digital Garden/Focaccia from Radio Bakery\|Focaccia from Radio Bakery]]                                                           | 2025-07-28 |
-| [[07 Digital Garden/Claude Code Best Practices by Anthropic Teams\|Claude Code Best Practices by Anthropic Teams]]                     | 2025-07-27 |
-| [[07 Digital Garden/The Secret to Claude Code Isn't Better Prompts.\|The Secret to Claude Code Isn't Better Prompts.]]                 | 2025-07-27 |
 | [[07 Digital Garden/Zone 2 Training from Readwise\|Zone 2 Training from Readwise]]                                                     | 2025-07-27 |
 | [[07 Digital Garden/Subtraction is a powerful tool\|Subtraction is a powerful tool]]                                                   | 2025-07-27 |
 | [[07 Digital Garden/Success cannot be pursued\|Success cannot be pursued]]                                                             | 2025-07-27 |
