@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/endless-curiosity-drives-action/","tags":["ath"],"updated":"2025-06-29T20:14:52.488-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/endless-curiosity-drives-action/","tags":["ath"],"updated":"2025-06-29T19:14:52.488-07:00"}
 ---
 
 From [[04 Clippings/Readwise/Books/Anne-Laure Le Cunff - Tiny Experiments\|Anne-Laure Le Cunff - Tiny Experiments]]:

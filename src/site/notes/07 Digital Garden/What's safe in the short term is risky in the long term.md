@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/what-s-safe-in-the-short-term-is-risky-in-the-long-term/","tags":["investing"],"updated":"2025-07-26T09:39:57.873-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/what-s-safe-in-the-short-term-is-risky-in-the-long-term/","tags":["investing"],"updated":"2025-07-27T15:55:58.001-07:00"}
 ---
 
 From a [tweet](https://twitter.com/BrianFeroldi/status/1779225739197317374) by [[03 References/Brian Feroldi\|Brian Feroldi]].

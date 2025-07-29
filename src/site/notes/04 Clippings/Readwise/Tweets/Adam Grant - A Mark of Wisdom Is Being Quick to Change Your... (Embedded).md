@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-clippings/readwise/tweets/adam-grant-a-mark-of-wisdom-is-being-quick-to-change-your-embedded/","updated":"2025-06-27T13:54:54.991-06:00"}
+{"dg-publish":true,"permalink":"/04-clippings/readwise/tweets/adam-grant-a-mark-of-wisdom-is-being-quick-to-change-your-embedded/","updated":"2025-06-27T12:54:54.991-07:00"}
 ---
 
 

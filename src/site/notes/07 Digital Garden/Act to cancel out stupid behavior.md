@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/act-to-cancel-out-stupid-behavior/","tags":["ath","quotes"],"updated":"2025-06-04T08:48:33.350-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/act-to-cancel-out-stupid-behavior/","tags":["ath","quotes"],"updated":"2025-06-04T07:48:33.350-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/what-are-evergreen-notes/","tags":["evergreen"],"updated":"2025-04-20T12:22:45.628-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/what-are-evergreen-notes/","tags":["evergreen"],"updated":"2025-04-20T11:22:45.628-07:00"}
 ---
 
 Evergreen Notes is a fascinating and increasingly popular system for note-taking and knowledge management. Here's a breakdown of what it is, how it works, and why it's gaining traction:

@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-62/","tags":["ath"],"updated":"2025-07-26T10:27:22.070-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-62/","tags":["ath"],"updated":"2025-07-26T11:49:38.586-07:00"}
 ---
 
+Observations, articles, and other links. Curated for my family and friends.
 
 ## Philosophy and Wisdom
 

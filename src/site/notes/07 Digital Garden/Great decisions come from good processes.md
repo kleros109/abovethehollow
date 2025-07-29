@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/great-decisions-come-from-good-processes/","tags":["evergreen","quotes","ath"],"updated":"2025-04-18T02:37:20.379-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/great-decisions-come-from-good-processes/","tags":["evergreen","quotes","ath"],"updated":"2025-04-18T01:37:20.379-07:00"}
 ---
 
 

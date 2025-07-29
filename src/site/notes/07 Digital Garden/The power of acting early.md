@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-power-of-acting-early/","tags":["notes","evergreen","productivity"],"updated":"2025-07-14T21:52:35.847-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-power-of-acting-early/","tags":["notes","evergreen","productivity"],"updated":"2025-07-27T15:55:58.001-07:00"}
 ---
 
 

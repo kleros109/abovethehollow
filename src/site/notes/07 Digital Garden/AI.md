@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/ai/","updated":"2025-05-25T14:02:47.018-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/ai/","updated":"2025-05-25T13:02:47.018-07:00"}
 ---
 
  
 | Note                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------- |
-| [[07 Digital Garden/How to thrive as AI models change industries\|How to thrive as AI models change industries]]               |
-| [[07 Digital Garden/Context Engineering Prompt\|Context Engineering Prompt]]                                                   |
+| [[07 Digital Garden/Claude Code Best Practices by Anthropic Teams\|Claude Code Best Practices by Anthropic Teams]]             |
 | [[07 Digital Garden/Prompt Engineer Prompt\|Prompt Engineer Prompt]]                                                           |
 | [[07 Digital Garden/How To 10x Your Notes Obsidian + Claude AI Agents\|How To 10x Your Notes Obsidian + Claude AI Agents]]     |
+| [[07 Digital Garden/How to thrive as AI models change industries\|How to thrive as AI models change industries]]               |
+| [[07 Digital Garden/Context Engineering Prompt\|Context Engineering Prompt]]                                                   |
 | [[07 Digital Garden/Maximum Efficiency Prompt\|Maximum Efficiency Prompt]]                                                     |
 | [[07 Digital Garden/Production Ready Prompt\|Production Ready Prompt]]                                                         |
 | [[07 Digital Garden/The Master Prompt Method Unlock AI’s Full Potential\|The Master Prompt Method Unlock AI’s Full Potential]] |

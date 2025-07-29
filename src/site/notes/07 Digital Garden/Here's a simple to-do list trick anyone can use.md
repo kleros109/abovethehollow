@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/here-s-a-simple-to-do-list-trick-anyone-can-use/","tags":["productivity"],"updated":"2025-05-24T10:40:30.862-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/here-s-a-simple-to-do-list-trick-anyone-can-use/","tags":["productivity"],"updated":"2025-05-24T09:40:30.862-07:00"}
 ---
 
 ## Here's a simple to-do list trick anyone can use: | annotated by Chris

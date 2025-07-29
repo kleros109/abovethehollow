@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-true-joy-in-life/","tags":["quotes","ath/published"],"updated":"2025-05-24T10:40:31.097-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-true-joy-in-life/","tags":["quotes","ath/published"],"updated":"2025-05-24T09:40:31.097-07:00"}
 ---
 
 Saw this from a clip of Jeff Goldblum on the Colbert Show

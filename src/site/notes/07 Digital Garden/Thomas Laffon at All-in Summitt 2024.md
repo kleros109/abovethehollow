@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/thomas-laffon-at-all-in-summitt-2024/","tags":["clippings"],"updated":"2025-04-20T23:32:38.678-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/thomas-laffon-at-all-in-summitt-2024/","tags":["clippings"],"updated":"2025-07-28T18:41:39.040-07:00"}
 ---
 
 

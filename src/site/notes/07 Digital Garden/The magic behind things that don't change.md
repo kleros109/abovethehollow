@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-magic-behind-things-that-don-t-change/","title":"The Magic Behind Bezos and Buffett: Things That Don't Change","tags":["clippings"],"updated":"2025-07-26T09:40:12.056-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-magic-behind-things-that-don-t-change/","title":"The Magic Behind Bezos and Buffett: Things That Don't Change","tags":["clippings"],"updated":"2025-07-27T15:55:58.001-07:00"}
 ---
 
 From [[03 References/Shane Parrish\|Shane Parrish]] [here](https://fs.blog/staying-the-same/?__readwiseLocation=)

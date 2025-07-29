@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/stop-to-look-fear-in-the-face/","tags":["quotes"],"updated":"2025-07-14T22:00:30.170-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/stop-to-look-fear-in-the-face/","tags":["quotes"],"updated":"2025-07-27T15:55:58.000-07:00"}
 ---
 
 As highlighted by [[03 References/Tim Ferriss\|Tim Ferriss]].

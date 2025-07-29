@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/stanley-druckenmiller-on-second-order-thinking/","tags":["ath"],"updated":"2025-06-21T13:46:39.294-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/stanley-druckenmiller-on-second-order-thinking/","tags":["ath"],"updated":"2025-06-21T12:46:39.294-07:00"}
 ---
 
 From legendary investor [[Stan Druckenmiller\|Stan Druckenmiller]]:

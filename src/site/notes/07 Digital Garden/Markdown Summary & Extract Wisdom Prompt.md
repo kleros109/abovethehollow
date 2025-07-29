@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/markdown-summary-and-extract-wisdom-prompt/","tags":["AI","prompts"],"updated":"2025-06-02T16:00:18.650-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/markdown-summary-and-extract-wisdom-prompt/","tags":["AI","prompts"],"updated":"2025-06-02T15:00:18.650-07:00"}
 ---
 
 

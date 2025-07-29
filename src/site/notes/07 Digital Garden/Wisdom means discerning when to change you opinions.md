@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/wisdom-means-discerning-when-to-change-you-opinions/","tags":["ath"],"updated":"2025-06-07T12:45:41.894-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/wisdom-means-discerning-when-to-change-you-opinions/","tags":["ath"],"updated":"2025-06-07T11:45:41.894-07:00"}
 ---
 
 A definition of [[07 Digital Garden/Wisdom\|Wisdom]] from [[03 References/Adam Grant\|Adam Grant]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/asking-good-questions-is-a-crucial-skill/","tags":["careers"],"updated":"2025-06-21T13:54:34.516-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/asking-good-questions-is-a-crucial-skill/","tags":["careers"],"updated":"2025-06-21T12:54:34.516-07:00"}
 ---
 
 From Ness Labs [here:](https://newsletter.nesslabs.com/posts/ness-labs-the-alchemy-of-good-questions)

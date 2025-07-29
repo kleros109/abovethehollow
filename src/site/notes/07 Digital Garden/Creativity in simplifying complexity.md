@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/creativity-in-simplifying-complexity/","tags":["advice"],"updated":"2025-07-21T17:06:44.091-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/creativity-in-simplifying-complexity/","tags":["advice"],"updated":"2025-07-27T15:55:57.998-07:00"}
 ---
 
 From my [[Readwise\|Readwise]] highlights. 

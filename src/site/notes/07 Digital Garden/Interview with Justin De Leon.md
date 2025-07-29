@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/interview-with-justin-de-leon/","tags":["clippings"],"updated":"2025-04-16T10:49:53.517-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/interview-with-justin-de-leon/","tags":["clippings"],"updated":"2025-04-16T09:49:53.517-07:00"}
 ---
 
 

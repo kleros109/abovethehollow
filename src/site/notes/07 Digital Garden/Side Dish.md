@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/side-dish/","updated":"2025-05-27T11:56:22.528-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/side-dish/","updated":"2025-05-27T10:56:22.528-07:00"}
 ---
 
 ## Backlinks

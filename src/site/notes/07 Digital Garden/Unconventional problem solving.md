@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/unconventional-problem-solving/","tags":["ath","advice"],"updated":"2025-04-20T21:49:57.843-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/unconventional-problem-solving/","tags":["ath","advice"],"updated":"2025-04-20T20:49:57.843-07:00"}
 ---
 
 

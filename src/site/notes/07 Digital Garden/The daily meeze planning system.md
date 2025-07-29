@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-daily-meeze-planning-system/","tags":["ath","productivity"],"updated":"2025-07-05T11:26:06.022-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-daily-meeze-planning-system/","tags":["ath","productivity"],"updated":"2025-07-05T10:26:06.022-07:00"}
 ---
 
 The Daily Meeze is a planning system from Dan Charnas' "Everything in Its Place" book.

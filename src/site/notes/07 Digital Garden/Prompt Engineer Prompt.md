@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/prompt-engineer-prompt/","tags":["AI","prompts"],"updated":"2025-07-20T07:23:45.463-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/prompt-engineer-prompt/","tags":["AI","prompts"],"updated":"2025-07-27T15:55:58.000-07:00"}
 ---
 
 ## The Only Prompt You Need to be a Prompt Engineer

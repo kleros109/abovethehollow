@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/ai-fluency/","tags":["ath","AI"],"updated":"2025-06-09T20:01:44.597-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/ai-fluency/","tags":["ath","AI"],"updated":"2025-06-09T19:01:44.597-07:00"}
 ---
 
 From [[Wade Foster\|Wade Foster]] of [[Zapier\|Zapier]].

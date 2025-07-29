@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/daily-planning/","tags":["ath"],"updated":"2025-04-20T23:32:41.683-06:00"}
+{"dg-publish":true,"permalink":"/02-notes/daily-planning/","tags":["ath"],"updated":"2025-04-20T22:32:41.683-07:00"}
 ---
 
 Daily Planning: The Critical Sequence for Productivity

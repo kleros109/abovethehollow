@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/12-simple-ways-to-create-momentum-in-your-day/","tags":["ath","productivity"],"updated":"2025-05-24T10:40:30.582-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/12-simple-ways-to-create-momentum-in-your-day/","tags":["ath","productivity"],"updated":"2025-05-24T09:40:30.582-07:00"}
 ---
 
 ---

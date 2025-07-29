@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/lao-tzu-on-wisdom/","tags":["ath"],"updated":"2025-06-21T13:48:23.684-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/lao-tzu-on-wisdom/","tags":["ath"],"updated":"2025-06-21T12:48:23.684-07:00"}
 ---
 
 From [[03 References/Greg McKeown\|Greg McKeown]]:

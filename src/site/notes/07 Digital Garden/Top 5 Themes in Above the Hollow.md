@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/top-5-themes-in-above-the-hollow/","tags":["ath"],"updated":"2025-06-02T13:32:52.503-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/top-5-themes-in-above-the-hollow/","tags":["ath"],"updated":"2025-06-02T12:32:52.503-07:00"}
 ---
 
 The top 5 themes in digital garden are below. Explore with the links below.

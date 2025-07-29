@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/success-cannot-be-pursued/","tags":["quotes","inbox"],"updated":"2025-07-26T10:05:46.875-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/success-cannot-be-pursued/","tags":["quotes"],"updated":"2025-07-27T15:55:58.001-07:00"}
 ---
 
 

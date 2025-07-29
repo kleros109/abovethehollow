@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/business-plan-prompt/","tags":["ath","AI"],"updated":"2025-06-28T15:41:29.508-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/business-plan-prompt/","tags":["ath","AI"],"updated":"2025-06-28T14:41:29.508-07:00"}
 ---
 
 ## This Prompt Writes Your Entire Business Plan in Minutes

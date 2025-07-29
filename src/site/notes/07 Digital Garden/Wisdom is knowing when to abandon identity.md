@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/wisdom-is-knowing-when-to-abandon-identity/","tags":["ath","advice"],"updated":"2025-06-08T12:32:55.358-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/wisdom-is-knowing-when-to-abandon-identity/","tags":["ath","advice"],"updated":"2025-06-08T11:32:55.358-07:00"}
 ---
 
 

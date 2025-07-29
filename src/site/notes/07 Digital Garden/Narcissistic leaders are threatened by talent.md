@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/narcissistic-leaders-are-threatened-by-talent/","tags":["ath"],"updated":"2025-06-21T13:44:50.504-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/narcissistic-leaders-are-threatened-by-talent/","tags":["ath"],"updated":"2025-06-21T12:44:50.504-07:00"}
 ---
 
 From [[03 References/Adam Grant\|Adam Grant]]:

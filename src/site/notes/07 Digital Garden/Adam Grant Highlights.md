@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/adam-grant-highlights/","tags":["ath","readwise"],"updated":"2025-06-01T13:52:56.139-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/adam-grant-highlights/","tags":["ath","readwise"],"updated":"2025-06-01T12:52:56.139-07:00"}
 ---
 
 Here’s a summary of my highlights from Adam Grant:

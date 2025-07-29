@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/readwise-highlights-on-wisdom/","tags":["ath"],"updated":"2025-06-14T14:07:01.372-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/readwise-highlights-on-wisdom/","tags":["ath"],"updated":"2025-06-14T13:07:01.372-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/what-should-young-people-do-with-their-lives/","tags":["advice"],"updated":"2025-06-21T13:56:11.369-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/what-should-young-people-do-with-their-lives/","tags":["advice"],"updated":"2025-06-21T12:56:11.369-07:00"}
 ---
 
 From [[03 References/Tim Ferriss\|Tim Ferriss]]:

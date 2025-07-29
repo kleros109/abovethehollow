@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/what-makes-a-great-manager/","tags":["clippings"],"updated":"2025-07-12T13:44:08.313-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/what-makes-a-great-manager/","tags":["clippings"],"updated":"2025-07-27T15:55:58.001-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/skillet-chicken/","title":"How to Make the Crispiest, Juiciest Chicken with Mandy Lee | At Home With Us","tags":["videos","recipes"],"updated":"2025-06-13T18:01:23.273-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/skillet-chicken/","title":"How to Make the Crispiest, Juiciest Chicken with Mandy Lee | At Home With Us","tags":["videos","recipes"],"updated":"2025-06-13T17:01:23.273-07:00"}
 ---
 
 # How to Make the Crispiest, Juiciest Chicken with Mandy Lee

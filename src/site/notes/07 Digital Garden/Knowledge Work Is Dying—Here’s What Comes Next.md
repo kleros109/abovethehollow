@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/knowledge-work-is-dying-here-s-what-comes-next/","tags":["readwise","ath","careers"],"updated":"2025-06-01T13:18:52.845-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/knowledge-work-is-dying-here-s-what-comes-next/","tags":["readwise","ath","careers"],"updated":"2025-06-01T12:18:52.845-07:00"}
 ---
 
 ## Knowledge Work Is Dying—Here’s What Comes Next

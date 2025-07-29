@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/context-engineering-prompt/","tags":["prompts"],"updated":"2025-07-26T09:39:42.735-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/context-engineering-prompt/","tags":["prompts"],"updated":"2025-07-27T15:55:57.998-07:00"}
 ---
 
 From [[03 References/Mckay Wrigley\|Mckay Wrigley]] [here](https://x.com/mckaywrigley/status/1947834179611501004?s=46&t=-09RYxDtFx2KxgnDX_vv5Q) Save this as a Claude command called “onboarding”

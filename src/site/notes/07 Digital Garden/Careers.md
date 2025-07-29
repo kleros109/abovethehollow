@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/careers/","updated":"2025-05-25T14:03:22.774-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/careers/","updated":"2025-05-25T13:03:22.774-07:00"}
 ---
 
   
 hello now hello
 | Note                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
-| [[07 Digital Garden/Qualities for a significant impact on your results\|Qualities for a significant impact on your results]]       |
 | [[07 Digital Garden/Managing in an AI driven world\|Managing in an AI driven world]]                                               |
+| [[07 Digital Garden/Qualities for a significant impact on your results\|Qualities for a significant impact on your results]]       |
 | [[07 Digital Garden/Reliability as a competitive edge\|Reliability as a competitive edge]]                                         |
 | [[07 Digital Garden/The biggest career cheat code\|The biggest career cheat code]]                                                 |
 | [[07 Digital Garden/Swallow the frog\|Swallow the frog]]                                                                           |
@@ -21,8 +21,8 @@ hello now hello
 | [[07 Digital Garden/Building trust quickly is a superpower\|Building trust quickly is a superpower]]                               |
 | [[07 Digital Garden/Business Writing 101\|Business Writing 101]]                                                                   |
 | [[07 Digital Garden/Career Advice from James Clear\|Career Advice from James Clear]]                                               |
-| [[07 Digital Garden/Career Advice from My Highlights\|Career Advice from My Highlights]]                                           |
 | [[07 Digital Garden/Career Advice from Msty\|Career Advice from Msty]]                                                             |
+| [[07 Digital Garden/Career Advice from My Highlights\|Career Advice from My Highlights]]                                           |
 | [[07 Digital Garden/Decide Your Next Decade\|Decide Your Next Decade]]                                                             |
 | [[07 Digital Garden/Here's the BIGGEST Mistake Found on Resumes!\|Here's the BIGGEST Mistake Found on Resumes!]]                   |
 | [[07 Digital Garden/Honest answers for development\|Honest answers for development]]                                               |

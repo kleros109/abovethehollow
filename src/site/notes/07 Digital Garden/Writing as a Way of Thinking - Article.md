@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/writing-as-a-way-of-thinking-article/","tags":["readwise"],"updated":"2025-04-20T23:32:33.671-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/writing-as-a-way-of-thinking-article/","tags":["readwise"],"updated":"2025-04-20T22:32:33.671-07:00"}
 ---
 
 # Writing as a Way of Thinking

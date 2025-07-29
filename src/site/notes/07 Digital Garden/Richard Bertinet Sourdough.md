@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/richard-bertinet-sourdough/","title":"Richard Bertinet's Sourdough Masterclass","tags":["videos"],"updated":"2025-06-01T13:56:14.625-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/richard-bertinet-sourdough/","title":"Richard Bertinet's Sourdough Masterclass","tags":["videos"],"updated":"2025-06-01T12:56:14.625-07:00"}
 ---
 
 

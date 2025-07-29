@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/each-moment-is-a-once-in-a-lifetime-occurence/","tags":["ath","evergreen"],"updated":"2025-04-18T02:29:45.863-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/each-moment-is-a-once-in-a-lifetime-occurence/","tags":["ath","evergreen"],"updated":"2025-04-18T01:29:45.863-07:00"}
 ---
 
 ****

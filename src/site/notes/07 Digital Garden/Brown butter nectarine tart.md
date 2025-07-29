@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/brown-butter-nectarine-tart/","tags":["recipes"],"updated":"2025-05-24T10:40:30.707-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/brown-butter-nectarine-tart/","tags":["recipes"],"updated":"2025-05-24T09:40:30.707-07:00"}
 ---
 
 It seems like every summer I have the impromptu and magical experience of suddenly smelling the delicate aroma of ripe nectarines wafting through the air. At that moment, whether it's at a farmer's market or grocery store, I know it's time to make this recipe.

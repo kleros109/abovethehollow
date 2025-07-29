@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-art-of-thoughtful-elimination/","tags":["quotes"],"updated":"2025-06-27T19:04:19.426-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-art-of-thoughtful-elimination/","tags":["quotes"],"updated":"2025-06-27T18:04:19.426-07:00"}
 ---
 
 

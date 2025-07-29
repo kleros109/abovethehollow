@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/eric-weinstein-on-doac-podcast/","tags":["advice"],"updated":"2025-07-19T08:22:50.427-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/eric-weinstein-on-doac-podcast/","tags":["advice"],"updated":"2025-07-27T15:55:57.998-07:00"}
 ---
 
 I just listened to this episode of The Diary of a CEO with Eric Weinstein. The show closed out with an interesting list of things to do for a better life.

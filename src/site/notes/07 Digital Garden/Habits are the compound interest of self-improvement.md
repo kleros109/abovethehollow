@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/habits-are-the-compound-interest-of-self-improvement/","tags":["ath","productivity"],"updated":"2025-06-01T11:32:10.359-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/habits-are-the-compound-interest-of-self-improvement/","tags":["ath","productivity"],"updated":"2025-06-01T10:32:10.359-07:00"}
 ---
 
 From [[03 References/James Clear\|James Clear]] in [[Atomic Habits\|Atomic Habits]]:

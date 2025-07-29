@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/marc-andreessen-on-productivity/","tags":["ath","productivity"],"updated":"2025-07-05T11:23:20.427-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/marc-andreessen-on-productivity/","tags":["ath","productivity"],"updated":"2025-07-05T10:23:20.427-07:00"}
 ---
 
 

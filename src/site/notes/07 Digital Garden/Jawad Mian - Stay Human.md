@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/jawad-mian-stay-human/","tags":["readwise","ath"],"updated":"2025-05-24T10:43:31.556-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/jawad-mian-stay-human/","tags":["readwise","ath"],"updated":"2025-05-24T09:43:31.556-07:00"}
 ---
 
 URL: https://strayreflections.substack.com/p/stay-human

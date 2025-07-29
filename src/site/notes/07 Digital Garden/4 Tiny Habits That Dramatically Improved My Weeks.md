@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/4-tiny-habits-that-dramatically-improved-my-weeks/","tags":["notes"],"updated":"2025-07-14T21:51:54.411-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/4-tiny-habits-that-dramatically-improved-my-weeks/","tags":["notes"],"updated":"2025-07-27T15:55:57.997-07:00"}
 ---
 
 From [[03 References/Sahil Bloom\|Sahil Bloom]].

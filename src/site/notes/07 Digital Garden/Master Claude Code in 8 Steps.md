@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/master-claude-code-in-8-steps/","title":"Master Claude Code in 14 Minutes (8 Steps)","tags":["videos","AI"],"updated":"2025-07-05T11:25:36.239-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/master-claude-code-in-8-steps/","title":"Master Claude Code in 14 Minutes (8 Steps)","tags":["videos","AI"],"updated":"2025-07-05T10:25:36.239-07:00"}
 ---
 
 # Master Claude Code in 14 Minutes (8 Steps)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/quick-to-change-opinions-but-slow-to-change-principles/","updated":"2025-06-28T15:41:01.502-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/quick-to-change-opinions-but-slow-to-change-principles/","updated":"2025-06-28T14:41:01.502-07:00"}
 ---
 
 

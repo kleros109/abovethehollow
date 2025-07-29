@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/ai-prompts-from-sabrina-ramonov/","tags":["AI"],"updated":"2025-05-24T10:43:31.432-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/ai-prompts-from-sabrina-ramonov/","tags":["AI"],"updated":"2025-05-24T09:43:31.432-07:00"}
 ---
 
 ## Video

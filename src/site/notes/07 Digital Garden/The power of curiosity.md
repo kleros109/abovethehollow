@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-power-of-curiosity/","tags":["ath"],"updated":"2025-05-25T11:00:36.091-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-power-of-curiosity/","tags":["ath"],"updated":"2025-05-25T10:00:36.091-07:00"}
 ---
 
 

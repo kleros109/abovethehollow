@@ -1,22 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/quotes/","updated":"2025-05-25T14:06:21.207-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/quotes/","updated":"2025-05-25T13:06:21.207-07:00"}
 ---
 
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[07 Digital Garden/Success cannot be pursued\|Success cannot be pursued]]                                                                               |
+| [[07 Digital Garden/The depth of understanding\|The depth of understanding]]                                                                             |
+| [[07 Digital Garden/Satisfaction from action\|Satisfaction from action]]                                                                                 |
 | [[07 Digital Garden/Stop to look fear in the face\|Stop to look fear in the face]]                                                                       |
 | [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           |
+| [[07 Digital Garden/Develop into a lifelong learner\|Develop into a lifelong learner]]                                                                   |
+| [[07 Digital Garden/Do not long for nor fear the next day\|Do not long for nor fear the next day]]                                                       |
 | [[07 Digital Garden/The art of thoughtful elimination\|The art of thoughtful elimination]]                                                               |
 | [[07 Digital Garden/Start where you are\|Start where you are]]                                                                                           |
 | [[07 Digital Garden/Paul Graham Quotes\|Paul Graham Quotes]]                                                                                             |
 | [[07 Digital Garden/Act to cancel out stupid behavior\|Act to cancel out stupid behavior]]                                                               |
-| [[07 Digital Garden/Develop into a lifelong learner\|Develop into a lifelong learner]]                                                                   |
-| [[07 Digital Garden/Satisfaction from action\|Satisfaction from action]]                                                                                 |
-| [[07 Digital Garden/The depth of understanding\|The depth of understanding]]                                                                             |
 | [[07 Digital Garden/Mastery is the best goal\|Mastery is the best goal]]                                                                                 |
-| [[07 Digital Garden/Do not long for nor fear the next day\|Do not long for nor fear the next day]]                                                       |
 | [[07 Digital Garden/Anne Lamont on good relationships\|Anne Lamont on good relationships]]                                                               |
 | [[07 Digital Garden/Action is the medium for ethics\|Action is the medium for ethics]]                                                                   |
 | [[07 Digital Garden/Peace and time\|Peace and time]]                                                                                                     |
@@ -47,10 +47,11 @@
 
 | Note                                                                                                                                                                                                                                                                                             | Updated    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| [[04 Clippings/Readwise/Articles/Shane Parrish (FS) - Brain Food Guided by Beauty\|Shane Parrish (FS) - Brain Food Guided by Beauty]]                                                                                                                                                         | 2025-07-23 |
-| [[02 Notes/Above the Hollow 47\|Above the Hollow 47]]                                                                                                                                                                                                                                         | 2025-07-19 |
-| [[04 Clippings/Readwise/Articles/Tim Ferriss - 5-Bullet Friday — Why You’re Not Late, Japanese Binaural Jazz, Peyote Conservation, and a Relaxing Realization\|Tim Ferriss - 5-Bullet Friday — Why You’re Not Late, Japanese Binaural Jazz, Peyote Conservation, and a Relaxing Realization]] | 2025-07-12 |
-| [[04 Clippings/Readwise/Articles/Jawad Mian - Stay Human\|Jawad Mian - Stay Human]]                                                                                                                                                                                                           | 2025-07-12 |
+| [[TODO\|TODO]]                                                                                                                                                                                                                                                                                | 2025-07-27 |
+| [[04 Clippings/Readwise/Articles/Shane Parrish (FS) - Brain Food Guided by Beauty\|Shane Parrish (FS) - Brain Food Guided by Beauty]]                                                                                                                                                         | 2025-07-27 |
+| [[04 Clippings/Readwise/Articles/Tim Ferriss - 5-Bullet Friday — Why You’re Not Late, Japanese Binaural Jazz, Peyote Conservation, and a Relaxing Realization\|Tim Ferriss - 5-Bullet Friday — Why You’re Not Late, Japanese Binaural Jazz, Peyote Conservation, and a Relaxing Realization]] | 2025-07-27 |
+| [[04 Clippings/Readwise/Articles/Jawad Mian - Stay Human\|Jawad Mian - Stay Human]]                                                                                                                                                                                                           | 2025-07-27 |
+| [[02 Notes/Above the Hollow 47\|Above the Hollow 47]]                                                                                                                                                                                                                                         | 2025-07-27 |
 | [[04 Clippings/Paul Tudor Jones on market strategy\|Paul Tudor Jones on market strategy]]                                                                                                                                                                                                     | 2025-05-24 |
 | [[02 Notes/Voicenotes/2025-01-08 Questioning Assumptions\|2025-01-08 Questioning Assumptions]]                                                                                                                                                                                                | 2025-04-07 |
 | [[02 Notes/Voicenotes/2024-12-29 Mind and the Illusion of Tomorrow\|2024-12-29 Mind and the Illusion of Tomorrow]]                                                                                                                                                                            | 2025-04-06 |

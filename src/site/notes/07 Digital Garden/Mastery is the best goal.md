@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/mastery-is-the-best-goal/","tags":["ath","quotes","advice"],"updated":"2025-05-30T09:30:45.588-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/mastery-is-the-best-goal/","tags":["ath","quotes","advice"],"updated":"2025-05-30T08:30:45.588-07:00"}
 ---
 
 

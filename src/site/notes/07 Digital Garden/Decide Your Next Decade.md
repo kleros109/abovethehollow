@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/decide-your-next-decade/","tags":["ath","careers"],"updated":"2025-05-24T10:40:30.813-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/decide-your-next-decade/","tags":["ath","careers"],"updated":"2025-05-24T09:40:30.813-07:00"}
 ---
 
 What could you do in the next ten years if you knew you could focus on anything you chose?

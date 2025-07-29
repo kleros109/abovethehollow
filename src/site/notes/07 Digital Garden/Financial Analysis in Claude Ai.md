@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/financial-analysis-in-claude-ai/","tags":["AI"],"updated":"2025-05-24T10:43:31.506-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/financial-analysis-in-claude-ai/","tags":["AI"],"updated":"2025-05-24T09:43:31.506-07:00"}
 ---
 
 1. Sign up for Claude here using your Google account - [Claude](https://claude.ai/)

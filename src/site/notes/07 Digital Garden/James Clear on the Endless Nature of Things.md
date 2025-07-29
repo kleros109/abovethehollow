@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/james-clear-on-the-endless-nature-of-things/","tags":["quotes","ath"],"updated":"2025-07-12T13:56:41.259-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/james-clear-on-the-endless-nature-of-things/","tags":["quotes","ath"],"updated":"2025-07-27T15:55:57.999-07:00"}
 ---
 
 

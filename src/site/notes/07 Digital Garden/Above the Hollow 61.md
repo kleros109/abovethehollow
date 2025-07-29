@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-61/","tags":["ath"],"updated":"2025-07-21T17:04:38.690-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-61/","tags":["ath"],"updated":"2025-07-21T16:04:38.690-07:00"}
 ---
 
 ## Productivity and Time Management

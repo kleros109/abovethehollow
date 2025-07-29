@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-core-of-stoicism/","tags":["ath"],"updated":"2025-06-15T21:00:27.413-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-core-of-stoicism/","tags":["ath"],"updated":"2025-06-15T20:00:27.413-07:00"}
 ---
 
 From [[04 Clippings/Readwise/Books/Marcus Aurelius - Meditations\|Marcus Aurelius - Meditations]]:

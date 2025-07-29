@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/satisfaction-from-action/","tags":["ath","quotes"],"updated":"2025-06-01T11:29:53.235-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/satisfaction-from-action/","tags":["ath","quotes"],"updated":"2025-07-27T15:55:58.000-07:00"}
 ---
 
 

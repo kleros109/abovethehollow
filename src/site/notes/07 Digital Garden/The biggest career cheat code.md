@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-biggest-career-cheat-code/","updated":"2025-06-28T15:15:48.916-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-biggest-career-cheat-code/","updated":"2025-06-28T14:15:48.916-07:00"}
 ---
 
 From [[Dave Kline\|Dave Kline]] [here:](https://twitter.com/dklineii/status/1855612257939435573/?rw_tt_thread=True)

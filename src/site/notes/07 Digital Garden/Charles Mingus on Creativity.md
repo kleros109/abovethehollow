@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/charles-mingus-on-creativity/","tags":["readwise","ath"],"updated":"2025-05-24T10:43:31.486-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/charles-mingus-on-creativity/","tags":["readwise","ath"],"updated":"2025-05-24T09:43:31.486-07:00"}
 ---
 
 ## Summary

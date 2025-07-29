@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/how-to-thrive-as-ai-models-change-industries/","tags":["AI"],"updated":"2025-07-26T09:46:18.021-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/how-to-thrive-as-ai-models-change-industries/","tags":["AI"],"updated":"2025-07-27T15:55:57.999-07:00"}
 ---
 
 ## Insights from my Readwise highlights 

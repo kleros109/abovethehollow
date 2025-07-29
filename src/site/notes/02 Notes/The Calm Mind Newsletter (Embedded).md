@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/the-calm-mind-newsletter-embedded/","updated":"2025-06-27T13:54:54.986-06:00"}
+{"dg-publish":true,"permalink":"/02-notes/the-calm-mind-newsletter-embedded/","updated":"2025-06-27T12:54:54.986-07:00"}
 ---
 
 

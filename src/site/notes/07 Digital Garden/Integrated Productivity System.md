@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/integrated-productivity-system/","tags":["productivity"],"updated":"2025-05-24T10:40:30.919-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/integrated-productivity-system/","tags":["productivity"],"updated":"2025-05-24T09:40:30.919-07:00"}
 ---
 
 

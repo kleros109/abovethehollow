@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/that-might-be-the-wrong-question/","tags":["ath"],"updated":"2025-05-24T11:24:55.908-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/that-might-be-the-wrong-question/","tags":["ath"],"updated":"2025-05-24T10:24:55.908-07:00"}
 ---
 
 

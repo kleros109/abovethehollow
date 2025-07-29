@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/you-don-t-want-maximum-effectiveness/","tags":["ath","evergreen"],"updated":"2025-04-18T02:29:10.343-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/you-don-t-want-maximum-effectiveness/","tags":["ath","evergreen"],"updated":"2025-04-18T01:29:10.343-07:00"}
 ---
 
 

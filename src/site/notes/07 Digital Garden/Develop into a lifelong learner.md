@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/develop-into-a-lifelong-learner/","tags":["ath","quotes"],"updated":"2025-06-02T11:07:21.720-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/develop-into-a-lifelong-learner/","tags":["ath","quotes"],"updated":"2025-07-27T15:55:57.998-07:00"}
 ---
 
 

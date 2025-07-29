@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/chimichurri/","tags":["ath","recipes"],"updated":"2025-05-31T16:53:49.178-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/chimichurri/","tags":["ath","recipes"],"updated":"2025-05-31T15:53:49.178-07:00"}
 ---
 
 

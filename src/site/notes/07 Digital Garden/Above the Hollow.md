@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-07-28T17:39:57.695-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-07-28T18:22:58.580-07:00"}
 ---
 
 ![Revue Banner.png](/img/user/06%20Utilities/Attachments/Revue%20Banner.png)
@@ -16,12 +16,11 @@ I've created the [[07 Digital Garden/Newsletter\|Newsletter]] to summarize recen
 
 The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my family group chat or [[07 Digital Garden/Newsletter\|Newsletter]] These notes and others have been categorized into [[07 Digital Garden/Topics\|Topics]].  A selection of topics to get you started are shown below:
 
-![[Topics.base]]
 - [[07 Digital Garden/Advice\|Advice]]
 - [[07 Digital Garden/AI\|AI]]
 - [[07 Digital Garden/Bread\|Bread]]
 - [[07 Digital Garden/Careers\|Careers]]
-- [[07 Digital Garden/Claude Code\|Claude Code]]
+- [[07 Digital Garden/Code\|Code]]
 - [[07 Digital Garden/Culinary\|Culinary]]
 - [[07 Digital Garden/Evergreen\|Evergreen]]
 - [[07 Digital Garden/Favorites\|Favorites]]
@@ -46,6 +45,9 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
+- [[07 Digital Garden/Thomas Laffon at All-in Summitt 2024\|Thomas Laffon at All-in Summitt 2024]]
+- [[07 Digital Garden/Code\|Code]]
+- [[07 Digital Garden/Personal Development\|Personal Development]]
 - [[07 Digital Garden/Focaccia from Radio Bakery\|Focaccia from Radio Bakery]]
 - [[07 Digital Garden/Claude Code Best Practices by Anthropic Teams\|Claude Code Best Practices by Anthropic Teams]]
 - [[07 Digital Garden/The Secret to Claude Code Isn't Better Prompts.\|The Secret to Claude Code Isn't Better Prompts.]]
@@ -53,9 +55,6 @@ Here are the 10 most recent changes to my notes. A more comprehensive list of ch
 - [[07 Digital Garden/Subtraction is a powerful tool\|Subtraction is a powerful tool]]
 - [[07 Digital Garden/Success cannot be pursued\|Success cannot be pursued]]
 - [[07 Digital Garden/The Ultimate Sourdough Bulk Fermentation Guide\|The Ultimate Sourdough Bulk Fermentation Guide]]
-- [[07 Digital Garden/The depth of understanding\|The depth of understanding]]
-- [[07 Digital Garden/The magic behind things that don't change\|The magic behind things that don't change]]
-- [[07 Digital Garden/The power of acting early\|The power of acting early]]
 
 { .block-language-dataview}
 

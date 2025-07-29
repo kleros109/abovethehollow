@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/success-is-nothing-more-than-moving-from-one-failure-to-the-next/","tags":["ath","evergreen"],"updated":"2025-04-19T12:45:23.687-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/success-is-nothing-more-than-moving-from-one-failure-to-the-next/","tags":["ath","evergreen"],"updated":"2025-04-19T11:45:23.687-07:00"}
 ---
 
 

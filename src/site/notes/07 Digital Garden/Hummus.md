@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/hummus/","tags":["recipes"],"updated":"2025-05-24T10:40:30.892-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/hummus/","tags":["recipes"],"updated":"2025-05-24T09:40:30.892-07:00"}
 ---
 
 url:: [https://youtu.be/88ljbueBLBw](https://youtu.be/88ljbueBLBw)

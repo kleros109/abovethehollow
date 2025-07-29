@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/do-not-long-for-nor-fear-the-next-day/","tags":["ath","quotes"],"updated":"2025-05-28T18:09:05.749-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/do-not-long-for-nor-fear-the-next-day/","tags":["ath","quotes"],"updated":"2025-07-27T15:55:57.998-07:00"}
 ---
 
 From *On the Shortness of Life by [[02 Notes/Seneca\|Seneca]]*:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/consider-the-outside-point-of-view/","tags":["evergreen"],"updated":"2025-04-20T12:18:32.579-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/consider-the-outside-point-of-view/","tags":["evergreen"],"updated":"2025-04-20T11:18:32.579-07:00"}
 ---
 
 ## Highlight

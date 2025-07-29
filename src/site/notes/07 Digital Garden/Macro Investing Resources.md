@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/macro-investing-resources/","tags":["investing"],"updated":"2025-05-24T10:43:31.563-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/macro-investing-resources/","tags":["investing"],"updated":"2025-05-24T09:43:31.563-07:00"}
 ---
 
 ## Investors

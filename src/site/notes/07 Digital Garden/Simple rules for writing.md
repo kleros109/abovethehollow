@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/simple-rules-for-writing/","tags":["ath"],"updated":"2025-06-29T10:15:30.824-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/simple-rules-for-writing/","tags":["ath"],"updated":"2025-06-29T09:15:30.824-07:00"}
 ---
 
 ## David Perell's rules for writing:  

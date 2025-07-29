@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/shane-parrish-on-confidence-vs-competenece/","tags":["quotes","ath"],"updated":"2025-05-24T10:40:31.056-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/shane-parrish-on-confidence-vs-competenece/","tags":["quotes","ath"],"updated":"2025-05-24T09:40:31.056-07:00"}
 ---
 
 

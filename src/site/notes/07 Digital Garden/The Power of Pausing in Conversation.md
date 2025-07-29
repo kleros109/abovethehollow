@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/the-power-of-pausing-in-conversation/","title":"The Power of Pausing in Conversation","tags":["videos","advice"],"updated":"2025-06-01T13:49:27.897-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/the-power-of-pausing-in-conversation/","title":"The Power of Pausing in Conversation","tags":["videos","advice"],"updated":"2025-06-01T12:49:27.897-07:00"}
 ---
 
 # Key Findings

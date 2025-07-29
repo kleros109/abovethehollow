@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/always-go-to-the-funeral/","tags":["evergreen","ath"],"updated":"2025-04-18T02:37:04.648-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/always-go-to-the-funeral/","tags":["evergreen","ath"],"updated":"2025-04-18T01:37:04.648-07:00"}
 ---
 
 

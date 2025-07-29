@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/expand-interestingly-prompt/","tags":["AI"],"updated":"2025-05-24T10:43:31.507-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/expand-interestingly-prompt/","tags":["AI"],"updated":"2025-05-24T09:43:31.507-07:00"}
 ---
 
 ## Prompt Part: Expand interestingly

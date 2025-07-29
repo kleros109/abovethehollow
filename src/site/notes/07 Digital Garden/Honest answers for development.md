@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/honest-answers-for-development/","tags":["ath","careers"],"updated":"2025-05-24T10:40:30.875-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/honest-answers-for-development/","tags":["ath","careers"],"updated":"2025-05-24T09:40:30.875-07:00"}
 ---
 
 

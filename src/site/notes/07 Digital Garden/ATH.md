@@ -1,17 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/ath/","updated":"2025-04-05T15:13:56.630-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/ath/","updated":"2025-04-05T14:13:56.630-07:00"}
 ---
 
 
 | Note                                                                                                                                                        | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Big ideas come from the unconscious\|Big ideas come from the unconscious]]                                                           | 2025-07-27 |
+| [[07 Digital Garden/Develop into a lifelong learner\|Develop into a lifelong learner]]                                                                   | 2025-07-27 |
+| [[07 Digital Garden/Do not long for nor fear the next day\|Do not long for nor fear the next day]]                                                       | 2025-07-27 |
+| [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           | 2025-07-27 |
+| [[07 Digital Garden/Love is a decision\|Love is a decision]]                                                                                             | 2025-07-27 |
+| [[07 Digital Garden/Satisfaction from action\|Satisfaction from action]]                                                                                 | 2025-07-27 |
+| [[07 Digital Garden/The Ultimate Sourdough Bulk Fermentation Guide\|The Ultimate Sourdough Bulk Fermentation Guide]]                                     | 2025-07-27 |
+| [[07 Digital Garden/The depth of understanding\|The depth of understanding]]                                                                             | 2025-07-27 |
 | [[07 Digital Garden/Above the Hollow 62\|Above the Hollow 62]]                                                                                           | 2025-07-26 |
 | [[07 Digital Garden/Above the Hollow 61\|Above the Hollow 61]]                                                                                           | 2025-07-21 |
-| [[07 Digital Garden/Love is a decision\|Love is a decision]]                                                                                             | 2025-07-14 |
 | [[07 Digital Garden/Above the Hollow 60\|Above the Hollow 60]]                                                                                           | 2025-07-12 |
-| [[07 Digital Garden/Big ideas come from the unconscious\|Big ideas come from the unconscious]]                                                           | 2025-07-12 |
-| [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           | 2025-07-12 |
-| [[07 Digital Garden/The Ultimate Sourdough Bulk Fermentation Guide\|The Ultimate Sourdough Bulk Fermentation Guide]]                                     | 2025-07-12 |
 | [[07 Digital Garden/9 Life Lessons from Tim Minchin\|9 Life Lessons from Tim Minchin]]                                                                   | 2025-07-05 |
 | [[07 Digital Garden/Above the Hollow 59\|Above the Hollow 59]]                                                                                           | 2025-07-05 |
 | [[07 Digital Garden/Marc Andreessen on Productivity\|Marc Andreessen on Productivity]]                                                                   | 2025-07-05 |
@@ -46,7 +50,6 @@
 | [[07 Digital Garden/Wisdom means discerning when to change you opinions\|Wisdom means discerning when to change you opinions]]                           | 2025-06-07 |
 | [[07 Digital Garden/Act to cancel out stupid behavior\|Act to cancel out stupid behavior]]                                                               | 2025-06-04 |
 | [[07 Digital Garden/Blind Spots Prompt\|Blind Spots Prompt]]                                                                                             | 2025-06-02 |
-| [[07 Digital Garden/Develop into a lifelong learner\|Develop into a lifelong learner]]                                                                   | 2025-06-02 |
 | [[07 Digital Garden/Global News Prompt\|Global News Prompt]]                                                                                             | 2025-06-02 |
 | [[07 Digital Garden/Meta Prompt\|Meta Prompt]]                                                                                                           | 2025-06-02 |
 | [[07 Digital Garden/Super Whisper Reformat Message Prompt\|Super Whisper Reformat Message Prompt]]                                                       | 2025-06-02 |
@@ -54,11 +57,8 @@
 | [[07 Digital Garden/Adam Grant Highlights\|Adam Grant Highlights]]                                                                                       | 2025-06-01 |
 | [[07 Digital Garden/Habits are the compound interest of self-improvement\|Habits are the compound interest of self-improvement]]                         | 2025-06-01 |
 | [[07 Digital Garden/Knowledge Work Is Dying—Here’s What Comes Next\|Knowledge Work Is Dying—Here’s What Comes Next]]                                     | 2025-06-01 |
-| [[07 Digital Garden/Satisfaction from action\|Satisfaction from action]]                                                                                 | 2025-06-01 |
 | [[07 Digital Garden/Chimichurri\|Chimichurri]]                                                                                                           | 2025-05-31 |
 | [[07 Digital Garden/Mastery is the best goal\|Mastery is the best goal]]                                                                                 | 2025-05-30 |
-| [[07 Digital Garden/The depth of understanding\|The depth of understanding]]                                                                             | 2025-05-30 |
-| [[07 Digital Garden/Do not long for nor fear the next day\|Do not long for nor fear the next day]]                                                       | 2025-05-28 |
 | [[07 Digital Garden/Hydration Guidelines\|Hydration Guidelines]]                                                                                         | 2025-05-28 |
 | [[07 Digital Garden/Newsletter\|Newsletter]]                                                                                                             | 2025-05-27 |
 | [[07 Digital Garden/Education needs tending\|Education needs tending]]                                                                                   | 2025-05-26 |

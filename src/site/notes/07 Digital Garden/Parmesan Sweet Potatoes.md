@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/parmesan-sweet-potatoes/","tags":["recipes"],"updated":"2025-05-24T10:40:30.991-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/parmesan-sweet-potatoes/","tags":["recipes"],"updated":"2025-05-24T09:40:30.991-07:00"}
 ---
 
 I loooove sweet potatoes but sometimes I get bored of them and want to switch it up, so this crispy parmesan version is my new obsession. they’re SO easy and they make the best side dish for pretty much anything — eggs, chicken, fish or even in a veggie bowl. recipe below!

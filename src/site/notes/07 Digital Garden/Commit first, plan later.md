@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/commit-first-plan-later/","tags":["advice"],"updated":"2025-06-21T13:51:17.535-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/commit-first-plan-later/","tags":["advice"],"updated":"2025-06-21T12:51:17.535-07:00"}
 ---
 
 From [[Herbert Lui\|Herbert Lui]] [here.](https://herbertlui.net/commit-first-plan-later/)

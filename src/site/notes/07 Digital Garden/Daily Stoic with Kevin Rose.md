@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/daily-stoic-with-kevin-rose/","tags":["ath"],"updated":"2025-05-24T10:40:30.803-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/daily-stoic-with-kevin-rose/","tags":["ath"],"updated":"2025-05-24T09:40:30.803-07:00"}
 ---
 
 

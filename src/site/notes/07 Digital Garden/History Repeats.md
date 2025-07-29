@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/history-repeats/","tags":["clippings"],"updated":"2025-07-26T09:44:07.849-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/history-repeats/","tags":["clippings"],"updated":"2025-07-27T15:55:57.999-07:00"}
 ---
 
 Original article from [[03 References/Jawad Mian\|Jawad Mian]] in Stray Reflections [here](https://strayreflections.substack.com/p/history-repeats)

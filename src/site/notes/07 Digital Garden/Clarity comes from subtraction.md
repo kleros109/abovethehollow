@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/clarity-comes-from-subtraction/","updated":"2025-06-28T15:41:09.640-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/clarity-comes-from-subtraction/","updated":"2025-06-28T14:41:09.640-07:00"}
 ---
 
 

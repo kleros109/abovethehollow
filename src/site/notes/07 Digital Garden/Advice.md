@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/advice/","updated":"2025-05-25T14:02:21.093-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/advice/","updated":"2025-05-25T13:02:21.093-07:00"}
 ---
 
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[07 Digital Garden/Principles from Nabeel S. Qureshi\|Principles from Nabeel S. Qureshi]]                                                               |
 | [[07 Digital Garden/Success cannot be pursued\|Success cannot be pursued]]                                                                               |
 | [[07 Digital Garden/You don’t have to be good\|You don’t have to be good]]                                                                               |
-| [[07 Digital Garden/Eric Weinstein on DOAC Podcast\|Eric Weinstein on DOAC Podcast]]                                                                     |
+| [[07 Digital Garden/Principles from Nabeel S. Qureshi\|Principles from Nabeel S. Qureshi]]                                                               |
 | [[07 Digital Garden/James Clear on the Endless Nature of Things\|James Clear on the Endless Nature of Things]]                                           |
+| [[07 Digital Garden/Eric Weinstein on DOAC Podcast\|Eric Weinstein on DOAC Podcast]]                                                                     |
 | [[07 Digital Garden/9 Life Lessons from Tim Minchin\|9 Life Lessons from Tim Minchin]]                                                                   |
 | [[07 Digital Garden/Endless curiosity drives action\|Endless curiosity drives action]]                                                                   |
 | [[07 Digital Garden/Simple rules for writing\|Simple rules for writing]]                                                                                 |

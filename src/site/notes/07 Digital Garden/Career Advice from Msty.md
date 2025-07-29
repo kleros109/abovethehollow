@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/career-advice-from-msty/","tags":["ath","careers"],"updated":"2025-05-24T10:40:30.727-06:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/career-advice-from-msty/","tags":["ath","careers"],"updated":"2025-05-24T09:40:30.727-07:00"}
 ---
 
 ## Career Advice Overview
