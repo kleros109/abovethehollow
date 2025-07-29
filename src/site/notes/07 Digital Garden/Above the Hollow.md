@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-07-28T18:22:58.580-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-07-28T19:20:43.756-07:00"}
 ---
 
 ![Revue Banner.png](/img/user/06%20Utilities/Attachments/Revue%20Banner.png)
@@ -16,6 +16,7 @@ I've created the [[07 Digital Garden/Newsletter\|Newsletter]] to summarize recen
 
 The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my family group chat or [[07 Digital Garden/Newsletter\|Newsletter]] These notes and others have been categorized into [[07 Digital Garden/Topics\|Topics]].  A selection of topics to get you started are shown below:
 
+![[Topics.base]]
 - [[07 Digital Garden/Advice\|Advice]]
 - [[07 Digital Garden/AI\|AI]]
 - [[07 Digital Garden/Bread\|Bread]]
