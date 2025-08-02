@@ -1,19 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-63/","tags":["ath"],"updated":"2025-08-02T11:44:03.733-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-63/","tags":["ath"],"updated":"2025-08-02T11:52:24.382-07:00"}
 ---
 
 Here is a summary of all notes added to my digital garden this week. Each summary captures the main takeaway and includes a link to the original file.
 
 ## Productivity and Time Management
 
+**Role Of Clear Communication In Success**
+Most failures aren't about skill gaps—they're about communication gaps. When expectations remain unspoken and assumptions go unchecked, even talented teams stumble. The trust formula shows that clear, reliable communication isn't just nice to have; it's the foundation that makes everything else possible. [[07 Digital Garden/Role of clear communication in success\|Role of clear communication in success]]
+
 **If You Think Life Is Boring, Try This Notebook Trick**
 Matt Ragland's three-step storytelling framework turns ordinary moments into compelling narratives by finding change, emotion, and resolution. When you start looking for stories in your daily life, you'll discover that boredom isn't about lacking interesting experiences—it's about not noticing the stories already happening around you. [[07 Digital Garden/If You Think Life Is Boring, Try This Notebook Trick\|If You Think Life Is Boring, Try This Notebook Trick]]
 
 **Journal Story Prompt**
 Sometimes the most profound insights come from the simple act of asking better questions. This journaling technique helps you uncover the stories you're telling yourself and examine whether they're serving your growth or holding you back. [[07 Digital Garden/Journal Story Prompt\|Journal Story Prompt]]
-
-**Role Of Clear Communication In Success**
-Most failures aren't about skill gaps—they're about communication gaps. When expectations remain unspoken and assumptions go unchecked, even talented teams stumble. The trust formula shows that clear, reliable communication isn't just nice to have; it's the foundation that makes everything else possible. [[07 Digital Garden/Role of clear communication in success\|Role of clear communication in success]]
 
 ## Philosophy and Wisdom
 
