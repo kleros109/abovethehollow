@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-63/","tags":["ath"],"updated":"2025-08-02T11:33:54.111-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow-63/","tags":["ath"],"updated":"2025-08-02T11:44:03.733-07:00"}
 ---
 
 Here is a summary of all notes added to my digital garden this week. Each summary captures the main takeaway and includes a link to the original file.
@@ -30,9 +30,6 @@ Dan Shipper's journey building an AI-native startup with 7-figure revenue and 10
 
 **5 Secret Claude Code Features You Need To Know About**
 Advanced Claude Code functionalities including automated documentation, subagents for task specialization, GitHub integration hooks, think modes, and custom rules in CLAUDE.md. These features transform how developers work with AI assistance. [[07 Digital Garden/5 Secret Claude Code features you need to know about\|5 Secret Claude Code features you need to know about]]
-
-**Claude Code Best Practices By Anthropic Teams**
-Direct insights from the teams building Claude Code on how to get the most out of AI-assisted development. These aren't theoretical tips—they're battle-tested practices from people shipping production code with AI daily. [[07 Digital Garden/Claude Code Best Practices by Anthropic Teams\|Claude Code Best Practices by Anthropic Teams]]
 
 ## Culinary
 
