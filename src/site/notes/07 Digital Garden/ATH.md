@@ -5,6 +5,7 @@
 
 | Note                                                                                                                                                        | Updated    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Above the Hollow 63\|Above the Hollow 63]]                                                                                           | 2025-08-02 |
 | [[07 Digital Garden/Big ideas come from the unconscious\|Big ideas come from the unconscious]]                                                           | 2025-07-27 |
 | [[07 Digital Garden/Develop into a lifelong learner\|Develop into a lifelong learner]]                                                                   | 2025-07-27 |
 | [[07 Digital Garden/Do not long for nor fear the next day\|Do not long for nor fear the next day]]                                                       | 2025-07-27 |
@@ -61,9 +62,9 @@
 | [[07 Digital Garden/Mastery is the best goal\|Mastery is the best goal]]                                                                                 | 2025-05-30 |
 | [[07 Digital Garden/Hydration Guidelines\|Hydration Guidelines]]                                                                                         | 2025-05-28 |
 | [[07 Digital Garden/Newsletter\|Newsletter]]                                                                                                             | 2025-05-27 |
-| [[07 Digital Garden/Education needs tending\|Education needs tending]]                                                                                   | 2025-05-26 |
 | [[07 Digital Garden/Focus on the next small step\|Focus on the next small step]]                                                                         | 2025-05-26 |
 | [[07 Digital Garden/Good relationships are key to happiness\|Good relationships are key to happiness]]                                                   | 2025-05-26 |
+| [[07 Digital Garden/Education needs tending\|Education needs tending]]                                                                                   | 2025-05-26 |
 | [[07 Digital Garden/A Simple Format for Herb Sauces\|A Simple Format for Herb Sauces]]                                                                   | 2025-05-25 |
 | [[07 Digital Garden/Curiosity - A Collection of Insights\|Curiosity - A Collection of Insights]]                                                         | 2025-05-25 |
 | [[07 Digital Garden/The power of curiosity\|The power of curiosity]]                                                                                     | 2025-05-25 |
@@ -84,11 +85,11 @@
 | [[07 Digital Garden/Cognitive shifts are productivity poison\|Cognitive shifts are productivity poison]]                                                 | 2025-05-24 |
 | [[07 Digital Garden/Concise explanations accelerate progress\|Concise explanations accelerate progress]]                                                 | 2025-05-24 |
 | [[07 Digital Garden/Create a society of product owners rather than consumers\|Create a society of product owners rather than consumers]]                 | 2025-05-24 |
-| [[07 Digital Garden/Daily Stoic with Kevin Rose\|Daily Stoic with Kevin Rose]]                                                                           | 2025-05-24 |
 | [[07 Digital Garden/Decide Your Next Decade\|Decide Your Next Decade]]                                                                                   | 2025-05-24 |
-| [[07 Digital Garden/Do the work to get the results\|Do the work to get the results]]                                                                     | 2025-05-24 |
+| [[07 Digital Garden/Daily Stoic with Kevin Rose\|Daily Stoic with Kevin Rose]]                                                                           | 2025-05-24 |
 | [[07 Digital Garden/Do what you’re doing\|Do what you’re doing]]                                                                                         | 2025-05-24 |
 | [[07 Digital Garden/Don't waste today\|Don't waste today]]                                                                                               | 2025-05-24 |
+| [[07 Digital Garden/Do the work to get the results\|Do the work to get the results]]                                                                     | 2025-05-24 |
 | [[07 Digital Garden/First Therapy Chatbot Trial\|First Therapy Chatbot Trial]]                                                                           | 2025-05-24 |
 | [[07 Digital Garden/Having a hobby mindset\|Having a hobby mindset]]                                                                                     | 2025-05-24 |
 | [[07 Digital Garden/Honest answers for development\|Honest answers for development]]                                                                     | 2025-05-24 |
@@ -103,12 +104,12 @@
 | [[07 Digital Garden/Looking fear in the face\|Looking fear in the face]]                                                                                 | 2025-05-24 |
 | [[07 Digital Garden/Momentum is powerful\|Momentum is powerful]]                                                                                         | 2025-05-24 |
 | [[07 Digital Garden/Most are neither for you nor against you\|Most are neither for you nor against you]]                                                 | 2025-05-24 |
-| [[07 Digital Garden/N8N Cheat Sheet\|N8N Cheat Sheet]]                                                                                                   | 2025-05-24 |
 | [[07 Digital Garden/Pasta all’Amatriciana\|Pasta all’Amatriciana]]                                                                                       | 2025-05-24 |
 | [[07 Digital Garden/Peace and time\|Peace and time]]                                                                                                     | 2025-05-24 |
 | [[07 Digital Garden/Persistence increases our power in doing\|Persistence increases our power in doing]]                                                 | 2025-05-24 |
 | [[07 Digital Garden/Peter Kaufman on the real value of things\|Peter Kaufman on the real value of things]]                                               | 2025-05-24 |
 | [[07 Digital Garden/Process leads to purpose\|Process leads to purpose]]                                                                                 | 2025-05-24 |
+| [[07 Digital Garden/N8N Cheat Sheet\|N8N Cheat Sheet]]                                                                                                   | 2025-05-24 |
 | [[07 Digital Garden/Questioning assumptions\|Questioning assumptions]]                                                                                   | 2025-05-24 |
 | [[07 Digital Garden/Rare skills are career capital\|Rare skills are career capital]]                                                                     | 2025-05-24 |
 | [[07 Digital Garden/Sahil Bloom on Simple Habits\|Sahil Bloom on Simple Habits]]                                                                         | 2025-05-24 |
@@ -116,12 +117,12 @@
 | [[07 Digital Garden/Scott Adams on success\|Scott Adams on success]]                                                                                     | 2025-05-24 |
 | [[07 Digital Garden/Selling is the crucial skill nobody taught you\|Selling is the crucial skill nobody taught you]]                                     | 2025-05-24 |
 | [[07 Digital Garden/Shane Parrish on confidence vs. competenece\|Shane Parrish on confidence vs. competenece]]                                           | 2025-05-24 |
-| [[07 Digital Garden/Showing up vs. disapearing\|Showing up vs. disapearing]]                                                                             | 2025-05-24 |
 | [[07 Digital Garden/That might be the wrong question\|That might be the wrong question]]                                                                 | 2025-05-24 |
-| [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]                                                                       | 2025-05-24 |
+| [[07 Digital Garden/Showing up vs. disapearing\|Showing up vs. disapearing]]                                                                             | 2025-05-24 |
 | [[07 Digital Garden/The goal is to become completely yourself\|The goal is to become completely yourself]]                                               | 2025-05-24 |
 | [[07 Digital Garden/The most useful form of patience Is persistence\|The most useful form of patience Is persistence]]                                   | 2025-05-24 |
 | [[07 Digital Garden/The true joy in life\|The true joy in life]]                                                                                         | 2025-05-24 |
+| [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]                                                                       | 2025-05-24 |
 | [[07 Digital Garden/Two questions for choosing a company to work with\|Two questions for choosing a company to work with]]                               | 2025-05-24 |
 | [[07 Digital Garden/Write an Incredible Resume\|Write an Incredible Resume]]                                                                             | 2025-05-24 |
 | [[07 Digital Garden/You’re sending emails during the wrong day and time\|You’re sending emails during the wrong day and time]]                           | 2025-05-24 |

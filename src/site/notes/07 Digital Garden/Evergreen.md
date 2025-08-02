@@ -17,6 +17,7 @@ An evergreen note is an idea. It doesn't have to be something that I agree with,
 
 | Note                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Breaking Free from Zero-Sum Thinking\|Breaking Free from Zero-Sum Thinking]]                                                         |
 | [[07 Digital Garden/The power of acting early\|The power of acting early]]                                                                               |
 | [[07 Digital Garden/Art lives through observer experiences\|Art lives through observer experiences]]                                                     |
 | [[07 Digital Garden/The calendar is the todo list\|The calendar is the todo list]]                                                                       |

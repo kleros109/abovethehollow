@@ -5,6 +5,7 @@
 
 | Note                                                                                                                                    | Updated    |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/Breaking Free from Zero-Sum Thinking\|Breaking Free from Zero-Sum Thinking]]                                     | 2025-08-02 |
 | [[07 Digital Garden/Creativity in simplifying complexity\|Creativity in simplifying complexity]]                                     | 2025-07-27 |
 | [[07 Digital Garden/Eric Weinstein on DOAC Podcast\|Eric Weinstein on DOAC Podcast]]                                                 | 2025-07-27 |
 | [[07 Digital Garden/History Repeats\|History Repeats]]                                                                               | 2025-07-27 |

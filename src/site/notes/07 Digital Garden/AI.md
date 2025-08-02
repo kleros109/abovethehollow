@@ -5,6 +5,8 @@
  
 | Note                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Lenny's Podcast Product Growth Career - Dan Shipper\|Lenny's Podcast Product Growth Career - Dan Shipper]] |
+| [[07 Digital Garden/Journal Story Prompt\|Journal Story Prompt]]                                                               |
 | [[07 Digital Garden/Claude Code Best Practices by Anthropic Teams\|Claude Code Best Practices by Anthropic Teams]]             |
 | [[07 Digital Garden/Prompt Engineer Prompt\|Prompt Engineer Prompt]]                                                           |
 | [[07 Digital Garden/How To 10x Your Notes Obsidian + Claude AI Agents\|How To 10x Your Notes Obsidian + Claude AI Agents]]     |

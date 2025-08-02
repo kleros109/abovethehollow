@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-07-28T19:32:49.193-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/above-the-hollow/","tags":["gardenEntry"],"updated":"2025-07-30T18:13:57.826-07:00"}
 ---
 
 ![Revue Banner.png](/img/user/06%20Utilities/Attachments/Revue%20Banner.png)
@@ -15,30 +15,28 @@ I've created the [[07 Digital Garden/Newsletter\|Newsletter]] to summarize recen
 ## Topics
 
 The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my family group chat or [[07 Digital Garden/Newsletter\|Newsletter]] These notes and others have been categorized into [[07 Digital Garden/Topics\|Topics]].  A selection of topics to get you started are shown below:
-| File                                                                |
-| ------------------------------------------------------------------- |
-| [[07 Digital Garden/Advice\|Advice]]                             |
-| [[07 Digital Garden/AI\|AI]]                                     |
-| [[07 Digital Garden/Bread\|Bread]]                               |
-| [[07 Digital Garden/Careers\|Careers]]                           |
-| [[07 Digital Garden/Code\|Code]]                                 |
-| [[07 Digital Garden/Culinary\|Culinary]]                         |
-| [[07 Digital Garden/Evergreen\|Evergreen]]                       |
-| [[07 Digital Garden/Favorites\|Favorites]]                       |
-| [[07 Digital Garden/Founders\|Founders]]                         |
-| [[07 Digital Garden/Health\|Health]]                             |
-| [[07 Digital Garden/Investing\|Investing]]                       |
-| [[07 Digital Garden/Leadership\|Leadership]]                     |
-| [[07 Digital Garden/Marketing\|Marketing]]                       |
-| [[07 Digital Garden/Personal Development\|Personal Development]] |
-| [[07 Digital Garden/Philosophy\|Philosophy]]                     |
-| [[07 Digital Garden/Pizza\|Pizza]]                               |
-| [[07 Digital Garden/Productivity\|Productivity]]                 |
-| [[07 Digital Garden/Quotes\|Quotes]]                             |
-| [[07 Digital Garden/Recipes\|Recipes]]                           |
-| [[07 Digital Garden/Relationships\|Relationships]]               |
-| [[07 Digital Garden/Stock Analysis\|Stock Analysis]]             |
-| [[07 Digital Garden/Wisdom\|Wisdom]]                             |
+- [[07 Digital Garden/Advice\|Advice]]
+- [[07 Digital Garden/AI\|AI]]
+- [[07 Digital Garden/Bread\|Bread]]
+- [[07 Digital Garden/Careers\|Careers]]
+- [[07 Digital Garden/Code\|Code]]
+- [[07 Digital Garden/Culinary\|Culinary]]
+- [[07 Digital Garden/Evergreen\|Evergreen]]
+- [[07 Digital Garden/Favorites\|Favorites]]
+- [[07 Digital Garden/Founders\|Founders]]
+- [[07 Digital Garden/Health\|Health]]
+- [[07 Digital Garden/Investing\|Investing]]
+- [[07 Digital Garden/Leadership\|Leadership]]
+- [[07 Digital Garden/Marketing\|Marketing]]
+- [[07 Digital Garden/Personal Development\|Personal Development]]
+- [[07 Digital Garden/Philosophy\|Philosophy]]
+- [[07 Digital Garden/Pizza\|Pizza]]
+- [[07 Digital Garden/Productivity\|Productivity]]
+- [[07 Digital Garden/Quotes\|Quotes]]
+- [[07 Digital Garden/Recipes\|Recipes]]
+- [[07 Digital Garden/Relationships\|Relationships]]
+- [[07 Digital Garden/Stock Analysis\|Stock Analysis]]
+- [[07 Digital Garden/Wisdom\|Wisdom]]
 
 { .block-language-dataview}
 
@@ -46,16 +44,16 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 ## Recent Notes
 
 Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
+- [[07 Digital Garden/Above the Hollow 63\|Above the Hollow 63]]
+- [[07 Digital Garden/Breaking Free from Zero-Sum Thinking\|Breaking Free from Zero-Sum Thinking]]
+- [[07 Digital Garden/Lenny's Podcast Product Growth Career - Dan Shipper\|Lenny's Podcast Product Growth Career - Dan Shipper]]
+- [[07 Digital Garden/If You Think Life Is Boring, Try This Notebook Trick\|If You Think Life Is Boring, Try This Notebook Trick]]
+- [[07 Digital Garden/5 Secret Claude Code features you need to know about\|5 Secret Claude Code features you need to know about]]
+- [[07 Digital Garden/It’s Not About Routine, but About Practice\|It’s Not About Routine, but About Practice]]
+- [[07 Digital Garden/Role of clear communication in success\|Role of clear communication in success]]
+- [[07 Digital Garden/Journal Story Prompt\|Journal Story Prompt]]
+- [[07 Digital Garden/Soreng Santi - Kuen Kuen Lueng Lueng (Black Sabbath's "Iron Man")\|Soreng Santi - Kuen Kuen Lueng Lueng (Black Sabbath's "Iron Man")]]
 - [[07 Digital Garden/Claude Code Best Practices by Anthropic Teams\|Claude Code Best Practices by Anthropic Teams]]
-- [[07 Digital Garden/The Secret to Claude Code Isn't Better Prompts.\|The Secret to Claude Code Isn't Better Prompts.]]
-- [[07 Digital Garden/Thomas Laffon at All-in Summitt 2024\|Thomas Laffon at All-in Summitt 2024]]
-- [[07 Digital Garden/Code\|Code]]
-- [[07 Digital Garden/Personal Development\|Personal Development]]
-- [[07 Digital Garden/Focaccia from Radio Bakery\|Focaccia from Radio Bakery]]
-- [[07 Digital Garden/Zone 2 Training from Readwise\|Zone 2 Training from Readwise]]
-- [[07 Digital Garden/Subtraction is a powerful tool\|Subtraction is a powerful tool]]
-- [[07 Digital Garden/Success cannot be pursued\|Success cannot be pursued]]
-- [[07 Digital Garden/The Ultimate Sourdough Bulk Fermentation Guide\|The Ultimate Sourdough Bulk Fermentation Guide]]
 
 { .block-language-dataview}
 
