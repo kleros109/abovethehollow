@@ -6,9 +6,11 @@ Here is a list of the 50 most recent changes to the garden.
 
 | File                                                                                                                                                          | Updated    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[07 Digital Garden/A Day Making NYC’s Most Hyped Pizza  On The Line  Bon Appétit\|A Day Making NYC’s Most Hyped Pizza  On The Line  Bon Appétit]]         | 2025-08-02 |
+| [[07 Digital Garden/Markdown Summary & Extract Wisdom Prompt\|Markdown Summary & Extract Wisdom Prompt]]                                                   | 2025-08-02 |
 | [[07 Digital Garden/Above the Hollow 63\|Above the Hollow 63]]                                                                                             | 2025-08-02 |
-| [[07 Digital Garden/Breaking Free from Zero-Sum Thinking\|Breaking Free from Zero-Sum Thinking]]                                                           | 2025-08-02 |
 | [[07 Digital Garden/Lenny's Podcast Product Growth Career - Dan Shipper\|Lenny's Podcast Product Growth Career - Dan Shipper]]                             | 2025-08-02 |
+| [[07 Digital Garden/Breaking Free from Zero-Sum Thinking\|Breaking Free from Zero-Sum Thinking]]                                                           | 2025-08-02 |
 | [[07 Digital Garden/If You Think Life Is Boring, Try This Notebook Trick\|If You Think Life Is Boring, Try This Notebook Trick]]                           | 2025-08-02 |
 | [[07 Digital Garden/5 Secret Claude Code features you need to know about\|5 Secret Claude Code features you need to know about]]                           | 2025-08-02 |
 | [[07 Digital Garden/It’s Not About Routine, but About Practice\|It’s Not About Routine, but About Practice]]                                               | 2025-08-02 |
@@ -31,9 +33,9 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/What makes a great manager\|What makes a great manager]]                                                                               | 2025-07-27 |
 | [[07 Digital Garden/What's safe in the short term is risky in the long term\|What's safe in the short term is risky in the long term]]                     | 2025-07-27 |
 | [[07 Digital Garden/You don’t have to be good\|You don’t have to be good]]                                                                                 | 2025-07-27 |
-| [[07 Digital Garden/Margin of safety is a secret weapon\|Margin of safety is a secret weapon]]                                                             | 2025-07-27 |
 | [[07 Digital Garden/Love is a decision\|Love is a decision]]                                                                                               | 2025-07-27 |
 | [[07 Digital Garden/Managing in an AI driven world\|Managing in an AI driven world]]                                                                       | 2025-07-27 |
+| [[07 Digital Garden/Margin of safety is a secret weapon\|Margin of safety is a secret weapon]]                                                             | 2025-07-27 |
 | [[07 Digital Garden/Principles from Nabeel S. Qureshi\|Principles from Nabeel S. Qureshi]]                                                                 | 2025-07-27 |
 | [[07 Digital Garden/Prompt Engineer Prompt\|Prompt Engineer Prompt]]                                                                                       | 2025-07-27 |
 | [[07 Digital Garden/Qualities for a significant impact on your results\|Qualities for a significant impact on your results]]                               | 2025-07-27 |
@@ -54,7 +56,5 @@ Here is a list of the 50 most recent changes to the garden.
 | [[07 Digital Garden/Do not long for nor fear the next day\|Do not long for nor fear the next day]]                                                         | 2025-07-27 |
 | [[07 Digital Garden/Eric Weinstein on DOAC Podcast\|Eric Weinstein on DOAC Podcast]]                                                                       | 2025-07-27 |
 | [[07 Digital Garden/1-2-3 Rule for Managers\|1-2-3 Rule for Managers]]                                                                                     | 2025-07-27 |
-| [[07 Digital Garden/4 Tiny Habits That Dramatically Improved My Weeks\|4 Tiny Habits That Dramatically Improved My Weeks]]                                 | 2025-07-27 |
-| [[07 Digital Garden/Above the Hollow 62\|Above the Hollow 62]]                                                                                             | 2025-07-26 |
 
 { .block-language-dataview}

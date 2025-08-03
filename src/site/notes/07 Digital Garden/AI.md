@@ -5,6 +5,7 @@
  
 | Note                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------- |
+| [[07 Digital Garden/Markdown Summary & Extract Wisdom Prompt\|Markdown Summary & Extract Wisdom Prompt]]                       |
 | [[07 Digital Garden/Lenny's Podcast Product Growth Career - Dan Shipper\|Lenny's Podcast Product Growth Career - Dan Shipper]] |
 | [[07 Digital Garden/Journal Story Prompt\|Journal Story Prompt]]                                                               |
 | [[07 Digital Garden/Claude Code Best Practices by Anthropic Teams\|Claude Code Best Practices by Anthropic Teams]]             |
@@ -30,7 +31,6 @@
 | [[07 Digital Garden/CIA Investigator Prompt\|CIA Investigator Prompt]]                                                         |
 | [[07 Digital Garden/Copilot System Prompt\|Copilot System Prompt]]                                                             |
 | [[07 Digital Garden/Blind Spots Prompt\|Blind Spots Prompt]]                                                                   |
-| [[07 Digital Garden/Markdown Summary & Extract Wisdom Prompt\|Markdown Summary & Extract Wisdom Prompt]]                       |
 | [[07 Digital Garden/Global News Prompt\|Global News Prompt]]                                                                   |
 | [[07 Digital Garden/Lesson Plan Prompt\|Lesson Plan Prompt]]                                                                   |
 | [[07 Digital Garden/Meta Prompt\|Meta Prompt]]                                                                                 |

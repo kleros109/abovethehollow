@@ -43,17 +43,17 @@ The notes tagged [[07 Digital Garden/ATH\|ATH]] have been initially shared in my
 ---
 ## Recent Notes
 
-Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[07 Digital Garden/changelog\|changelog]].
+Here are the 10 most recent changes to my notes. A more comprehensive list of changes to the digital garden can be seen in the [[CHANGELOG\|changelog]].
+- [[07 Digital Garden/A Day Making NYC’s Most Hyped Pizza  On The Line  Bon Appétit\|A Day Making NYC’s Most Hyped Pizza  On The Line  Bon Appétit]]
+- [[07 Digital Garden/Markdown Summary & Extract Wisdom Prompt\|Markdown Summary & Extract Wisdom Prompt]]
 - [[07 Digital Garden/Above the Hollow 63\|Above the Hollow 63]]
-- [[07 Digital Garden/Breaking Free from Zero-Sum Thinking\|Breaking Free from Zero-Sum Thinking]]
 - [[07 Digital Garden/Lenny's Podcast Product Growth Career - Dan Shipper\|Lenny's Podcast Product Growth Career - Dan Shipper]]
+- [[07 Digital Garden/Breaking Free from Zero-Sum Thinking\|Breaking Free from Zero-Sum Thinking]]
 - [[07 Digital Garden/If You Think Life Is Boring, Try This Notebook Trick\|If You Think Life Is Boring, Try This Notebook Trick]]
 - [[07 Digital Garden/5 Secret Claude Code features you need to know about\|5 Secret Claude Code features you need to know about]]
 - [[07 Digital Garden/It’s Not About Routine, but About Practice\|It’s Not About Routine, but About Practice]]
 - [[07 Digital Garden/Role of clear communication in success\|Role of clear communication in success]]
 - [[07 Digital Garden/Journal Story Prompt\|Journal Story Prompt]]
-- [[07 Digital Garden/Soreng Santi - Kuen Kuen Lueng Lueng (Black Sabbath's "Iron Man")\|Soreng Santi - Kuen Kuen Lueng Lueng (Black Sabbath's "Iron Man")]]
-- [[07 Digital Garden/Claude Code Best Practices by Anthropic Teams\|Claude Code Best Practices by Anthropic Teams]]
 
 { .block-language-dataview}
 

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/breaking-free-from-zero-sum-thinking/","tags":["evergreen"],"updated":"2025-08-02T11:42:28.622-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/breaking-free-from-zero-sum-thinking/","tags":["evergreen"],"updated":"2025-08-02T11:42:38.086-07:00"}
 ---
 
 Inspiration from [Zero Sum Thinking and the Labor Market](https://kyla.substack.com/p/zero-sum-thinking-and-the-labor-market).
-
 
 ---
 

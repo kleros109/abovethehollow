@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/07-digital-garden/lenny-s-podcast-product-growth-career-dan-shipper/","tags":["readwise","AI"],"updated":"2025-08-02T10:45:01.598-07:00"}
+{"dg-publish":true,"permalink":"/07-digital-garden/lenny-s-podcast-product-growth-career-dan-shipper/","tags":["readwise","AI"],"updated":"2025-08-02T11:43:20.300-07:00"}
 ---
 
 ## The AI-native Startup: 5 Products, 7-Figure Revenue, 100% AI-written Code | Dan Shipper
 
-![rw-book-cover](https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Ffeed%2Fpodcast%2F10845%2F6f98962f26f1b886bac3a845bb7ee00b.jpg&w=512&h=512)
+![rw-book-cover|200x200](https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Ffeed%2Fpodcast%2F10845%2F6f98962f26f1b886bac3a845bb7ee00b.jpg&w=512&h=512)
 
 - URL: https://share.snipd.com/episode/7397b803-5933-492b-8293-5f72923a8a70
 ### Summary
